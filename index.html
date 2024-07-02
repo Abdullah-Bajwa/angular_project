@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/png" href="icon/icon.png" />
+    <style>
+      /* width */
+      ::-webkit-scrollbar {
+        width: 20px;
+      }
+
+      /* Track */
+      ::-webkit-scrollbar-track {
+        background: rgba(30, 30, 0, 0.5);
+      }
+
+      /* Handle */
+      ::-webkit-scrollbar-thumb {
+        background: rgba(100, 100, 70, 0.9);
+      }
+
+      /* Handle on hover */
+      ::-webkit-scrollbar-thumb:hover {
+        background: rgba(70, 70, 40, 0.9);
+      }
+    </style>
+    <link rel="stylesheet" type="text/css" title="dark" href="css/main.css" />
+    <link href="vendors/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <!--link rel="stylesheet" href="dist/vendors/animate/animate.min.css"-->
+    <!-- Insert this line above script imports  -->
+
+    <script src="vendors/angular/angular.min.js"></script>
+    <script src="vendors/angular/angular-sanitize.min.js"></script>
+    <script src="node_modules/angucomplete-alt/angucomplete-alt.js"></script>
+    <script src="vendors/angular/angular-route.js"></script>
+    <script src="vendors/lodash/lodash.min.js"></script>
+    <script src="vendors/jquery/jquery.min.js"></script>
+    <script src="vendors/bootstrap/dist/js/bootstrap.js"></script>
+    <script
+      type="text/javascript"
+      src="vendors/dragscroll/dragscroll.js"
+    ></script>
+    <!--page Mapping-->
+    <script src="pageMapping/alphabet/unit_1/page-2.js"></script>
+    <script src="pageMapping/alphabet/unit_1/page-3.js"></script>
+    <script src="pageMapping/alphabet/unit_1/page-4.js"></script>
+    <script src="pageMapping/alphabet/unit_1/page-5.js"></script>
+    <script src="pageMapping/alphabet/unit_2/page-6.js"></script>
+    <script src="pageMapping/alphabet/unit_2/page-7.js"></script>
+    <script src="pageMapping/alphabet/unit_2/page-8.js"></script>
+    <script src="pageMapping/alphabet/unit_2/page-9.js"></script>
+    <script src="pageMapping/alphabet/unit_3/page-10.js"></script>
+    <script src="pageMapping/alphabet/unit_3/page-11.js"></script>
+    <script src="pageMapping/alphabet/unit_3/page-12.js"></script>
+    <script src="pageMapping/alphabet/unit_3/page-13.js"></script>
+    <script src="pageMapping/alphabet/unit_4/page-14.js"></script>
+    <script src="pageMapping/alphabet/unit_4/page-15.js"></script>
+    <script src="pageMapping/alphabet/unit_4/page-16.js"></script>
+    <script src="pageMapping/alphabet/unit_4/page-17.js"></script>
+    <script src="pageMapping/alphabet/unit_5/page-18.js"></script>
+    <script src="pageMapping/alphabet/unit_5/page-19.js"></script>
+    <script src="pageMapping/alphabet/unit_5/page-20.js"></script>
+    <script src="pageMapping/alphabet/unit_5/page-21.js"></script>
+    <script src="pageMapping/alphabet/unit_6/page-22.js"></script>
+    <script src="pageMapping/alphabet/unit_6/page-23.js"></script>
+    <script src="pageMapping/alphabet/unit_6/page-24.js"></script>
+    <script src="pageMapping/alphabet/unit_6/page-25.js"></script>
+    <script src="pageMapping/alphabet/unit_6/page-26.js"></script>
+    <script src="pageMapping/alphabet/unit_7/page-27.js"></script>
+    <script src="pageMapping/alphabet/unit_7/page-28.js"></script>
+    <script src="pageMapping/alphabet/unit_7/page-29.js"></script>
+
+    <script src="pageMapping/coursebook/unit_1/page-8.js"></script>
+    <script src="pageMapping/coursebook/unit_1/page-9.js"></script>
+    <script src="pageMapping/coursebook/unit_1/page-10.js"></script>
+    <script src="pageMapping/coursebook/unit_1/page-11.js"></script>
+    <script src="pageMapping/coursebook/unit_1/page-12.js"></script>
+    <script src="pageMapping/coursebook/unit_1/page-13.js"></script>
+    <script src="pageMapping/coursebook/unit_1/page-14.js"></script>
+    <script src="pageMapping/coursebook/unit_1/page-15.js"></script>
+    <script src="pageMapping/coursebook/unit_1/page-16.js"></script>
+    <script src="pageMapping/coursebook/unit_1/page-17.js"></script>
+    <script src="pageMapping/coursebook/unit_1/page-18.js"></script>
+    <script src="pageMapping/coursebook/unit_1/page-19.js"></script>
+    <script src="pageMapping/coursebook/unit_2/page-20.js"></script>
+    <script src="pageMapping/coursebook/unit_2/page-21.js"></script>
+    <script src="pageMapping/coursebook/unit_2/page-22.js"></script>
+    <script src="pageMapping/coursebook/unit_2/page-23.js"></script>
+    <script src="pageMapping/coursebook/unit_2/page-24.js"></script>
+    <script src="pageMapping/coursebook/unit_2/page-25.js"></script>
+    <script src="pageMapping/coursebook/unit_2/page-26.js"></script>
+    <script src="pageMapping/coursebook/unit_2/page-27.js"></script>
+    <script src="pageMapping/coursebook/unit_2/page-28.js"></script>
+    <script src="pageMapping/coursebook/unit_2/page-29.js"></script>
+    <script src="pageMapping/coursebook/unit_2/page-30.js"></script>
+    <script src="pageMapping/coursebook/unit_2/page-31.js"></script>
+    <script src="pageMapping/coursebook/unit_3/page-32.js"></script>
+    <script src="pageMapping/coursebook/unit_3/page-33.js"></script>
+    <script src="pageMapping/coursebook/unit_3/page-34.js"></script>
+    <script src="pageMapping/coursebook/unit_3/page-35.js"></script>
+    <script src="pageMapping/coursebook/unit_3/page-36.js"></script>
+    <script src="pageMapping/coursebook/unit_3/page-37.js"></script>
+    <script src="pageMapping/coursebook/unit_3/page-38.js"></script>
+    <script src="pageMapping/coursebook/unit_3/page-39.js"></script>
+    <script src="pageMapping/coursebook/unit_3/page-40.js"></script>
+    <script src="pageMapping/coursebook/unit_3/page-41.js"></script>
+    <script src="pageMapping/coursebook/unit_3/page-42.js"></script>
+    <script src="pageMapping/coursebook/unit_3/page-43.js"></script>
+    <script src="pageMapping/coursebook/unit_4/page-44.js"></script>
+    <script src="pageMapping/coursebook/unit_4/page-45.js"></script>
+    <script src="pageMapping/coursebook/unit_4/page-46.js"></script>
+    <script src="pageMapping/coursebook/unit_4/page-47.js"></script>
+    <script src="pageMapping/coursebook/unit_4/page-48.js"></script>
+    <script src="pageMapping/coursebook/unit_4/page-49.js"></script>
+    <script src="pageMapping/coursebook/unit_4/page-50.js"></script>
+    <script src="pageMapping/coursebook/unit_4/page-51.js"></script>
+    <script src="pageMapping/coursebook/unit_4/page-52.js"></script>
+    <script src="pageMapping/coursebook/unit_4/page-53.js"></script>
+    <script src="pageMapping/coursebook/unit_4/page-54.js"></script>
+    <script src="pageMapping/coursebook/unit_4/page-55.js"></script>
+    <script src="pageMapping/coursebook/unit_5/page-56.js"></script>
+    <script src="pageMapping/coursebook/unit_5/page-57.js"></script>
+    <script src="pageMapping/coursebook/unit_5/page-58.js"></script>
+    <script src="pageMapping/coursebook/unit_5/page-59.js"></script>
+    <script src="pageMapping/coursebook/unit_5/page-60.js"></script>
+    <script src="pageMapping/coursebook/unit_5/page-61.js"></script>
+    <script src="pageMapping/coursebook/unit_5/page-62.js"></script>
+    <script src="pageMapping/coursebook/unit_5/page-63.js"></script>
+    <script src="pageMapping/coursebook/unit_5/page-64.js"></script>
+    <script src="pageMapping/coursebook/unit_5/page-65.js"></script>
+    <script src="pageMapping/coursebook/unit_5/page-66.js"></script>
+    <script src="pageMapping/coursebook/unit_5/page-67.js"></script>
+    <script src="pageMapping/coursebook/unit_6/page-68.js"></script>
+    <script src="pageMapping/coursebook/unit_6/page-69.js"></script>
+    <script src="pageMapping/coursebook/unit_6/page-70.js"></script>
+    <script src="pageMapping/coursebook/unit_6/page-71.js"></script>
+    <script src="pageMapping/coursebook/unit_6/page-72.js"></script>
+    <script src="pageMapping/coursebook/unit_6/page-73.js"></script>
+    <script src="pageMapping/coursebook/unit_6/page-74.js"></script>
+    <script src="pageMapping/coursebook/unit_6/page-75.js"></script>
+    <script src="pageMapping/coursebook/unit_6/page-76.js"></script>
+    <script src="pageMapping/coursebook/unit_6/page-77.js"></script>
+    <script src="pageMapping/coursebook/unit_6/page-78.js"></script>
+    <script src="pageMapping/coursebook/unit_6/page-79.js"></script>
+    <script src="pageMapping/coursebook/unit_7/page-80.js"></script>
+    <script src="pageMapping/coursebook/unit_7/page-81.js"></script>
+    <script src="pageMapping/coursebook/unit_7/page-82.js"></script>
+    <script src="pageMapping/coursebook/unit_7/page-83.js"></script>
+    <script src="pageMapping/coursebook/unit_7/page-84.js"></script>
+    <script src="pageMapping/coursebook/unit_7/page-85.js"></script>
+    <script src="pageMapping/coursebook/unit_7/page-86.js"></script>
+    <script src="pageMapping/coursebook/unit_7/page-87.js"></script>
+    <script src="pageMapping/coursebook/unit_7/page-88.js"></script>
+    <script src="pageMapping/coursebook/unit_7/page-89.js"></script>
+    <script src="pageMapping/coursebook/unit_7/page-90.js"></script>
+    <script src="pageMapping/coursebook/unit_7/page-91.js"></script>
+    <script src="pageMapping/coursebook/unit_8/page-92.js"></script>
+    <script src="pageMapping/coursebook/unit_8/page-93.js"></script>
+    <script src="pageMapping/coursebook/unit_8/page-94.js"></script>
+
+    <script src="pageMapping/transcripts/unit_1/page-104.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-105.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-106.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-107.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-108.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-109.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-110.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-111.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-112.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-113.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-114.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-115.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-116.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-117.js"></script>
+    <script src="pageMapping/transcripts/unit_1/page-118.js"></script>
+
+    <script src="pageMapping/transcripts/unit_2/page-1.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-2.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-3.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-4.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-5.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-6.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-7.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-8.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-9.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-10.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-11.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-12.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-13.js"></script>
+    <script src="pageMapping/transcripts/unit_2/page-14.js"></script>
+
+    <script src="pageMapping/workbook/unit_1/page-7.js"></script>
+    <script src="pageMapping/workbook/unit_1/page-8.js"></script>
+    <script src="pageMapping/workbook/unit_1/page-9.js"></script>
+    <script src="pageMapping/workbook/unit_1/page-10.js"></script>
+    <script src="pageMapping/workbook/unit_1/page-11.js"></script>
+    <script src="pageMapping/workbook/unit_1/page-12.js"></script>
+    <script src="pageMapping/workbook/unit_1/page-13.js"></script>
+    <script src="pageMapping/workbook/unit_1/page-14.js"></script>
+
+    <script src="pageMapping/workbook/unit_2/page-15.js"></script>
+    <script src="pageMapping/workbook/unit_2/page-16.js"></script>
+    <script src="pageMapping/workbook/unit_2/page-17.js"></script>
+    <script src="pageMapping/workbook/unit_2/page-18.js"></script>
+    <script src="pageMapping/workbook/unit_2/page-19.js"></script>
+    <script src="pageMapping/workbook/unit_2/page-20.js"></script>
+    <script src="pageMapping/workbook/unit_2/page-21.js"></script>
+    <script src="pageMapping/workbook/unit_2/page-22.js"></script>
+
+    <script src="pageMapping/workbook/unit_3/page-23.js"></script>
+    <script src="pageMapping/workbook/unit_3/page-24.js"></script>
+    <script src="pageMapping/workbook/unit_3/page-25.js"></script>
+    <script src="pageMapping/workbook/unit_3/page-26.js"></script>
+    <script src="pageMapping/workbook/unit_3/page-27.js"></script>
+    <script src="pageMapping/workbook/unit_3/page-28.js"></script>
+    <script src="pageMapping/workbook/unit_3/page-29.js"></script>
+    <script src="pageMapping/workbook/unit_3/page-30.js"></script>
+
+    <script src="pageMapping/workbook/unit_4/page-31.js"></script>
+    <script src="pageMapping/workbook/unit_4/page-32.js"></script>
+    <script src="pageMapping/workbook/unit_4/page-33.js"></script>
+    <script src="pageMapping/workbook/unit_4/page-34.js"></script>
+    <script src="pageMapping/workbook/unit_4/page-35.js"></script>
+    <script src="pageMapping/workbook/unit_4/page-36.js"></script>
+    <script src="pageMapping/workbook/unit_4/page-37.js"></script>
+    <script src="pageMapping/workbook/unit_4/page-38.js"></script>
+
+    <script src="pageMapping/workbook/unit_5/page-39.js"></script>
+    <script src="pageMapping/workbook/unit_5/page-40.js"></script>
+    <script src="pageMapping/workbook/unit_5/page-41.js"></script>
+    <script src="pageMapping/workbook/unit_5/page-42.js"></script>
+    <script src="pageMapping/workbook/unit_5/page-43.js"></script>
+    <script src="pageMapping/workbook/unit_5/page-44.js"></script>
+    <script src="pageMapping/workbook/unit_5/page-45.js"></script>
+    <script src="pageMapping/workbook/unit_5/page-46.js"></script>
+
+    <script src="pageMapping/workbook/unit_6/page-47.js"></script>
+    <script src="pageMapping/workbook/unit_6/page-48.js"></script>
+    <script src="pageMapping/workbook/unit_6/page-49.js"></script>
+    <script src="pageMapping/workbook/unit_6/page-50.js"></script>
+    <script src="pageMapping/workbook/unit_6/page-51.js"></script>
+    <script src="pageMapping/workbook/unit_6/page-52.js"></script>
+    <script src="pageMapping/workbook/unit_6/page-53.js"></script>
+    <script src="pageMapping/workbook/unit_6/page-54.js"></script>
+
+    <script src="pageMapping/workbook/unit_7/page-55.js"></script>
+    <script src="pageMapping/workbook/unit_7/page-56.js"></script>
+    <script src="pageMapping/workbook/unit_7/page-57.js"></script>
+    <script src="pageMapping/workbook/unit_7/page-58.js"></script>
+    <script src="pageMapping/workbook/unit_7/page-59.js"></script>
+    <script src="pageMapping/workbook/unit_7/page-60.js"></script>
+    <script src="pageMapping/workbook/unit_7/page-61.js"></script>
+    <script src="pageMapping/workbook/unit_7/page-62.js"></script>
+
+    <script src="pageMapping/companion/unit_1/page-4.js"></script>
+    <script src="pageMapping/companion/unit_1/page-5.js"></script>
+    <script src="pageMapping/companion/unit_1/page-6.js"></script>
+    <script src="pageMapping/companion/unit_1/page-7.js"></script>
+    <script src="pageMapping/companion/unit_1/page-8.js"></script>
+    <script src="pageMapping/companion/unit_1/page-9.js"></script>
+    <script src="pageMapping/companion/unit_1/page-10.js"></script>
+    <script src="pageMapping/companion/unit_1/page-11.js"></script>
+    <script src="pageMapping/companion/unit_1/page-12.js"></script>
+    <script src="pageMapping/companion/unit_1/page-13.js"></script>
+    <script src="pageMapping/companion/unit_1/page-14.js"></script>
+    <script src="pageMapping/companion/unit_1/page-15.js"></script>
+    <script src="pageMapping/companion/unit_1/page-16.js"></script>
+
+    <script src="pageMapping/companion/unit_2/page-18.js"></script>
+    <script src="pageMapping/companion/unit_2/page-19.js"></script>
+    <script src="pageMapping/companion/unit_2/page-20.js"></script>
+    <script src="pageMapping/companion/unit_2/page-21.js"></script>
+    <script src="pageMapping/companion/unit_2/page-22.js"></script>
+    <script src="pageMapping/companion/unit_2/page-23.js"></script>
+    <script src="pageMapping/companion/unit_2/page-24.js"></script>
+    <script src="pageMapping/companion/unit_2/page-25.js"></script>
+    <script src="pageMapping/companion/unit_2/page-26.js"></script>
+    <script src="pageMapping/companion/unit_2/page-27.js"></script>
+    <script src="pageMapping/companion/unit_2/page-28.js"></script>
+
+    <script src="pageMapping/companion/unit_3/page-30.js"></script>
+    <script src="pageMapping/companion/unit_3/page-31.js"></script>
+    <script src="pageMapping/companion/unit_3/page-32.js"></script>
+    <script src="pageMapping/companion/unit_3/page-33.js"></script>
+    <script src="pageMapping/companion/unit_3/page-34.js"></script>
+    <script src="pageMapping/companion/unit_3/page-35.js"></script>
+    <script src="pageMapping/companion/unit_3/page-36.js"></script>
+    <script src="pageMapping/companion/unit_3/page-37.js"></script>
+    <script src="pageMapping/companion/unit_3/page-38.js"></script>
+    <script src="pageMapping/companion/unit_3/page-39.js"></script>
+    <script src="pageMapping/companion/unit_3/page-40.js"></script>
+
+    <script src="pageMapping/companion/unit_4/page-42.js"></script>
+    <script src="pageMapping/companion/unit_4/page-43.js"></script>
+    <script src="pageMapping/companion/unit_4/page-44.js"></script>
+    <script src="pageMapping/companion/unit_4/page-45.js"></script>
+    <script src="pageMapping/companion/unit_4/page-46.js"></script>
+    <script src="pageMapping/companion/unit_4/page-47.js"></script>
+    <script src="pageMapping/companion/unit_4/page-48.js"></script>
+    <script src="pageMapping/companion/unit_4/page-49.js"></script>
+    <script src="pageMapping/companion/unit_4/page-50.js"></script>
+    <script src="pageMapping/companion/unit_4/page-51.js"></script>
+    <script src="pageMapping/companion/unit_4/page-52.js"></script>
+
+    <script src="pageMapping/companion/unit_5/page-54.js"></script>
+    <script src="pageMapping/companion/unit_5/page-55.js"></script>
+    <script src="pageMapping/companion/unit_5/page-56.js"></script>
+    <script src="pageMapping/companion/unit_5/page-57.js"></script>
+    <script src="pageMapping/companion/unit_5/page-58.js"></script>
+    <script src="pageMapping/companion/unit_5/page-59.js"></script>
+    <script src="pageMapping/companion/unit_5/page-60.js"></script>
+    <script src="pageMapping/companion/unit_5/page-61.js"></script>
+    <script src="pageMapping/companion/unit_5/page-62.js"></script>
+    <script src="pageMapping/companion/unit_5/page-63.js"></script>
+    <script src="pageMapping/companion/unit_5/page-64.js"></script>
+
+    <script src="pageMapping/companion/unit_6/page-66.js"></script>
+    <script src="pageMapping/companion/unit_6/page-67.js"></script>
+    <script src="pageMapping/companion/unit_6/page-68.js"></script>
+    <script src="pageMapping/companion/unit_6/page-69.js"></script>
+    <script src="pageMapping/companion/unit_6/page-70.js"></script>
+    <script src="pageMapping/companion/unit_6/page-71.js"></script>
+    <script src="pageMapping/companion/unit_6/page-72.js"></script>
+    <script src="pageMapping/companion/unit_6/page-73.js"></script>
+    <script src="pageMapping/companion/unit_6/page-74.js"></script>
+    <script src="pageMapping/companion/unit_6/page-75.js"></script>
+    <script src="pageMapping/companion/unit_6/page-76.js"></script>
+
+    <script src="pageMapping/companion/unit_7/page-78.js"></script>
+    <script src="pageMapping/companion/unit_7/page-79.js"></script>
+    <script src="pageMapping/companion/unit_7/page-80.js"></script>
+    <script src="pageMapping/companion/unit_7/page-81.js"></script>
+    <script src="pageMapping/companion/unit_7/page-82.js"></script>
+    <script src="pageMapping/companion/unit_7/page-83.js"></script>
+    <script src="pageMapping/companion/unit_7/page-84.js"></script>
+    <script src="pageMapping/companion/unit_7/page-85.js"></script>
+    <script src="pageMapping/companion/unit_7/page-86.js"></script>
+    <script src="pageMapping/companion/unit_7/page-87.js"></script>
+    <script src="pageMapping/companion/unit_7/page-88.js"></script>
+
+    <script src="pageMapping/companion/unit_8/page-90.js"></script>
+    <script src="pageMapping/companion/unit_8/page-91.js"></script>
+
+    <script src="pageMapping/companion/unit_9/page-17.js"></script>
+    <script src="pageMapping/companion/unit_10/page-29.js"></script>
+    <script src="pageMapping/companion/unit_11/page-41.js"></script>
+    <script src="pageMapping/companion/unit_12/page-53.js"></script>
+    <script src="pageMapping/companion/unit_13/page-65.js"></script>
+    <script src="pageMapping/companion/unit_14/page-77.js"></script>
+    <script src="pageMapping/companion/unit_15/page-89.js"></script>
+    <script src="pageMapping/companion/unit_16/page-92.js"></script>
+    <script src="pageMapping/companion/unit_16/page-93.js"></script>
+    <script src="pageMapping/companion/unit_16/page-94.js"></script>
+
+    <script src="pageMapping/vocabulary/unit_1/page-2.js"></script>
+    <script src="pageMapping/vocabulary/unit_1/page-3.js"></script>
+    <script src="pageMapping/vocabulary/unit_2/page-4.js"></script>
+    <script src="pageMapping/vocabulary/unit_2/page-5.js"></script>
+
+    <!-- end page Mapping-->
+    <script src="data/unit-data.js"></script>
+    <script src="vocabulary/vocabData.js"></script>
+    <script type="text/javascript" src="vendors/turnjs4/lib/turn.js"></script>
+  </head>
+  <body>
+    <!--<button style="display:inline;" class="exitButton">X</button>
+</div>-->
+    <div ng-view class="mainContainer"></div>
+    <script src="app.module.js"></script>
+    <script src="src/home/home.config.js"></script>
+    <script src="src/home/home.ctrl.js"></script>
+    <script src="src/landing-page/landing-page.config.js"></script>
+    <script src="src/landing-page/landing-page.ctrl.js"></script>
+    <script src="src/book/book.config.js"></script>
+    <script src="src/book/book.ctrl.js"></script>
+    <script src="src/unit/unit.config.js"></script>
+    <script src="src/unit/unit.ctrl.js"></script>
+    <script src="directives/song-player.directive.js"></script>
+    <script src="directives/drag-exercise.js"></script>
+    <script>
+      angular.bootstrap(document, ["archer"]);
+      $(document).ready(function () {
+        $(".exitButton").click(function () {
+          win.close(true);
+        });
+      });
+    </script>
+  </body>
+</html>
