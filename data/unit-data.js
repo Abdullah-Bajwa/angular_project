@@ -27,7 +27,7 @@ var pageMappingBook1 = [
       1: "6",
       2: "8",
     },
-    pageMapping: [apb_u_2_6, apb_u_2_7, apb_u_2_8],
+    pageMapping: [apb_u_2_6, apb_u_2_7, apb_u_2_8,  apb_u_2_9],
   },
   {
     id: 3,
