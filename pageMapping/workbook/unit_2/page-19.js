@@ -1,229 +1,283 @@
 var work_u_2_19 = {
-    id: 19,
-    paths: [
-        {
-        top: 15,
-        left: 10,
-        width: 450,
-        height: 380,
-        zoom: {
-          answers: [
-            {
-              paths: [
-                {
+  id: 19,
+  paths: [
+    {
+      top: 15,
+      left: 10,
+      width: 450,
+      height: 380,
+      zoom: {
+        answers: [
+          {
+            paths: [
+              {
                 top: 110,
                 left: 200,
                 width: 210,
-                height:16,
+                height: 16,
                 type: "text",
                 text: " Αsterisk isn’t strong",
-                valid: true
-                },
-                {
-                  top: 115,
-                  left: 395,
-                  width: 10,
-                  height: 10,
-                  area: {
-                    top: 100,
-                    left: 40,
-                    width: 100,
-                    height: 30,
-                  },
-  
-                  type: "multiple",
-                  valid: false ,
-                },
-                {
-                  top: 100,
-                  left: 395,
-                  width: 10,
-                  height: 10,
-                  area: {
-                    top: 100,
-                    left: 40,
-                    width: 100,
-                    height: 30,
-                  },
-  
-                  type: "multiple",
-                  valid: true,
-                },
-                {
-                  top: 170,
-                  left: 0,
-                  width: 240,
-                  height:20,
-                  type: "text",
-                  text: "Helen and Ann are'nt friends",
-                  valid: true
-                  },
-                  {
-                    top: 220,
-                    left: 195,
-                    width: 10,
-                    height: 10,
-                    area: {
-                      top: 100,
-                      left: 40,
-                      width: 100,
-                      height: 30,
-                    },
-    
-                    type: "multiple",
-                    valid: true,
-                  },
-                  {
-                    top: 235,
-                    left: 195,
-                    width: 10,
-                    height: 10,
-                    area: {
-                      top: 100,
-                      left: 40,
-                      width: 100,
-                      height: 30,
-                    },
-    
-                    type: "multiple",
-                    valid: true,
-                  },
-                  {
-                    top: 230,
-                    left: 200,
-                    width: 230,
-                    height:16,
-                    type: "text",
-                    text: "",
-                    valid: true
-                    },
-                    {
-                      top: 220,
-                      left: 395,
-                      width: 10,
-                      height: 10,
-                      area: {
-                        top: 100,
-                        left: 40,
-                        width: 100,
-                        height: 30,
-                      },
-      
-                      type: "multiple",
-                      valid: false,
-                    },
-                    {
-                      top: 235,
-                      left: 395,
-                      width: 10,
-                      height: 10,
-                      area: {
-                        top: 100,
-                        left: 40,
-                        width: 100,
-                        height: 30,
-                      },
-      
-                      type: "multiple",
-                      valid: false,
-                    },
-                    {
-                      top: 325,
-                      left: 2,
-                      width: 240,
-                      height:16,
-                      type: "text",
-                      text: "",
-                      valid: true
-                      },
-                      {
-                        top: 315,
-                        left: 195,
-                        width: 10,
-                        height: 10,
-                        area: {
-                          top: 100,
-                          left: 40,
-                          width: 100,
-                          height: 30,
-                        },
-        
-                        type: "multiple",
-                        valid: false,
-                      },
-                      {
-                        top: 320,
-                        left: 195,
-                        width: 10,
-                        height: 10,
-                        area: {
-                          top: 100,
-                          left: 40,
-                          width: 100,
-                          height: 30,
-                        },
-        
-                        type: "multiple",
-                        valid: false,
-                      },
-                      {
-                        top: 320,
-                        left: 190,
-                        width: 240,
-                        height:16,
-                        type: "text",
-                        text: "",
-                        valid: true
-                        },
-                        {
-                          top: 315,
-                          left: 395,
-                          width: 10,
-                          height: 10,
-                          area: {
-                            top: 100,
-                            left: 40,
-                            width: 100,
-                            height: 30,
-                          },
-          
-                          type: "multiple",
-                          valid: false,
-                        },
-                        {
-                          top: 325,
-                          left: 395,
-                          width: 10,
-                          height: 10,
-                          area: {
-                            top: 100,
-                            left: 40,
-                            width: 100,
-                            height: 30,
-                          },
-          
-                          type: "multiple",
-                          valid: false,
-                        },
-              ],
+                valid: true,
               },
-           
-           
-          ],
-        },
-      },
-       
-        {
-          top: 400,
-          left: 8,
-          width: 450,
-          height: 200,
-          zoom: {
-            answers: [
-             
+              {
+                top: 115,
+                left: 395,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+              {
+                top: 100,
+                left: 395,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
+              {
+                top: 200,
+                left: 0,
+                width: 300,
+                height: 20,
+                type: "text",
+                text: "Helen and Ann are'nt friends",
+                valid: true,
+              },
+              {
+                top: 195,
+                left: 195,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+              {
+                top: 210,
+                left: 195,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
+              {
+                top: 200,
+                left: 200,
+                width: 270,
+                height: 16,
+                type: "text",
+                text: "They αren’t red αnd yellow",
+                valid: true,
+              },
+              {
+                top: 195,
+                left: 395,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+              {
+                top: 210,
+                left: 395,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
+              {
+                top: 290,
+                left: 2,
+                width: 240,
+                height: 16,
+                type: "text",
+                text: "He isn't very young",
+                valid: true,
+              },
+              {
+                top: 280,
+                left: 195,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
+              {
+                top: 295,
+                left: 195,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+              {
+                top: 360,
+                left: 110,
+                width: 240,
+                height: 16,
+                type: "text",
+                text: "We αren’t tαll",
+                valid: true,
+              },
+              {
+                top: 347,
+                left: 303,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+              {
+                top: 365,
+                left: 303,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
             ],
           },
-        },
-        
-      ],
-    };
+        ],
+      },
+    },
+
+    {
+      top: 400,
+      left: 8,
+      width: 450,
+      height: 200,
+      zoom: {
+        answers: [
+          {
+            paths: [
+              {
+                top: 85,
+                left: 90,
+                width: 20,
+                height: 16,
+                type: "text",
+                text: " big",
+                valid: true,
+              },
+              {
+                top: 105,
+                left: 80,
+                width: 20,
+                height: 16,
+                type: "text",
+                text: "isn't",
+                valid: true,
+              },
+              {
+                top: 125,
+                left: 90,
+                width: 20,
+                height: 16,
+                type: "text",
+                text: "good",
+                valid: true,
+              },
+              {
+                top: 145,
+                left: 90,
+                width: 20,
+                height: 16,
+                type: "text",
+                text: "are",
+                valid: true,
+              },
+              {
+                top: 165,
+                left: 70,
+                width: 150,
+                height: 16,
+                type: "text",
+                text: " ",
+                valid: true,
+              },
+              {
+                top: 185,
+                left: 70,
+                width: 150,
+                height: 16,
+                type: "text",
+                text: " ",
+                valid: true,
+              },
+            ],
+          },
+        ],
+      },
+    },
+  ],
+};
