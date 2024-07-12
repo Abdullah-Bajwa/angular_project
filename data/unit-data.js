@@ -121,7 +121,7 @@ var pageMappingBook2 = [
     revision: false,
     pageStart: "6",
     pageEnd: "9",
-    pageMapping: [work_u_1_7, work_u_1_8],
+    pageMapping: [cou_u_1_6, cou_u_1_7,cou_u_1_8,cou_u_1_9],
   },
   {
     id: 2,
@@ -146,16 +146,9 @@ var pageMappingBook2 = [
     },
     pageStart: "10",
     pageEnd: "29",
-    pageMapping: [
-      work_u_2_15,
-      work_u_2_16,
-      work_u_2_17,
-      work_u_2_18,
-      work_u_2_19,
-      work_u_2_20,
-      work_u_2_21,
-      work_u_2_22,
-    ],
+    pageMapping: [ cou_u_2_10,cou_u_2_11, cou_u_2_12,cou_u_2_13, cou_u_2_14,cou_u_2_15, cou_u_2_16,cou_u_2_17,cou_u_2_18,cou_u_2_19,cou_u_2_20,cou_u_2_21
+      ,cou_u_2_22,cou_u_2_23,cou_u_2_24,cou_u_2_25,cou_u_2_27,cou_u_2_28,cou_u_2_29
+      ],
   },
   {
     id: 3,
@@ -178,16 +171,9 @@ var pageMappingBook2 = [
     },
     pageStart: "30",
     pageEnd: "49",
-    pageMapping: [
-      work_u_3_23,
-      work_u_3_24,
-      work_u_3_25,
-      work_u_3_26,
-      work_u_3_27,
-      work_u_3_28,
-      work_u_3_29,
-      work_u_3_30,
-    ],
+    pageMapping: [ cou_u_3_30,cou_u_3_31,cou_u_3_32,cou_u_3_33,cou_u_3_34,cou_u_3_35,cou_u_3_36,cou_u_3_37,cou_u_3_38,cou_u_3_39,cou_u_3_40,
+      cou_u_3_41,cou_u_3_42,cou_u_3_43,cou_u_3_44,cou_u_3_45,cou_u_3_46,cou_u_3_47,cou_u_3_48,cou_u_3_49
+     ],
   },
   {
     id: 4,
@@ -215,15 +201,9 @@ var pageMappingBook2 = [
     },
     pageStart: "50",
     pageEnd: "77",
-    pageMapping: [
-      work_u_4_31,
-      work_u_4_32,
-      work_u_4_33,
-      work_u_4_34,
-      work_u_4_35,
-      work_u_4_36,
-      work_u_4_37,
-      work_u_4_38,
+    pageMapping: [ cou_u_4_50,cou_u_4_51,cou_u_4_52,cou_u_4_53,cou_u_4_54,cou_u_4_55,cou_u_4_56,cou_u_4_57,cou_u_4_58,cou_u_4_59,cou_u_4_60,
+      cou_u_4_61,cou_u_4_62,cou_u_4_63,cou_u_4_64,cou_u_4_65,cou_u_4_66,cou_u_4_67,cou_u_4_68,cou_u_4_69,cou_u_4_70,cou_u_4_71,cou_u_4_72,cou_u_4_73,
+      cou_u_4_74,cou_u_4_75,cou_u_4_76,cou_u_4_77
     ],
   },
   {
@@ -238,15 +218,7 @@ var pageMappingBook2 = [
     },
     pageStart: "78",
     pageEnd: "83",
-    pageMapping: [
-      work_u_5_39,
-      work_u_5_40,
-      work_u_5_41,
-      work_u_5_42,
-      work_u_5_43,
-      work_u_5_44,
-      work_u_5_45,
-      work_u_5_46,
+    pageMapping: [cou_u_5_78,cou_u_5_79,cou_u_5_80,cou_u_5_81,cou_u_5_82,cou_u_5_83
     ],
   },
 ];
@@ -265,8 +237,8 @@ var pageMappingBook3 = [
     revision: false,
     relevantBooks: [1],
     pageStart: "5",
-    pageEnd: "8",
-    pageMapping: [comp_u_1_4, comp_u_1_5, comp_u_1_6, comp_u_1_7],
+    pageEnd: "14",
+    pageMapping: [work_u_1_4,work_u_1_5,work_u_1_6,work_u_1_7,work_u_1_8,work_u_1_9,work_u_1_10,work_u_1_11,work_u_1_12,work_u_1_13,work_u_1_14],
   },
   {
     id: 2,
@@ -291,9 +263,11 @@ var pageMappingBook3 = [
       14: "36",
     },
 
-    pageStart: "9",
+    pageStart: "15",
     pageEnd: "37",
-    pageMapping: [comp_u_9_17],
+    pageMapping: [work_u_2_15,work_u_2_16,work_u_2_17,work_u_2_18,work_u_2_19,work_u_2_20,work_u_2_21,
+      work_u_2_22,work_u_2_23,work_u_2_24,work_u_2_25,work_u_2_26,work_u_2_27,work_u_2_28,work_u_2_29,work_u_2_30,work_u_2_31,
+    work_u_2_32,work_u_2_33,work_u_2_34,work_u_2_35,work_u_2_36,work_u_2_37],
   },
   {
     id: 3,
@@ -317,18 +291,10 @@ var pageMappingBook3 = [
     relevantBooks: [1],
     pageStart: "38",
     pageEnd: "61",
-    pageMapping: [
-      comp_u_2_18,
-      comp_u_2_19,
-      comp_u_2_20,
-      comp_u_2_21,
-      comp_u_2_22,
-      comp_u_2_23,
-      comp_u_2_24,
-      comp_u_2_25,
-      comp_u_2_26,
-      comp_u_2_27,
-      comp_u_2_28,
+    pageMapping: [work_u_3_38,work_u_3_39,work_u_3_40,work_u_3_41,work_u_3_42,work_u_3_43,work_u_3_44,work_u_3_45,work_u_3_46,
+      work_u_3_47,work_u_3_48,work_u_3_49,work_u_3_50,work_u_3_51,work_u_3_52,work_u_3_53,work_u_3_54,work_u_3_55,work_u_3_56,work_u_3_57,
+      work_u_3_58,work_u_3_59,work_u_3_60,work_u_3_61
+     
     ],
   },
   {
@@ -358,7 +324,11 @@ var pageMappingBook3 = [
     relevantBooks: [2],
     pageStart: "62",
     pageEnd: "97",
-    pageMapping: [comp_u_10_29],
+    pageMapping: [work_u_4_62,work_u_4_63,work_u_4_64,work_u_4_65,work_u_4_66,work_u_4_67,work_u_4_68,work_u_4_69,work_u_4_70,work_u_4_71,
+      work_u_4_72,work_u_4_73,work_u_4_74,work_u_4_75,work_u_4_76,work_u_4_77,work_u_4_78,work_u_4_79,work_u_4_80,work_u_4_81,work_u_4_82,
+      work_u_4_83,work_u_4_84,work_u_4_85,work_u_4_86,work_u_4_87,work_u_4_88,work_u_4_89,work_u_4_90,work_u_4_91,work_u_4_92,
+      work_u_4_93,work_u_4_94,work_u_4_95,work_u_4_96,work_u_4_97
+    ],
   },
   {
     id: 5,
@@ -373,18 +343,8 @@ var pageMappingBook3 = [
     relevantBooks: [1],
     pageStart: "98",
     pageEnd: "104",
-    pageMapping: [
-      comp_u_3_30,
-      comp_u_3_31,
-      comp_u_3_32,
-      comp_u_3_33,
-      comp_u_3_34,
-      comp_u_3_35,
-      comp_u_3_36,
-      comp_u_3_37,
-      comp_u_3_38,
-      comp_u_3_39,
-      comp_u_3_40,
+    pageMapping: [work_u_5_98,work_u_5_99,work_u_5_100,work_u_5_101,work_u_5_101,work_u_5_102,work_u_5_103,work_u_5_104
+     
     ],
   },
 ];
@@ -633,7 +593,7 @@ var pageMappingBook6 = [
     },
     pageStart: "7",
     pageEnd: "8",
-    pageMapping: [cou_u_4_44, cou_u_4_45],
+    pageMapping: [],
   },
   {
     id: 5,
@@ -648,7 +608,7 @@ var pageMappingBook6 = [
     },
     pageStart: "9",
     pageEnd: "10",
-    pageMapping: [cou_u_5_56, cou_u_5_57],
+    pageMapping: [],
   },
   {
     id: 6,
@@ -663,7 +623,7 @@ var pageMappingBook6 = [
     },
     pageStart: "11",
     pageEnd: "12",
-    pageMapping: [cou_u_6_68, cou_u_6_69],
+    pageMapping: [],
   },
   {
     id: 7,
@@ -679,7 +639,7 @@ var pageMappingBook6 = [
     },
     pageStart: "13",
     pageEnd: "14",
-    pageMapping: [cou_u_7_80, cou_u_7_81],
+    pageMapping: [],
   },
 ];
 

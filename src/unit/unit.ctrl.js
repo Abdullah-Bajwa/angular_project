@@ -423,8 +423,9 @@
 
                     _.each($scope.currentAnswers, function (answer) {
                         if (answer.type === 'multiple') {
-                            answer.width = 9;
+                            //answer.width = 9;
                            // answer.left = answer.left- 1;
+                           console.log("skipping multple type size adjustment")
                         }
                     });
 

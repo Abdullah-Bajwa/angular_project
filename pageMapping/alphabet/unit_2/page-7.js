@@ -2,20 +2,20 @@ var apb_u_2_7 = {
   id: 7,
   paths: [
     {
-      top: 317,
-      left: 8,
+      top: 350,
+      left: 10,
       width: 450,
-      height: 269,
+      height: 250,
       zoom: {
         answers: [
         ],
       },
     },
     {
-      top: 10,
-      left: 8,
+      top: 7,
+      left: 10,
       width: 450,
-      height: 317,
+      height: 337,
       zoom: {
         answers: [
         ],

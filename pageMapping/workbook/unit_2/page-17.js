@@ -2,523 +2,171 @@ var work_u_2_17 = {
 	id: 17,
 	paths: [
 		{
-			top: 20,
-			left: 29,
-			width: 420,
-			height: 350,
-				zoom:{
-					answers:[
-
-
-						//{		//MCQ1
-							//paths:[
-
-
-
-						
-
-						//]},
-						{		//MCQ2
-							paths:[
-
-
-									{
-										top: 247,
-										left: 60,
-										width: 6,
-			                            area: {
-											top: 247,
-											left: 60,
-			                                width: 30,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},
-									{
-										top: 247,
-										left: 138,
-										width: 6,
-			                            area: {
-											top: 247,
-											left: 138,
-			                                width: 30,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: true
-									},{
-										top: 247,
-										left: 216,
-										width: 6,
-			                            area: {
-											top: 247,
-											left: 216,
-			                                width: 40,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},{
-										top: 247,
-										left: 295,
-										width: 6,
-			                            area: {
-											top: 247,
-											left: 295,
-			                                width: 40,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},
-
-
-
-						
-
-						]},
-						{		//MCQ3
-							paths:[
-
-
-									{
-										top: 261,
-										left: 60,
-										width: 6,
-			                            area: {
-											top: 261,
-											left: 60,
-			                                width: 30,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},
-									{
-										top: 261,
-										left: 138,
-										width: 6,
-			                            area: {
-											top: 261,
-											left: 138,
-			                                width: 40,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},{
-										top: 261,
-										left: 216,
-										width: 6,
-			                            area: {
-											top: 261,
-											left: 216,
-			                                width: 40,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: true
-									},{
-										top: 261,
-										left: 295,
-										width: 6,
-			                            area: {
-											top: 261,
-											left: 295,
-			                                width: 25,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},
-
-
-
-
-						
-
-						]},
-						{		//MCQ4
-							paths:[
-
-
-
-										{
-										top: 275,
-										left: 60,
-										width: 6,
-			                            area: {
-											top: 275,
-											left: 60,
-			                                width: 20,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: true
-									},
-									{
-										top: 275,
-										left: 138,
-										width: 6,
-			                            area: {
-											top: 275,
-											left: 138,
-			                                width: 20,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},{
-										top: 275,
-										left: 216,
-										width: 6,
-			                            area: {
-											top: 275,
-											left: 216,
-			                                width: 20,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},{
-										top: 275,
-										left: 295,
-										width: 6,
-			                            area: {
-											top: 275,
-											left: 295,
-			                                width: 20,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},
-
-
-
-
-						
-
-						]},
-						{		//MCQ5
-							paths:[
-
-
-									{
-										top: 289,
-										left: 60,
-										width: 6,
-			                            area: {
-											top: 289,
-											left: 60,
-			                                width: 23,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},
-									{
-										top: 289,
-										left: 138,
-										width: 6,
-			                            area: {
-											top: 289,
-											left: 138,
-			                                width: 30,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},{
-										top: 289,
-										left: 216,
-										width: 6,
-			                            area: {
-											top: 289,
-											left: 216,
-			                                width: 23,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},{
-										top: 289,
-										left: 295,
-										width: 6,
-			                            area: {
-											top: 289,
-											left: 295,
-			                                width: 23,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: true
-									},
-
-
-
-
-						
-
-						]},
-						{		//MCQ6
-							paths:[
-
-
-											{
-										top: 304,
-										left: 60,
-										width: 6,
-			                            area: {
-											top: 304,
-											left: 60,
-			                                width: 30,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},
-									{
-										top: 304,
-										left: 138,
-										width: 6,
-			                            area: {
-											top: 304,
-											left: 138,
-			                                width:40,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},{
-										top: 304,
-										left: 216,
-										width: 6,
-			                            area: {
-											top: 304,
-											left: 216,
-			                                width: 55,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},{
-										top: 304,
-										left: 295,
-										width: 6,
-			                            area: {
-											top: 304,
-											left: 295,
-			                                width: 45,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: true
-									},
-
-
-
-
-						
-
-						]},
-						{		//MCQ7
-							paths:[
-
-
-									{
-										top: 318,
-										left: 60,
-										width: 6,
-			                            area: {
-											top: 318,
-											left: 60,
-			                                width: 30,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},
-									{
-										top: 318,
-										left: 138,
-										width: 6,
-			                            area: {
-											top: 318,
-											left: 138,
-			                                width: 20,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},{
-										top: 318,
-										left: 216,
-										width: 6,
-			                            area: {
-											top: 318,
-											left: 216,
-			                                width: 40,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: true
-									},{
-										top: 318,
-										left: 295,
-										width: 6,
-			                            area: {
-											top: 318,
-											left: 295,
-			                                width: 40,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},
-
-
-
-
-						
-
-						]},
-						{		//MCQ8
-							paths:[
-
-
-
-									{
-										top: 333,
-										left: 60,
-										width: 6,
-			                            area: {
-											top: 333,
-											left: 60,
-			                                width: 50,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},
-									{
-										top: 333,
-										left: 138,
-										width: 6,
-			                            area: {
-											top: 333,
-											left: 138,
-			                                width: 50,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: true
-									},{
-										top: 333,
-										left: 216,
-										width: 6,
-			                            area: {
-											top: 333,
-											left: 216,
-			                                width: 40,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},{
-										top: 333,
-										left: 295,
-										width: 6,
-			                            area: {
-											top: 333,
-											left: 295,
-			                                width: 30,
-			                                height: 8
-			                            },
-										type: "multiple",
-										valid: false
-									},
-
-
-
-
-						
-
-						]},
-
-
-					]
-				}
-
-
+		top: 15,
+		left: 10,
+		width: 450,
+		height: 180,
+		zoom: {
+		  answers: [
+			{
+                paths: [
+                  {
+                    top: 85,
+                    left: 190,
+                    width: 100,
+                    height:16,
+                    type: "text",
+                    text: " they're tall",
+                    valid: true
+                  },
+                  {
+                    top: 105,
+                    left: 180,
+                    width: 150,
+                    height:16,
+                    type: "text",
+                    text: " you're young",
+                    valid: true
+                  },
+				  {
+                    top: 125,
+                    left: 180,
+                    width: 150,
+                    height:16,
+                    type: "text",
+                    text: " They're ill",
+                    valid: true
+                  },
+				  {
+                    top: 140,
+                    left: 180,
+                    width: 150,
+                    height:16,
+                    type: "text",
+                    text: " They're big",
+                    valid: true
+                  },
+				  {
+                    top: 160,
+                    left: 180,
+                    width: 150,
+                    height:16,
+                    type: "text",
+                    text: " we're thin",
+                    valid: true
+                  },
+                ],
+              },
+		   
+		  ],
 		},
+	  },
+	   
 		{
-			top: 370,
-			left: 30,
-			width: 420,
-			height: 200,
-
-				zoom:{
-						answers:[
-
-						{
-							paths:[
-
-								{
-									top: 78,
-									left: 65,
-									width: 150,
-									height: 7,
-									type: "text",
-									text: "can I find out",
-									valid: true
-								},
-								{
-									top: 102,
-									left: 57,
-									width: 185,
-									height: 7,
-									type: "text",
-									text: "tied him up",
-									valid: true
-								},
-								{
-									top: 127,
-									left: 45,
-									width: 150,
-									height: 7,
-									type: "text",
-									text: "got my money back",
-									valid: true
-								},
-								{
-									top: 152,
-									left: 58,
-									width: 225,
-									height: 7,
-									type: "text",
-									text: "did you find out (that)",
-									valid: true
-								},
-								{
-									top: 176,
-									left: 50,
-									width: 220,
-									height: 7,
-									type: "text",
-									text: "went on talking even",
-									valid: true
-								}
-
-
-
-							]
-						}
-
-
-						]
-				}
-		}
-	]
-};
+		  top: 200,
+		  left: 8,
+		  width: 450,
+		  height: 380,
+		  zoom: {
+			answers: [
+				{
+					paths: [
+					  {
+						top: 90,
+						left: 180,
+						width: 100,
+						height:16,
+						type: "text",
+						text: " It is green",
+						valid: true
+					  },
+					  {
+						top: 95,
+						left: 300,
+						width: 150,
+						height:16,
+						type: "text",
+						text: " He is happy",
+						valid: true
+					  },
+					  {
+						top: 177,
+						left: 20,
+						width: 200,
+						height:16,
+						type: "text",
+						text: " They are new",
+						valid: true
+					  },
+					  {
+						top: 177,
+						left: 130,
+						width: 200,
+						height:16,
+						type: "text",
+						text: "It is slow",
+						valid: true
+					  },
+					  {
+						top: 177,
+						left: 280,
+						width: 200,
+						height:16,
+						type: "text",
+						text: " They are new",
+						valid: true
+					  },
+					  {
+						top: 270,
+						left: 160,
+						width: 240,
+						height:16,
+						type: "text",
+						text: "we are happy boys",
+						valid: true
+					  },
+					  {
+						top: 290,
+						left: 160,
+						width: 240,
+						height:16,
+						type: "text",
+						text: "They are balck dogs",
+						valid: true
+					  },
+					  {
+						top: 310,
+						left: 160,
+						width: 240,
+						height:16,
+						type: "text",
+						text: "You are beautiful girls",
+						valid: true
+					  },
+					  {
+						top: 330,
+						left: 160,
+						width: 240,
+						height:16,
+						type: "text",
+						text: "They are good dentists",
+						valid: true
+					  },
+					  {
+						top: 350,
+						left: 160,
+						width: 240,
+						height:16,
+						type: "text",
+						text: "They are young nurses",
+						valid: true
+					  },
+					],
+				  },
+			 
+			],
+		  },
+		},
+		
+	  ],
+	};

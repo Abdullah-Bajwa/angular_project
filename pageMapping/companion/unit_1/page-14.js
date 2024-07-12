@@ -4,7 +4,7 @@ var comp_u_1_14 = {
         {
             top: 20,
             left: 4,
-            width: 450,
-            height: 570,
+            width: 400,
+            height: 500,
         }]
 }

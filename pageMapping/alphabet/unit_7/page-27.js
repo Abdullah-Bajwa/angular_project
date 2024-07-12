@@ -2,10 +2,10 @@ var apb_u_7_27 = {
   id: 27,
   paths: [
     {
-      top: 317,
+      top: 390,
       left: 8,
       width: 450,
-      height: 269,
+      height: 210,
       zoom: {
         answers: [
          
@@ -16,7 +16,7 @@ var apb_u_7_27 = {
       top: 10,
       left: 8,
       width: 450,
-      height: 317,
+      height: 375,
       zoom: {
         answers: [
          

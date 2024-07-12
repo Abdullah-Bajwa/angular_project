@@ -2,10 +2,10 @@ var apb_u_6_26 = {
   id: 26,
   paths: [
     {
-      top: 317,
+      top: 360,
       left: 8,
       width: 450,
-      height: 269,
+      height: 240,
       zoom: {
         answers: [
          
@@ -13,10 +13,10 @@ var apb_u_6_26 = {
       },
     },
     {
-      top: 10,
+      top: 15,
       left: 8,
       width: 450,
-      height: 317,
+      height: 350,
       zoom: {
         answers: [
          

@@ -1,1016 +1,462 @@
 var work_u_1_5 = {
 	id: 5,
-		paths: [
-	{
-		top: 25,
-		left: 8,
-		width: 450,
-		height: 324,
-		zoom: {
-			answers: [
-				{
-					paths: [
-						{
-							top: 34,
-							left: 277,
-							width: 8,
-                            area: {
-                                top: 34,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-							type: "multiple",
-							valid: false
-						},
-						{
-							top: 44,
-							left: 277,
-							width: 8,
-                            area: {
-                                top: 44,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-							type: "multiple",
-							valid: false
-						},
-						{
-							top: 34,
-							left: 332,
-							width: 8,
-                            area: {
-                                top: 34,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-							type: "multiple",
-							valid: true
-						},
-						{
-							top: 44,
-							left: 332,
-							width: 8,
-                            area: {
-                                top: 44,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-							type: "multiple",
-							valid: false
-						}
-					]
-				},
-				{
-					paths: [
-						{
-							top: 73,
-							left: 276,
-							width: 8,
-                            area: {
-                                top: 73,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-							type: "multiple",
-							valid: false
-						},
-						{
-							top: 83,
-							left: 276,
-							width: 8,
-                            area: {
-                                top: 83,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-							type: "multiple",
-							valid: true
-						},
-						{
-							top: 73,
-							left: 332,
-							width: 8,
-                            area: {
-                                top: 73,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-							type: "multiple",
-							valid: false
-						},
-						{
-							top: 83,
-							left: 332,
-							width: 8,
-                            area: {
-                                top: 83,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-							type: "multiple",
-							valid: false
-						}
-					]
-				},
-				{
-                    paths: [
-                        {
-                            top: 110,
-                            left: 276,
-                            width: 8,
-                            area: {
-                                top: 110,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 120,
-                            left: 276,
-                            width: 8,
-
-                            area: {
-                                top: 120,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 110,
-                            left: 332,
-                            width: 8,
-                            area: {
-                                top: 110,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: true
-                        },
-                        {
-                            top: 120,
-                            left: 332,
-                            width: 8,
-                            area: {
-                                top: 120,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        }
-					]
-				},
-                {
-                    paths: [
-                        {
-                            top: 149,
-                            left: 276,
-                            width: 8,
-                            area: {
-                                top: 149,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 159,
-                            left: 276,
-                            width: 8,
-                            area: {
-                                top: 159,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 149,
-                            left: 332,
-                            width: 8,
-                            area: {
-                                top: 149,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 159,
-                            left: 332,
-                            width: 8,
-                            area: {
-                                top: 159,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: true
-                        }
-                    ]
-                },
-                {
-                    paths: [
-                        {
-                            top: 187,
-                            left: 276,
-                            width: 8,
-                            area: {
-                                top: 187,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: true
-                        },
-                        {
-                            top: 197,
-                            left: 276,
-                            width: 8,
-                            area: {
-                                top: 197,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 187,
-                            left: 332,
-                            width: 8,
-                            area: {
-                                top: 187,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 197,
-                            left: 332,
-                            width: 8,
-                            area: {
-                                top: 197,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        }
-                    ]
-                },
-                {
-                    paths: [
-                        {
-                            top: 225,
-                            left: 277,
-                            width: 8,
-                            area: {
-                                top: 225,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: true
-                        },
-                        {
-                            top: 235,
-                            left: 277,
-                            width: 8,
-                            area: {
-                                top: 235,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 225,
-                            left: 332,
-                            width: 8,
-
-                            area: {
-                                top: 225,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 235,
-                            left: 332,
-                            width: 8,
-                            area: {
-                                top: 235,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        }
-                    ]
-                },
-                {
-                    paths: [
-                        {
-                            top: 263,
-                            left: 277,
-                            width: 8,
-                            area: {
-                                top: 263,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 273,
-                            left: 277,
-                            width: 8,
-                            area: {
-                                top: 273,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: true
-                        },
-                        {
-                            top: 263,
-                            left: 332,
-                            width: 8,
-                            area: {
-                                top: 263,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 273,
-                            left: 332,
-                            width: 8,
-                            area: {
-                                top: 273,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        }
-                    ]
-                },
-                {
-                    paths: [
-                        {
-                            top: 302,
-                            left: 277,
-                            width: 8,
-                            area: {
-                                top: 302,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 312,
-                            left: 277,
-                            width: 8,
-                            area: {
-                                top: 312,
-                                left: 277,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 302,
-                            left: 332,
-                            width: 8,
-                            area: {
-                                top: 302,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: true
-                        },
-                        {
-                            top: 312,
-                            left: 332,
-                            width: 8,
-                            area: {
-                                top: 312,
-                                left: 332,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: false
-                        }
-                    ]
-                },
-            ]
-        }
-                
-	},
+    paths: [
+        {
+        top: 15,
+        left: 10,
+        width: 450,
+        height: 395,
+        zoom: {
+          answers: [
             {
-                top: 345,
-                left: 9,
-                width: 425,
-                height: 250,
-                zoom: {
-                    answers: [
+              paths: [
                 {
-                    paths: [
-                        {
-                            top: 55,
-                            left: 90,
-                            width: 8,
-                            area: {
-                                top: 55,
-                                left: 90,
-                                width: 40,
-                                height: 8
-                            },
-
-                            type: "multiple",
-                            valid: true
-                        },
-                        {
-                            top: 55,
-                            left: 177,
-                            width: 8,
-                            area: {
-                                top: 55,
-                                left: 177,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 55,
-                            left: 265,
-                            width: 8,
-                            area: {
-                                top: 55,
-                                left: 265,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 55,
-                            left: 353,
-                            width: 8,
-                            area: {
-                                top: 55,
-                                left: 353,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        }
-                    ]
+                  top: 110,
+                  left: 65,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "a",
+                  valid: true
                 },
                 {
-                    paths: [
-                        {
-                            top: 76,
-                            left: 89,
-                            width: 8,
-                            area: {
-                                top: 76,
-                                left: 90,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 76,
-                            left: 177,
-                            width: 8,
-                            area: {
-                                top: 76,
-                                left: 177,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: true
-                        },
-                        {
-                            top: 76,
-                            left: 265,
-                            width: 8,
-                            area: {
-                                top: 76,
-                                left: 265,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 76,
-                            left: 353,
-                            width: 8,
-                            area: {
-                                top: 76,
-                                left: 353,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        }
-                    ]
+                  top: 130,
+                  left: 65,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "a",
+                  valid: true
                 },
                 {
-                    paths: [
-                        {
-                            top: 97,
-                            left: 90,
-                            width: 8,
-                            area: {
-                                top: 97,
-                                left: 90,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 97,
-                            left: 177,
-                            width: 8,
-                            area: {
-                                top: 97,
-                                left: 177,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 97,
-                            left: 265,
-                            width: 8,
-                            area: {
-                                top: 97,
-                                left: 265,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 97,
-                            left: 353,
-                            width: 8,
-                            area: {
-                                top: 97,
-                                left: 353,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: true
-                        }
-                    ]
+                  top: 95,
+                  left: 245,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "a",
+                  valid: true
                 },
                 {
-                    paths: [
-                        {
-                            top:118,
-                            left: 90,
-                            width: 8,
-                            area: {
-                                top: 118,
-                                left: 90,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 118,
-                            left: 177,
-                            width: 8,
-                            area: {
-                                top: 118,
-                                left: 177,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 118,
-                            left: 265,
-                            width: 8,
-                            area: {
-                                top: 118,
-                                left: 265,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: true
-                        },
-                        {
-                            top: 118,
-                            left: 352,
-                            width: 8,
-                            area: {
-                                top: 118,
-                                left: 352,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        }
-                    ]
+                  top: 95,
+                  left: 315,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "an",
+                  valid: true
                 },
                 {
-                    paths: [
-                        {
-                            top: 139,
-                            left: 90,
-                            width: 8,
-                            area: {
-                                top: 139,
-                                left: 90,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 139,
-                            left: 177,
-                            width: 8,
-                            area: {
-                                top: 139,
-                                left: 177,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 139,
-                            left: 265,
-                            width: 8,
-                            area: {
-                                top: 139,
-                                left: 265,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 139,
-                            left: 353,
-                            width: 8,
-                            area: {
-                                top: 139,
-                                left: 353,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: true
-                        }
-                    ]
+                  top: 110,
+                  left: 245,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "a",
+                  valid: true
                 },
                 {
-                    paths: [
-                        {
-                            top: 160,
-                            left: 90,
-                            width: 8,
-                            area: {
-                                top: 160,
-                                left: 90,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 160,
-                            left: 177,
-                            width: 8,
-                            area: {
-                                top: 160,
-                                left: 177,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: true
-                        },
-                        {
-                            top: 160,
-                            left: 265,
-                            width: 8,
-                            area: {
-                                top: 160,
-                                left: 265,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 160,
-                            left: 352,
-                            width: 8,
-                            area: {
-                                top: 160,
-                                left: 352,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        }
-                    ]
+                  top: 110,
+                  left: 315,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "a",
+                  valid: true
                 },
                 {
-                    paths: [
-                        {
-                            top: 181,
-                            left: 90,
-                            width: 8,
-                            area: {
-                                top: 181,
-                                left: 90,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 181,
-                            left: 178,
-                            width: 8,
-                            area: {
-                                top: 181,
-                                left: 178,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: true
-                        },
-                        {
-                            top: 181,
-                            left: 265,
-                            width: 8,
-                            area: {
-                                top: 181,
-                                left: 265,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 181,
-                            left: 352,
-                            width: 8,
-                            area: {
-                                top: 181,
-                                left: 352,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        }
-                    ]
+                  top: 130,
+                  left: 245,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "an",
+                  valid: true
                 },
                 {
-                    paths: [
-                        {
-                            top: 202,
-                            left: 90,
-                            width: 8,
-                            area: {
-                                top: 202,
-                                left: 90,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 202,
-                            left: 177,
-                            width: 8,
-                            area: {
-                                top: 202,
-                                left: 177,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        },
-                        {
-                            top: 202,
-                            left: 266,
-                            width: 8,
-                            area: {
-                                top: 202,
-                                left: 266,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: true
-                        },
-                        {
-                            top: 202,
-                            left: 352,
-                            width: 8,
-                            area: {
-                                top: 202,
-                                left: 352,
-                                width: 40,
-                                height: 8
-                            },
-
-
-                            type: "multiple",
-                            valid: false
-                        }
-                    ]
-                }
-			]
-		}
-	}]
-}
+                  top: 130,
+                  left: 315,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "a",
+                  valid: true
+                },
+                {
+                  top: 200,
+                  left: 270,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "a",
+                  valid: true
+                },
+                {
+                  top: 220,
+                  left: 260,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "a",
+                  valid: true
+                },
+                {
+                  top: 265,
+                  left: 310,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "a",
+                  valid: true
+                },
+                {
+                  top: 280,
+                  left: 274,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "The",
+                  valid: true
+                },
+                {
+                  top: 265,
+                  left: 145,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "a",
+                  valid: true
+                },
+                {
+                  top: 285,
+                  left: 145,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "The",
+                  valid: true
+                },
+                {
+                  top: 340,
+                  left: 85,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "a",
+                  valid: true
+                },
+                {
+                  top: 340,
+                  left: 200,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "The",
+                  valid: true
+                },
+                {
+                  top: 320,
+                  left: 240,
+                  width: 16,
+                  height:16,
+                  type: "text",
+                  text: "a",
+                  valid: true
+                },
+                    
+              ],
+            },
+           
+          ],
+        },
+      },
+       
+        {
+          top: 390,
+          left: 8,
+          width: 450,
+          height: 400,
+          zoom: {
+            answers: [
+              {
+                paths: [
+                  {
+                    top: 50,
+                    left: 230,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////aa mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: true,
+                  },
+                  {
+                    top: 50,
+                    left: 290,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 70,
+                      left: 10,
+                      width: 120,
+                      height: 30,     ////bbb mcqss
+                    },
+    
+                    type: "multiple",
+                    valid: false,
+                  },
+                  {
+                    top: 50,
+                    left: 340,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 70,
+                      left: 10,
+                      width: 120,
+                      height: 30,   //  ccc mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: false,
+                  },
+                  {
+                    top: 70,
+                    left: 230,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////aa mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: false,
+                  },
+                  {
+                    top: 70,
+                    left: 290,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////b mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: false,
+                  },
+                  {
+                    top: 70,
+                    left: 340,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       //cc mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: true,
+                  },
+                  {
+                    top: 90,
+                    left: 230,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////aa mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: true,
+                  },
+                  {
+                    top: 90,
+                    left: 290,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////b mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: false,
+                  },
+                  {
+                    top: 90,
+                    left: 340,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////b mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: false,
+                  },
+                  {
+                    top: 110,
+                    left: 230,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////b mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: false,
+                  },
+                  {
+                    top: 110,
+                    left: 290,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////b mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: true,
+                  },
+                  {
+                    top: 110,
+                    left: 340,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////b mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: false,
+                  },
+                  {
+                    top: 130,
+                    left: 230,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////b mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: false,
+                  },
+                  {
+                    top: 130,
+                    left: 290,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////b mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: false,
+                  },
+                  {
+                    top: 130,
+                    left: 340,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////b mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: true,
+                  },
+                  {
+                    top: 150,
+                    left: 230,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////b mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: false,
+                  },
+                  {
+                    top: 150,
+                    left: 290,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////b mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: true,
+                  },
+                  {
+                    top: 150,
+                    left: 340,
+                    width: 20,
+                    height: 20,
+                    area: {
+                      top: 75,
+                      left: 10,
+                      width: 100,
+                      height: 20,       ////b mcqs
+                    },
+    
+                    type: "multiple",
+                    valid: false,
+                  },
+                ],
+              },
+              
+             
+            ],
+          },
+        },
+        
+      ],
+    };

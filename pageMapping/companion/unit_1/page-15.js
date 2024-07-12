@@ -62,7 +62,7 @@ var comp_u_1_15 = {
             top: 300,
             left: 4,
             width: 450,
-            height: 290,
+            height: 320,
         }
         ]
 }

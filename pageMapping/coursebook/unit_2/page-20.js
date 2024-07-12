@@ -1,25 +1,27 @@
 var cou_u_2_20 = {
 	id: 20,
-    paths: [
+	paths: [
         {
-            top:10,
-            left:10,
-            width:440,
-            height:580,
-
-            zoom: {
-            answers: [
-                {
-                        paths: [
-                               {
-                                type: "audio",
-                                url: "songs/New Adventures 4 - Audio CD/Adventures Book4 CD1 Track_12.mp3"
-                            },
-                            ]               
-                }
-                    ]
-        }
-
-        },
-    ]
-};	
+         top: 10,
+         left: 8,
+         width: 450,
+         height: 390,
+         zoom: {
+           answers: [
+            
+           ],
+         },
+       },
+       {
+           top: 430,
+           left: 8,
+           width: 450,
+           height: 170,
+           zoom: {
+             answers: [
+              
+             ],
+           },
+         },
+     ],
+   };

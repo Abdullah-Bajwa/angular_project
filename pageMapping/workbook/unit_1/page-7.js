@@ -1,232 +1,140 @@
 var work_u_1_7 = {
     id: 7,
     
-    paths:[
-    {
-        top: 20,
-        left: 30,
-        width: 420,
-        height: 190,
-            zoom:{
-                answers:[
+    paths: [
+      {
+      top: 15,
+      left: 10,
+      width: 450,
+      height: 340,
+      zoom: {
+        answers: [
+          {
+            paths: [
+              {
+                top: 95,
+                left: 135,
+                width: 16,
+                height:16,
+                type: "text",
+                text: "The",
+                valid: true
+              },
+              
+              {
+                top: 140,
+                left: 150,
+                width: 150,
+                height:16,
+                type: "text",
+                text: "This is a car",
+                valid: true
+              },
+              {
+                top: 160,
+                left: 170,
+                width: 150,
+                height:16,
+                type: "text",
+                text: "The car is big",
+                valid: true
+              },
+              {
+                top: 200,
+                left: 110,
+                width: 170,
+                height:16,
+                type: "text",
+                text: "This is a banana",
+                valid: true
+              },
+              {
+                top: 220,
+                left: 80,
+                width: 220,
+                height:16,
+                type: "text",
+                text: "The banana is yellow",
+                valid: true
+              },  
+              {
+                top: 260,
+                left: 160,
+                width: 160,
+                height:16,
+                type: "text",
+                text: "This is a boy",
+                valid: true
+              },   
+              {
+                top: 280,
+                left: 160,
+                width: 160,
+                height:16,
+                type: "text",
+                text: "The boy is tall",
+                valid: true
+              },     
+            ],
+          },
+         
+        ],
+      },
+    },
+     
+      {
+        top: 350,
+        left: 8,
+        width: 450,
+        height: 230,
+        zoom: {
+          answers: [
+            {
+              paths: [
+               
+               
                 {
-                    paths:[
-                    {
-                       top:97,
-                       left: 40,
-                       width: 120,
-                       type: "text",
-                       text: "Do\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 remember",
-                       valid: true
-                        
-                    },
-                    /*{
-                       top:97,
-                       left: 105,
-                       width: 55,
-                       type: "text",
-                       text: "remember",
-                       valid: true
-                        
-                    },*/
-                    {
-                       top:123,
-                       left: 68,
-                       width: 55,
-                       type: "text",
-                       text: "is doing",
-                       valid: true
-                        
-                    },
-                    {
-                       top:136,
-                       left: 76,
-                       width: 65,
-                       type: "text",
-                       text: "gets",
-                       valid: true
-                        
-                    },
-                    {
-                       top:151,
-                       left: 55,
-                       width: 100,
-                       type: "text",
-                       text: "are seeing",
-                       valid: true
-                        
-                    },
-                    {
-                       top:166,
-                       left: 35,
-                       width: 145,
-                       type: "text",
-                       text: "Does\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 realise",
-                       valid: true
-                        
-                    },
-                    /*{
-                       top:166,
-                       left: 115,
-                       width: 65,
-                       type: "text",
-                       text: "realise",
-                       valid: true
-                        
-                    },*/
-                    
-                    ]
-
-                }
-                ]
+                  top: 75,
+                  left: 185,
+                  width: 180,
+                  height:16,
+                  type: "text",
+                  text: "It's a bike",
+                  valid: true
+                },
+                {
+                  top: 115,
+                  left: 185,
+                  width: 180,
+                  height:16,
+                  type: "text",
+                  text: "It's a fox",
+                  valid: true
+                }, 
+                {
+                  top: 155,
+                  left: 185,
+                  width: 180,
+                  height:16,
+                  type: "text",
+                  text: "It's a box",
+                  valid: true
+                },
+                {
+                  top: 195,
+                  left: 185,
+                  width: 180,
+                  height:16,
+                  type: "text",
+                  text: "It's a mouse",
+                  valid: true
+                },  
+              ],
             }
-    },
-    {
-     top: 210,
-     left: 30,
-     width: 420,
-     height: 215,
-        zoom:{
-                    answers:[
-                   { paths:[
-                        {
-                           top:82,
-                           left: 70,
-                           width: 215,
-                           type: "text",
-                           text: "speciality is (in) Asian cooking",
-                           valid: true
-                            
-                        },
-                         {
-                           top:110,
-                           left: 73,
-                           width: 215,
-                           type: "text",
-                           text: "a pleasure (it is)",
-                           valid: true
-                            
-                        },
-                        {
-                           top:140,
-                           left: 60,
-                           width: 177,
-                           type: "text",
-                           text: "(had) expected a",
-                           valid: true
-                            
-                        },
-                        {
-                           top:168,
-                           left: 150,
-                           width: 175,
-                           type: "text",
-                           text: "differently from/to",
-                           valid: true
-                            
-                        },
-                        {
-                           top:196,
-                           left: 100,
-                           width: 190,
-                           type: "text",
-                           text: "was unexpected/not expected",
-                           valid: true
-                            
-                        },
-                        
-                    ]
-                    }
-                ]
-        } 
-    },
-    {
-     top: 425,
-     left: 30,
-     width: 420,
-     height: 140,
-        zoom:{
-                    answers:[
-                   { paths:[
-                        {
-                           top:50,
-                           left: 42,
-                           width: 105,
-                           type: "text",
-                           text: "am waiting",
-                           valid: true
-                            
-                        },
-                         {
-                           top:50,
-                           left: 242,
-                           width: 75,
-                           type: "text",
-                           text: "am expecting",
-                           valid: true
-                            
-                        },
-                        {
-                           top:62,
-                           left: 52,
-                           width: 79,
-                           type: "text",
-                           text: "lose",
-                           valid: true
-                            
-                        },
-                        {
-                           top:75,
-                           left: 78,
-                           width: 120,
-                           type: "text",
-                           text: "wait",
-                           valid: true
-                            
-                        },
-                        {
-                           top:87,
-                           left: 53,
-                           width: 107,
-                           type: "text",
-                           text: "is expecting",
-                           valid: true
-                            
-                        },
-                         {
-                           top:100,
-                           left:125,
-                           width: 112,
-                           type: "text",
-                           text: "miss",
-                           valid: true
-                            
-                        },
-                         {
-                           top:112,
-                           left: 85,
-                           width: 100,
-                           type: "text",
-                           text: "are missing",
-                           valid: true
-                            
-                        },
-                         {
-                           top:125,
-                           left: 57,
-                           width: 106,
-                           type: "text",
-                           text: "are losing",
-                           valid: true
-                            
-                        },
-
-                        
-                    ]
-                    }
-                ]
-        } 
-    },
-    
-    ]
-};
+           
+          ],
+        },
+      },
+      
+    ],
+  };
