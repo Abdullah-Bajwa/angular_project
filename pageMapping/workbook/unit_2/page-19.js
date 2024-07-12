@@ -54,6 +54,7 @@ var work_u_2_19 = {
                 left: 0,
                 width: 300,
                 height: 20,
+                font: 12,
                 type: "text",
                 text: "Helen and Ann are'nt friends",
                 valid: true,
