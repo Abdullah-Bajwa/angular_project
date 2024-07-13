@@ -202,7 +202,7 @@
                         'style="top:{{((answer.type == \'multiple\') ? answer.top:((answer.draggable) ? answer.top-10 : answer.top-4))}}px;left:{{answer.left}}px;width: {{answer.width}}px;height: {{(answer.multiline) ? 25:((answer.type == \'multiple\') ? (answer.height ? answer.height : 9):12)}}px; transform:rotate({{answer.rotate ? answer.rotate : 0}}deg);"' +
 						' ng-class="{\'selected\': answer.showed, \'dragContainer\': answer.draggable}">' +
                         //'<span class="textAnswer" ng-if="answer.text" style="top: 2px; line-height:{{answer.height}}px;">{{answer.text}}</span>' +
-                       '<span class="textAnswer" ng-if="answer.text && !answer.draggable" style="top: {{answer.textTopOverride ? answer.textTopOverride : 2}}px; left: {{answer.textLeftOverride ? answer.textLeftOverride : 0}}px;  line-height:{{answer.height}}px; direction: {{answer.textDirection ? answer.textDirection: ltr}}; unicode-bidi: bidi-override; font-size: {{answer.font ? answer.font : 24}}px">{{answer.text}} </span>' +
+                       '<span class="textAnswer" ng-if="answer.text && !answer.draggable" style="top: {{answer.textTopOverride ? answer.textTopOverride : 2}}px; left: {{answer.textLeftOverride ? answer.textLeftOverride : 0}}px;  line-height:{{answer.height}}px; direction: {{answer.textDirection ? answer.textDirection: ltr}}; unicode-bidi: bidi-override;">{{answer.text}} </span>' +
                        '<span class="textAnswer" ng-if="answer.text && answer.draggable" style="top: {{answer.textTopOverride ? answer.textTopOverride : 7}}px; line-height:{{answer.height}}px;">{{answer.text}}</span>' +
 					   '<span ng-if="answer.type == \'personalButton\'">Answer</span>' +
                         '</div>' +

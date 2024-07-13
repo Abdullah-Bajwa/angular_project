@@ -15,6 +15,7 @@ var work_u_1_5 = {
                   left: 65,
                   width: 16,
                   height:16,
+                  font:10,
                   type: "text",
                   text: "a",
                   valid: true
