@@ -16,6 +16,7 @@ var work_u_2_15 = {
                 left: 200,
                 width: 150,
                 height:16,
+                font:12,
                 type: "text",
                 text: " Ann is beautiful",
                 valid: true
@@ -24,6 +25,7 @@ var work_u_2_15 = {
                 top: 140,
                 left: 200,
                 width: 150,
+                font:12,
                 height:16,
                 type: "text",
                 text: " He is very old",
@@ -32,6 +34,7 @@ var work_u_2_15 = {
               {
                 top: 160,
                 left: 200,
+                font:12,
                 width: 150,
                 height:16,
                 type: "text",
@@ -41,6 +44,7 @@ var work_u_2_15 = {
               {
                 top: 180,
                 left: 200,
+                font:12,
                 width: 150,
                 height:16,
                 type: "text",
@@ -50,6 +54,7 @@ var work_u_2_15 = {
               {
                 top: 200,
                 left: 200,
+                font:12,
                 width: 150,
                 height:16,
                 type: "text",
@@ -76,6 +81,7 @@ var work_u_2_15 = {
                   top: 70,
                   left: 80,
                   width: 20,
+                  font:12,
                   height:16,
                   type: "text",
                   text: " nurse",
@@ -84,6 +90,7 @@ var work_u_2_15 = {
                 {
                   top: 110,
                   left: 50,
+                  font:12,
                   width: 20,
                   height:16,
                   type: "text",
@@ -93,6 +100,7 @@ var work_u_2_15 = {
                 {
                   top: 155,
                   left: 70,
+                  font:12,
                   width: 20,
                   height:16,
                   type: "text",
@@ -104,6 +112,7 @@ var work_u_2_15 = {
                   left: 90,
                   width: 20,
                   height:16,
+                  font:12,
                   type: "text",
                   text: " tall",
                   valid: true
@@ -112,6 +121,7 @@ var work_u_2_15 = {
                   top: 220,
                   left: 80,
                   width: 20,
+                  font:13,
                   height:16,
                   type: "text",
                   text: " good",

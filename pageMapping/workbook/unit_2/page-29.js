@@ -1,29 +1,294 @@
-var work_u_2_29= {
-    id: 29,
-    paths: [
-        {
-        top: 15,
-        left: 10,
-        width: 450,
-        height: 270,
-        zoom: {
-          answers: [
-           
-          ],
-        },
-      },
-       
-        {
-          top: 290,
-          left: 8,
-          width: 450,
-          height: 300,
-          zoom: {
-            answers: [
-             
+var work_u_2_29 = {
+  id: 29,
+  paths: [
+    {
+      top: 15,
+      left: 10,
+      width: 450,
+      height: 270,
+      zoom: {
+        answers: [
+          {
+            paths: [
+              {
+                top: 100,
+                left: 260,
+                width: 60,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: " has got",
+                valid: true,
+              },
+              {
+                top: 55,
+                left: 298,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
+              {
+                top: 55,
+                left: 373,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+              {
+                top: 170,
+                left: 257,
+                width: 60,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: " has got",
+                valid: true,
+              },
+              {
+                top: 125,
+                left: 298,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
+              {
+                top: 125,
+                left: 373,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+              {
+                top: 170,
+                left: 50,
+                width: 60,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: " has",
+                valid: true,
+              },
+              {
+                top: 124,
+                left: 100,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+              {
+                top: 123,
+                left: 172,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
+              {
+                top: 240,
+                left: 70,
+                width: 60,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: " have got",
+                valid: true,
+              },
+              {
+                top: 196,
+                left: 100,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
+              {
+                top: 196,
+                left: 172,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+              {
+                top: 240,
+                left: 257,
+                width: 60,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: " have got",
+                valid: true,
+              },
+              {
+                top: 196,
+                left: 298,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
+              {
+                top: 196,
+                left: 373,
+                width: 10,
+                height: 10,
+                area: {
+                  top: 100,
+                  left: 40,
+                  width: 100,
+                  height: 30,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
             ],
           },
-        },
-        
-      ],
-    };
+        ],
+      },
+    },
+
+    {
+      top: 290,
+      left: 8,
+      width: 450,
+      height: 300,
+      zoom: {
+        answers: [
+          {
+            paths: [
+              {
+                top: 100,
+                left: 330,
+                width: 60,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: " house",
+                valid: true,
+              },
+              {
+                top: 125,
+                left: 330,
+                width: 60,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: " has",
+                valid: true,
+              },
+              {
+                top: 140,
+                left: 280,
+                width: 60,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: " three",
+                valid: true,
+              },
+              {
+                top: 160,
+                left: 280,
+                width: 60,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: " two",
+                valid: true,
+              },
+              {
+                top: 180,
+                left: 330,
+                width: 60,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: " Kitchean",
+                valid: true,
+              },
+              {
+                top: 255,
+                left: 290,
+                width: 60,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: " garden",
+                valid: true,
+              },
+            ],
+          },
+        ],
+      },
+    },
+  ],
+};

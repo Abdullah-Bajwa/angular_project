@@ -25,6 +25,7 @@ var work_u_1_6 = {
                   {
                     top: 30,
                     left: 132,
+                    font:12,
                     width: 16,
                     height:16,
                     type: "text",
@@ -35,6 +36,7 @@ var work_u_1_6 = {
                   {
                     top: 50,
                     left: 80,
+                    font:12,
                     width: 16,
                     height:16,
                     type: "text",
@@ -44,6 +46,7 @@ var work_u_1_6 = {
                   {
                     top: 30,
                     left: 280,
+                    font:12,
                     width: 16,
                     height:16,
                     type: "text",
@@ -55,6 +58,7 @@ var work_u_1_6 = {
                     left: 280,
                     width: 16,
                     height:16,
+                    font:12,
                     type: "text",
                     text: "The",
                     valid: true

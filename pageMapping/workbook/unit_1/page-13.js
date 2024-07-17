@@ -14,6 +14,7 @@ var work_u_1_13 = {
                   top: 90,
                   left: 155,
                   width: 20,
+                  font:12,
                   height:16,
                   type: "text",
                   text: " b",
@@ -24,6 +25,7 @@ var work_u_1_13 = {
                   left: 155,
                   width:  20,
                   height:16,
+                  font:12,
                   type: "text",
                   text: "d",
                   valid: true
@@ -32,6 +34,7 @@ var work_u_1_13 = {
                   top: 160,
                   left: 155,
                   width:  20,
+                  font:12,
                   height:16,
                   type: "text",
                   text: "a",
@@ -41,6 +44,7 @@ var work_u_1_13 = {
                   top: 200,
                   left: 155,
                   width:  20,
+                  font:12,
                   height:16,
                   type: "text",
                   text: "f",
@@ -50,6 +54,7 @@ var work_u_1_13 = {
                   top: 230,
                   left: 155,
                   width:  20,
+                  font:12,
                   height:16,
                   type: "text",
                   text: "e",
@@ -75,6 +80,7 @@ var work_u_1_13 = {
                   {
                     top: 95,
                     left: 190,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -86,6 +92,7 @@ var work_u_1_13 = {
                     left:250,
                     width:  20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: "fat",
                     valid: true
@@ -95,6 +102,7 @@ var work_u_1_13 = {
                     left: 300,
                     width:  20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: "brown",
                     valid: true
@@ -103,6 +111,7 @@ var work_u_1_13 = {
                     top: 95,
                     left: 370,
                     width:  20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: "cats",
@@ -111,6 +120,7 @@ var work_u_1_13 = {
                   {
                     top: 115,
                     left: 200,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -121,6 +131,7 @@ var work_u_1_13 = {
                     top: 115,
                     left:250,
                     width:  20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: "thin",
@@ -129,6 +140,7 @@ var work_u_1_13 = {
                   {
                     top:115,
                     left: 300,
+                    font:12,
                     width:  20,
                     height:16,
                     type: "text",
@@ -137,6 +149,7 @@ var work_u_1_13 = {
                   },
                   {
                     top: 115,
+                    font:12,
                     left: 370,
                     width:  20,
                     height:16,
@@ -147,6 +160,7 @@ var work_u_1_13 = {
                   {
                     top: 140,
                     left: 200,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -156,6 +170,7 @@ var work_u_1_13 = {
                   {
                     top: 140,
                     left:250,
+                    font:12,
                     width:  20,
                     height:16,
                     type: "text",
@@ -165,6 +180,7 @@ var work_u_1_13 = {
                   {
                     top:140,
                     left: 300,
+                    font:12,
                     width:  20,
                     height:16,
                     type: "text",
@@ -176,6 +192,7 @@ var work_u_1_13 = {
                     left: 370,
                     width:  20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: "bikes",
                     valid: true
@@ -185,6 +202,7 @@ var work_u_1_13 = {
                     left: 200,
                     width: 20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: " four",
                     valid: true
@@ -194,6 +212,7 @@ var work_u_1_13 = {
                     left:250,
                     width:  20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: "big",
                     valid: true
@@ -203,6 +222,7 @@ var work_u_1_13 = {
                     left: 300,
                     width:  20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: "blue",
                     valid: true
@@ -211,6 +231,7 @@ var work_u_1_13 = {
                     top: 160,
                     left: 370,
                     width:  20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: "cars",
@@ -220,6 +241,7 @@ var work_u_1_13 = {
                     top: 180,
                     left: 200,
                     width: 20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: " five",
@@ -228,6 +250,7 @@ var work_u_1_13 = {
                   {
                     top: 180,
                     left:240,
+                    font:12,
                     width:  50,
                     height:16,
                     type: "text",
@@ -237,6 +260,7 @@ var work_u_1_13 = {
                   {
                     top:180,
                     left: 320,
+                    font:12,
                     width:  20,
                     height:16,
                     type: "text",
@@ -247,6 +271,7 @@ var work_u_1_13 = {
                     top: 180,
                     left: 370,
                     width:  20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: "parrots",

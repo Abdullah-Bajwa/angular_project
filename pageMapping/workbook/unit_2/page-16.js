@@ -15,6 +15,7 @@ var work_u_2_16 = {
                   left: 200,
                   width: 20,
                   height:16,
+                  font:12,
                   type: "text",
                   text: " you",
                   valid: true
@@ -22,6 +23,7 @@ var work_u_2_16 = {
                 {
                   top: 145,
                   left: 200,
+                  font:12,
                   width: 20,
                   height:16,
                   type: "text",
@@ -31,6 +33,7 @@ var work_u_2_16 = {
                 {
                   top: 165,
                   left: 200,
+                  font:12,
                   width: 20,
                   height:16,
                   type: "text",
@@ -40,6 +43,7 @@ var work_u_2_16 = {
                 {
                   top: 185,
                   left: 200,
+                  font:12,
                   width: 20,
                   height:16,
                   type: "text",
@@ -50,6 +54,7 @@ var work_u_2_16 = {
                   top: 205,
                   left: 200,
                   width: 20,
+                  font:12,
                   height:16,
                   type: "text",
                   text: " they",
@@ -60,6 +65,7 @@ var work_u_2_16 = {
                   left: 200,
                   width: 20,
                   height:16,
+                  font:12,
                   type: "text",
                   text: " it",
                   valid: true
@@ -68,6 +74,7 @@ var work_u_2_16 = {
                   top: 250,
                   left: 200,
                   width: 20,
+                  font:12,
                   height:16,
                   type: "text",
                   text: " they",
@@ -93,6 +100,7 @@ var work_u_2_16 = {
                   {
                     top: 140,
                     left: 150,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -103,6 +111,7 @@ var work_u_2_16 = {
                     top: 140,
                     left: 230,
                     width: 20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: " they",
@@ -111,6 +120,7 @@ var work_u_2_16 = {
                   {
                     top: 140,
                     left: 335,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -120,6 +130,7 @@ var work_u_2_16 = {
                   {
                     top: 250,
                     left: 50,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -131,6 +142,7 @@ var work_u_2_16 = {
                     left: 150,
                     width: 20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: " you",
                     valid: true
@@ -140,6 +152,7 @@ var work_u_2_16 = {
                     left: 230,
                     width: 20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: " they",
                     valid: true
@@ -149,6 +162,7 @@ var work_u_2_16 = {
                     left: 335,
                     width: 20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: " they",
                     valid: true

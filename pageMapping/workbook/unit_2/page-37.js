@@ -145,7 +145,51 @@ var work_u_2_37 = {
           height: 270,
           zoom: {
             answers: [
-             
+              {
+                paths: [
+                  {
+                    top: 53,
+                    left: 230,
+                    width: 50,
+                    height: 16,
+                    font: 12,
+                    type: "text",
+                    text: "boxes",
+                    valid: true,
+                  },
+                  {
+                    top: 95,
+                    left: 200,
+                    width: 50,
+                    height: 16,
+                    font: 12,
+                    type: "text",
+                    text: "foxes",
+                    valid: true,
+                  },
+                  {
+                    top: 130,
+                    left: 190,
+                    width: 50,
+                    height: 16,
+                    font: 12,
+                    type: "text",
+                    text: "horses",
+                    valid: true,
+                  },
+                  {
+                    top: 160,
+                    left: 190,
+                    width: 50,
+                    height: 16,
+                    font: 12,
+                    type: "text",
+                    text: "dresses",
+                    valid: true,
+                  },
+                  
+                ],
+              },
             ],
           },
         },
