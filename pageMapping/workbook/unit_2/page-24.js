@@ -15,6 +15,7 @@ var work_u_2_24 = {
                 top: 100,
                 left: 230,
                 width: 20,
+                font:12,
                 height: 16,
                 type: "text",
                 text: "Her",
@@ -22,6 +23,7 @@ var work_u_2_24 = {
               },
               {
                 top: 122,
+                font:12,
                 left: 250,
                 width: 20,
                 height: 16,
@@ -32,6 +34,7 @@ var work_u_2_24 = {
               {
                 top: 149,
                 left: 250,
+                font:12,
                 width: 20,
                 height: 16,
                 type: "text",
@@ -41,6 +44,7 @@ var work_u_2_24 = {
               {
                 top: 170,
                 left: 160,
+                font:12,
                 width: 20,
                 height: 16,
                 type: "text",
@@ -51,6 +55,7 @@ var work_u_2_24 = {
                 top: 170,
                 left: 305,
                 width: 20,
+                font:12,
                 height: 16,
                 type: "text",
                 text: "My",
@@ -77,6 +82,7 @@ var work_u_2_24 = {
                   top: 55,
                   left: 140,
                   width: 20,
+                  font:12,
                   height: 16,
                   type: "text",
                   text: "MY",
@@ -86,6 +92,7 @@ var work_u_2_24 = {
                   top: 85,
                   left: 135,
                   width: 20,
+                  font:12,
                   height: 16,
                   type: "text",
                   text: "His",
@@ -94,6 +101,7 @@ var work_u_2_24 = {
                 {
                   top: 115,
                   left: 135,
+                  font:12,
                   width: 20,
                   height: 16,
                   type: "text",
@@ -102,6 +110,7 @@ var work_u_2_24 = {
                 },
                 {
                   top: 150,
+                  font:12,
                   left: 135,
                   width: 20,
                   height: 16,
@@ -114,6 +123,7 @@ var work_u_2_24 = {
                   left: 75,
                   width: 20,
                   height: 16,
+                  font:12,
                   type: "text",
                   text: "is",
                   valid: true,
@@ -123,6 +133,7 @@ var work_u_2_24 = {
                   left: 80,
                   width: 20,
                   height: 16,
+                  font:12,
                   type: "text",
                   text: "is",
                   valid: true,
@@ -131,6 +142,7 @@ var work_u_2_24 = {
                   top: 295,
                   left: 65,
                   width: 20,
+                  font:12,
                   height: 16,
                   font:12,
                   type: "text",
@@ -140,6 +152,7 @@ var work_u_2_24 = {
                 {
                   top: 234,
                   left: 215,
+                  font:12,
                   width: 20,
                   height: 16,
                   fontnt:5,
@@ -149,6 +162,7 @@ var work_u_2_24 = {
                 },
                 {
                   top: 230,
+                  font:12,
                   left: 290,
                   width: 20,
                   height: 16,
@@ -159,6 +173,7 @@ var work_u_2_24 = {
                 {
                   top: 253,
                   left: 219,
+                  font:12,
                   width: 20,
                   height: 16,
                   font:5,
@@ -168,6 +183,7 @@ var work_u_2_24 = {
                 },
                 {
                   top: 250,
+                  font:12,
                   left: 290,
                   width: 20,
                   height: 16,
@@ -179,6 +195,7 @@ var work_u_2_24 = {
                 {
                   top: 274,
                   left: 215,
+                  font:12,
                   width: 20,
                   height: 16,
                   fontnt:5,
@@ -190,6 +207,7 @@ var work_u_2_24 = {
                   top: 274,
                   left: 290,
                   width: 20,
+                  font:12,
                   height: 16,
                   fontnt:5,
                   type: "text",
@@ -199,6 +217,7 @@ var work_u_2_24 = {
                 {
                   top: 294,
                   left: 215,
+                  font:12,
                   width: 20,
                   height: 16,
                   fontnt:5,
@@ -209,6 +228,7 @@ var work_u_2_24 = {
                 {
                   top: 294,
                   left: 290,
+                  font:12,
                   width: 20,
                   height: 16,
                   fontnt:5,

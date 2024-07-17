@@ -15,6 +15,7 @@ var work_u_1_14 = {
                   left: 150,
                   width: 20,
                   height:16,
+                  font:12,
                   type: "text",
                   text: " it",
                   valid: true
@@ -24,6 +25,7 @@ var work_u_1_14 = {
                   left:260,
                   width:  20,
                   height:16,
+                  font:12,
                   type: "text",
                   text: "he",
                   valid: true
@@ -33,6 +35,7 @@ var work_u_1_14 = {
                   left:360,
                   width:  20,
                   height:16,
+                  font:12,
                   type: "text",
                   text: "he",
                   valid: true
@@ -42,6 +45,7 @@ var work_u_1_14 = {
                   left: 65,
                   width: 20,
                   height:16,
+                  font:12,
                   type: "text",
                   text: " she",
                   valid: true
@@ -50,6 +54,7 @@ var work_u_1_14 = {
                   top: 215,
                   left: 150,
                   width: 20,
+                 font:12,
                   height:16,
                   type: "text",
                   text: " it",
@@ -59,6 +64,7 @@ var work_u_1_14 = {
                   top: 215,
                   left: 260,
                   width: 20,
+                  font:12,
                   height:16,
                   type: "text",
                   text: " she",
@@ -69,6 +75,7 @@ var work_u_1_14 = {
                   left: 360,
                   width: 20,
                   height:16,
+                  font:12,
                   type: "text",
                   text: " it",
                   valid: true
@@ -90,8 +97,9 @@ var work_u_1_14 = {
               {
                 paths: [
                   {
-                    top: 50,
+                    top: 53,
                     left: 70,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -99,8 +107,9 @@ var work_u_1_14 = {
                     valid: true
                   },
                   {
-                    top: 30,
+                    top: 33,
                     left: 280,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -108,8 +117,9 @@ var work_u_1_14 = {
                     valid: true
                   },
                   {
-                    top: 70,
+                    top: 73,
                     left: 70,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -117,8 +127,9 @@ var work_u_1_14 = {
                     valid: true
                   },
                   {
-                    top: 50,
+                    top: 53,
                     left: 280,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -126,8 +137,9 @@ var work_u_1_14 = {
                     valid: true
                   },
                   {
-                    top: 90,
+                    top: 93,
                     left: 90,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -138,105 +150,117 @@ var work_u_1_14 = {
                     top: 115,
                     left: 70,
                     width: 20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: " am",
                     valid: true
                   },
                   {
-                    top: 70,
+                    top: 73,
                     left: 280,
                     width: 20,
+                    height:16,
+                    font:12,
+                    type: "text",
+                    text: " is",
+                    valid: true
+                  },
+                  {
+                    top: 93,
+                    left: 280,
+                    width: 20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: " is",
                     valid: true
                   },
                   {
-                    top: 90,
+                    top: 118,
                     left: 280,
                     width: 20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: " is",
                     valid: true
                   },
                   {
-                    top: 115,
+                    top: 118,
                     left: 280,
                     width: 20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: " is",
                     valid: true
                   },
                   {
-                    top: 115,
-                    left: 280,
-                    width: 20,
-                    height:16,
-                    type: "text",
-                    text: " is",
-                    valid: true
-                  },
-                  {
-                    top: 180,
+                    top: 183,
                     left: 140,
                     width: 20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: " he",
                     valid: true
                   },
                   {
-                    top: 200,
+                    top: 203,
                     left: 140,
                     width: 20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: " she",
                     valid: true
                   },
                   {
-                    top: 220,
+                    top: 223,
                     left: 140,
                     width: 20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: " he",
                     valid: true
                   },
                   {
-                    top: 240,
+                    top: 243,
                     left: 140,
                     width: 20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: " she",
                     valid: true
                   },
                   {
-                    top: 260,
+                    top: 263,
                     left: 140,
                     width: 20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: " it",
                     valid: true
                   },
                   {
-                    top: 280,
+                    top: 283,
                     left: 140,
                     width: 20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: " it",
                     valid: true
                   },
                   {
-                    top: 300,
+                    top: 303,
                     left: 140,
                     width: 20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: " she",

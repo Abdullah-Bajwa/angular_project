@@ -15,6 +15,7 @@ var work_u_1_7 = {
                 top: 95,
                 left: 135,
                 width: 16,
+                font:12,
                 height:16,
                 type: "text",
                 text: "The",
@@ -26,6 +27,7 @@ var work_u_1_7 = {
                 left: 150,
                 width: 150,
                 height:16,
+                font:12,
                 type: "text",
                 text: "This is a car",
                 valid: true
@@ -33,6 +35,7 @@ var work_u_1_7 = {
               {
                 top: 160,
                 left: 170,
+                font:12,
                 width: 150,
                 height:16,
                 type: "text",
@@ -42,6 +45,7 @@ var work_u_1_7 = {
               {
                 top: 200,
                 left: 110,
+                font:12,
                 width: 170,
                 height:16,
                 type: "text",
@@ -51,6 +55,7 @@ var work_u_1_7 = {
               {
                 top: 220,
                 left: 80,
+                font:12,
                 width: 220,
                 height:16,
                 type: "text",
@@ -60,6 +65,7 @@ var work_u_1_7 = {
               {
                 top: 260,
                 left: 160,
+                font:12,
                 width: 160,
                 height:16,
                 type: "text",
@@ -70,6 +76,7 @@ var work_u_1_7 = {
                 top: 280,
                 left: 160,
                 width: 160,
+                font:12,
                 height:16,
                 type: "text",
                 text: "The boy is tall",
@@ -97,6 +104,7 @@ var work_u_1_7 = {
                   top: 75,
                   left: 185,
                   width: 180,
+                  font:12,
                   height:16,
                   type: "text",
                   text: "It's a bike",
@@ -107,6 +115,7 @@ var work_u_1_7 = {
                   left: 185,
                   width: 180,
                   height:16,
+                  font:12,
                   type: "text",
                   text: "It's a fox",
                   valid: true
@@ -115,6 +124,7 @@ var work_u_1_7 = {
                   top: 155,
                   left: 185,
                   width: 180,
+                  font:12,
                   height:16,
                   type: "text",
                   text: "It's a box",
@@ -124,6 +134,7 @@ var work_u_1_7 = {
                   top: 195,
                   left: 185,
                   width: 180,
+                  font:12,
                   height:16,
                   type: "text",
                   text: "It's a mouse",

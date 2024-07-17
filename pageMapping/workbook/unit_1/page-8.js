@@ -27,6 +27,7 @@ var work_u_1_8 = {
                   top: 110,
                   left: 240,
                   width: 180,
+                  font:12,
                   height:16,
                   type: "text",
                   text: "That's a taxi",
@@ -36,6 +37,7 @@ var work_u_1_8 = {
                   top: 145,
                   left: 130,
                   width: 180,
+                  font:12,
                   height:16,
                   type: "text",
                   text: "This is a pen and ",
@@ -46,6 +48,7 @@ var work_u_1_8 = {
                   left: 130,
                   width: 180,
                   height:16,
+                  font:12,
                   type: "text",
                   text: "That's a pencil",
                   valid: true
@@ -55,6 +58,7 @@ var work_u_1_8 = {
                   left: 40,
                   width: 180,
                   height:16,
+                  font:12,
                   type: "text",
                   text: "This is a rat and ",
                   valid: true
@@ -63,6 +67,7 @@ var work_u_1_8 = {
                   top: 220,
                   left: 40,
                   width: 180,
+                  font:12,
                   height:16,
                   type: "text",
                   text: "That's a star ",
@@ -72,6 +77,7 @@ var work_u_1_8 = {
                   top: 200,
                   left: 250,
                   width: 180,
+                  font:12,
                   height:16,
                   type: "text",
                   text: "This is a box and ",
@@ -80,6 +86,7 @@ var work_u_1_8 = {
                 {
                   top: 220,
                   left: 240,
+                  font:12,
                   width: 180,
                   height:16,
                   type: "text",
@@ -91,6 +98,7 @@ var work_u_1_8 = {
                   left: 130,
                   width: 220,
                   height:16,
+                  font:12,
                   type: "text",
                   text: "This is a banana and ",
                   valid: true
@@ -99,6 +107,7 @@ var work_u_1_8 = {
                   top: 290,
                   left: 130,
                   width: 180,
+                  font:12,
                   height:16,
                   type: "text",
                   text: "That's a apple ",
@@ -109,6 +118,7 @@ var work_u_1_8 = {
                   left: 40,
                   width: 180,
                   height:16,
+                  font:12,
                   type: "text",
                   text: "This is a pen and ",
                   valid: true
@@ -118,6 +128,7 @@ var work_u_1_8 = {
                   left: 40,
                   width: 180,
                   height:16,
+                  font:12,
                   type: "text",
                   text: "That's a hen ",
                   valid: true
@@ -126,6 +137,7 @@ var work_u_1_8 = {
                   top: 325,
                   left: 270,
                   width: 200,
+                  font:12,
                   height:16,
                   type: "text",
                   text: "Ths is an apple and ",
@@ -134,6 +146,7 @@ var work_u_1_8 = {
                 {
                   top: 345,
                   left: 270,
+                  font:12,
                   width: 180,
                   height:16,
                   type: "text",

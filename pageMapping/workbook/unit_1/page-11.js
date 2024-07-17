@@ -12,6 +12,7 @@ var work_u_1_11 = {
               paths: [
                 {
                   top: 210,
+                  font:12, 
                   left: 210,
                   width: 140,
                   height:16,
@@ -22,6 +23,7 @@ var work_u_1_11 = {
                 {
                   top: 230,
                   left: 210,
+                  font:12,
                   width:  140,
                   height:16,
                   type: "text",
@@ -31,6 +33,7 @@ var work_u_1_11 = {
                 {
                   top: 245,
                   left: 180,
+                  font:12,
                   width: 210,
                   height:16,
                   type: "text",
@@ -40,6 +43,7 @@ var work_u_1_11 = {
                 {
                   top: 265,
                   left: 190,
+                  font:12,
                   width: 180,
                   height:16,
                   type: "text",
@@ -67,6 +71,7 @@ var work_u_1_11 = {
                     top: 130,
                     left: 170,
                     width: 140,
+                    font:12,
                     height:16,
                     type: "text",
                     text: "four cars",
@@ -136,6 +141,7 @@ var work_u_1_11 = {
                     top: 130,
                     left: 300,
                     width:  140,
+                    font:12,
                     height:16,
                     type: "text",
                     text: "five dogs",
@@ -274,6 +280,7 @@ var work_u_1_11 = {
                     top: 245,
                     left: 155,
                     width: 180,
+                    font:12,
                     height:16,
                     type: "text",
                     text: "three desks",
@@ -343,6 +350,7 @@ var work_u_1_11 = {
                     top: 245,
                     left: 300,
                     width: 180,
+                    font:12,
                     height:16,
                     type: "text",
                     text: "seven toys",

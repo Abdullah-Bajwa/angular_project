@@ -13,6 +13,7 @@
                 {
                   top: 297,
                   left: 150,
+                  font:12,
                   width: 20,
                   height:16,
                   type: "text",
@@ -22,6 +23,7 @@
                 {
                   top: 297,
                   left: 290,
+                  font:12,
                   width: 20,
                   height:16,
                   type: "text",
@@ -30,6 +32,7 @@
                 },
                 {
                   top: 320,
+                  font:12, 
                   left: 50,
                   width: 20,
                   height:16,
@@ -39,6 +42,7 @@
                 },
                 {
                   top: 320,
+                  font:12,
                   left: 150,
                   width: 20,
                   height:16,
@@ -65,6 +69,7 @@
                   {
                     top: 130,
                     left: 200,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -76,6 +81,7 @@
                     left: 330,
                     width: 20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: "hens",
                     valid: true
@@ -85,6 +91,7 @@
                     left: 200,
                     width: 20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: "boots",
                     valid: true
@@ -93,6 +100,7 @@
                     top: 150,
                     left: 330,
                     width: 20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: "trees",
@@ -101,6 +109,7 @@
                   {
                     top: 170,
                     left: 200,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -110,6 +119,7 @@
                    {
                     top: 170,
                     left: 330,
+                    font:12,
                     width: 20,
                     height:16,
                     type: "text",
@@ -121,6 +131,7 @@
                     left: 190,
                     width: 20,
                     height:16,
+                    font:12,
                     type: "text",
                     text: "elephants",
                     valid: true
@@ -129,6 +140,7 @@
                     top: 195,
                     left: 320,
                     width: 20,
+                    font:12,
                     height:16,
                     type: "text",
                     text: "monkeys",

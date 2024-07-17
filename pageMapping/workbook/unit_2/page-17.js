@@ -12,19 +12,21 @@ var work_u_2_17 = {
                 paths: [
                   {
                     top: 85,
-                    left: 190,
+                    left: 180,
                     width: 100,
                     height:16,
+					font:12,
                     type: "text",
                     text: " they're tall",
                     valid: true
                   },
                   {
                     top: 105,
-                    left: 180,
+                    left: 170,
                     width: 150,
                     height:16,
                     type: "text",
+					font:12,
                     text: " you're young",
                     valid: true
                   },
@@ -33,6 +35,7 @@ var work_u_2_17 = {
                     left: 180,
                     width: 150,
                     height:16,
+					font:12,
                     type: "text",
                     text: " They're ill",
                     valid: true
@@ -42,6 +45,7 @@ var work_u_2_17 = {
                     left: 180,
                     width: 150,
                     height:16,
+					font:12,
                     type: "text",
                     text: " They're big",
                     valid: true
@@ -51,6 +55,7 @@ var work_u_2_17 = {
                     left: 180,
                     width: 150,
                     height:16,
+					font:12,
                     type: "text",
                     text: " we're thin",
                     valid: true
@@ -76,6 +81,7 @@ var work_u_2_17 = {
 						left: 180,
 						width: 100,
 						height:16,
+						font:12,
 						type: "text",
 						text: " It is green",
 						valid: true
@@ -85,6 +91,7 @@ var work_u_2_17 = {
 						left: 300,
 						width: 150,
 						height:16,
+						font:12,
 						type: "text",
 						text: " He is happy",
 						valid: true
@@ -94,6 +101,7 @@ var work_u_2_17 = {
 						left: 20,
 						width: 200,
 						height:16,
+						font:12,
 						type: "text",
 						text: " They are new",
 						valid: true
@@ -103,6 +111,7 @@ var work_u_2_17 = {
 						left: 130,
 						width: 200,
 						height:16,
+						font:12,
 						type: "text",
 						text: "It is slow",
 						valid: true
@@ -112,6 +121,7 @@ var work_u_2_17 = {
 						left: 280,
 						width: 200,
 						height:16,
+						font:12,
 						type: "text",
 						text: " They are new",
 						valid: true
@@ -120,6 +130,7 @@ var work_u_2_17 = {
 						top: 270,
 						left: 160,
 						width: 240,
+						font:12,
 						height:16,
 						type: "text",
 						text: "we are happy boys",
@@ -130,6 +141,7 @@ var work_u_2_17 = {
 						left: 160,
 						width: 240,
 						height:16,
+						font:12,
 						type: "text",
 						text: "They are balck dogs",
 						valid: true
@@ -139,6 +151,7 @@ var work_u_2_17 = {
 						left: 160,
 						width: 240,
 						height:16,
+						font:12,
 						type: "text",
 						text: "You are beautiful girls",
 						valid: true
@@ -148,6 +161,7 @@ var work_u_2_17 = {
 						left: 160,
 						width: 240,
 						height:16,
+						font:12,
 						type: "text",
 						text: "They are good dentists",
 						valid: true
@@ -157,6 +171,7 @@ var work_u_2_17 = {
 						left: 160,
 						width: 240,
 						height:16,
+						font:12,
 						type: "text",
 						text: "They are young nurses",
 						valid: true
