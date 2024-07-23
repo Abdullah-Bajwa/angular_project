@@ -135,7 +135,110 @@ var work_u_3_54 = {
           height: 260,
           zoom: {
             answers: [
-             
+              {
+                paths: [
+                  {
+                    top: 89,
+                    left: 200,
+                    width: 50,
+                    height:16,
+                    font:12,
+                    type: "text",
+                    text: " red",
+                    valid: true
+                  },
+                  {
+                    top: 105,
+                    left: 196,
+                    font:12,
+                    width: 50,
+                    height:16,
+                    type: "text",
+                    text: "rose",
+                    valid: true
+                  },
+                  {
+                    top: 89,
+                    left: 305,
+                    width: 90,
+                    height:16,
+                    font:12,
+                    type: "text",
+                    text: "Two clever",
+                    valid: true
+                  },
+                  {
+                    top: 105,
+                    left: 315,
+                    font:12,
+                    width: 50,
+                    height:16,
+                    type: "text",
+                    text: "boys",
+                    valid: true
+                  },
+                  {
+                    top: 190,
+                    left: 185,
+                    width:90,
+                    height:16,
+                    font:12,
+                    type: "text",
+                    text: "Two white",
+                    valid: true
+                  },
+                  {
+                    top: 208,
+                    left: 196,
+                    font:12,
+                    width: 50,
+                    height:16,
+                    type: "text",
+                    text: "horses",
+                    valid: true
+                  },
+                  {
+                    top: 190,
+                    left: 305,
+                    width:90,
+                    height:16,
+                    font:12,
+                    type: "text",
+                    text: "Two red",
+                    valid: true
+                  },
+                  {
+                    top: 208,
+                    left: 315,
+                    font:12,
+                    width: 50,
+                    height:16,
+                    type: "text",
+                    text: "buses",
+                    valid: true
+                  },
+                  {
+                    top: 190,
+                    left: 60,
+                    width:90,
+                    height:16,
+                    font:12,
+                    type: "text",
+                    text: "Three long",
+                    valid: true
+                  },
+                  {
+                    top: 206,
+                    left: 70,
+                    font:12,
+                    width: 60,
+                    height:16,
+                    type: "text",
+                    text: "dresses",
+                    valid: true
+                  },
+                ],
+              },
             ],
           },
         },

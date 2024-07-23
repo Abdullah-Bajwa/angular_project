@@ -354,7 +354,180 @@ var apb_u_4_16 = {
       width: 450,
       height: 280,
       zoom: {
-        answers: [],
+        answers: [
+          {
+            paths: [
+              {
+                type: "underline",
+                top: 80,
+                left: 216,
+                width: 70,
+                rotate: 150,
+                text: "",
+                valid: true,
+                id: 1,
+              },
+              {
+                top: 100,
+                left: 210,
+                width: 8,
+                area: {
+                    top: 100,
+                    left: 210,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 1,
+                type: "checkmark",
+                valid: true
+            },
+            {
+              type: "underline",
+              top: 98,
+              left: 214,
+              width: 120,
+              rotate: 150,
+              text: "",
+              valid: true,
+              id: 2,
+            },
+            {
+              top: 125,
+              left: 210,
+              width: 8,
+              area: {
+                  top: 125,
+                  left: 210,
+                  width: 8,
+                  height: 8
+              }, 
+              underline: 2,
+              type: "checkmark",
+              valid: true
+          },
+          {
+            type: "underline",
+            top: 177,
+            left: 212,
+            width: 185,
+            rotate: 197,
+            text: "",
+            valid: true,
+            id: 3,
+          },
+          {
+            top: 150,
+            left: 210,
+            width: 8,
+            area: {
+                top: 150,
+                left: 210,
+                width: 8,
+                height: 8
+            }, 
+            underline: 3,
+            type: "checkmark",
+            valid: true
+        },   
+        {
+          type: "underline",
+          top: 171,
+          left: 220,
+          width: 165,
+          rotate: 177,
+          text: "",
+          valid: true,
+          id: 4,
+        },
+        {
+          top: 175,
+          left: 210,
+          width: 8,
+          area: {
+              top: 175,
+              left: 210,
+              width: 8,
+              height: 8
+          }, 
+          underline: 4,
+          type: "checkmark",
+          valid: true
+      },  
+      {
+        type: "underline",
+        top: 219,
+        left: 215,
+        width: 120,
+        rotate:197,
+        text: "",
+        valid: true,
+        id: 5,
+      },
+      {
+        top: 200,
+        left: 210,
+        width: 8,
+        area: {
+            top: 200,
+            left: 210,
+            width: 8,
+            height: 8
+        }, 
+        underline: 5,
+        type: "checkmark",
+        valid: true
+    },   
+    {
+      type: "underline",
+      top: 152,
+      left: 191,
+      width: 218,
+      rotate: 136,
+      text: "",
+      valid: true,
+      id: 6,
+    },
+    {
+      top: 225,
+      left: 210,
+      width: 8,
+      area: {
+          top: 225,
+          left: 210,
+          width: 8,
+          height: 8
+      }, 
+      underline: 6,
+      type: "checkmark",
+      valid: true
+  }, 
+  {
+    type: "underline",
+    top: 190,
+    left: 200,
+    width: 203,
+    rotate: 142,
+    text: "",
+    valid: true,
+    id: 7,
+  },
+  {
+    top: 250,
+    left: 210,
+    width: 8,
+    area: {
+        top: 250,
+        left: 210,
+        width: 8,
+        height: 8
+    }, 
+    underline: 7,
+    type: "checkmark",
+    valid: true
+},  
+            ],
+          },
+        ],
       },
     },
   ],

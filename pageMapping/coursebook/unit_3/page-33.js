@@ -5,7 +5,7 @@ var cou_u_3_33 = {
          top: 10,
          left: 8,
          width: 450,
-         height: 490,
+         height: 480,
          zoom: {
            answers: [
             

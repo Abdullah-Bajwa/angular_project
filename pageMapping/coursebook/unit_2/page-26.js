@@ -1,11 +1,11 @@
-var cou_u_2_22 = {
-	id: 22,
+var cou_u_2_26 = {
+	id: 26,
 	paths: [
     {
-     top: 5,
+     top: 10,
      left: 8,
      width: 450,
-     height: 385,
+     height: 490,
      zoom: {
        answers: [
         
@@ -13,10 +13,10 @@ var cou_u_2_22 = {
      },
    },
    {
-       top: 400,
+       top: 490,
        left: 8,
        width: 450,
-       height: 190,
+       height: 100,
        zoom: {
          answers: [
           
@@ -24,4 +24,4 @@ var cou_u_2_22 = {
        },
      },
  ],
-};
+   };

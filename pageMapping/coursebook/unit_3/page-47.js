@@ -5,7 +5,7 @@ var cou_u_3_47 = {
          top: 10,
          left: 8,
          width: 450,
-         height: 460,
+         height: 480,
          zoom: {
            answers: [
             
@@ -13,10 +13,10 @@ var cou_u_3_47 = {
          },
        },
        {
-           top: 480,
+           top: 497,
            left: 8,
            width: 450,
-           height: 120,
+           height: 100,
            zoom: {
              answers: [
               

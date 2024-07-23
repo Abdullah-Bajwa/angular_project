@@ -237,7 +237,132 @@ var apb_u_3_12 = {
       width: 450,
       height: 230,
       zoom: {
-        answers: [],
+        answers: [ 
+          {
+            paths: [
+              {
+                type: "underline",
+                top: 127,
+                left: 200,
+                width: 190,
+                rotate: 30,
+                text: "",
+                valid: true,
+                id: 1,
+              },
+              {
+                top: 90,
+                left: 200,
+                width: 8,
+                area: {
+                    top: 90,
+                    left: 200,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 1,
+                type: "checkmark",
+                valid: true
+            },
+              {
+                type: "underline",
+                top: 71,
+                left: 200,
+                width: 190,
+                rotate: -23,
+                text: "",
+                valid: true,
+                id: 2,
+              },
+              {
+                top: 120,
+                left: 200,
+                width: 8,
+                area: {
+                    top: 120,
+                    left: 200,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 2,
+                type: "checkmark",
+                valid: true
+            },
+              {
+                type: "underline",
+                top: 174,
+                left: 200,
+                width: 120,
+                rotate: 32,
+                text: "",
+                valid: true,
+                id: 3,
+              },
+              {
+                top: 150,
+                left: 200,
+                width: 8,
+                area: {
+                    top: 150,
+                    left: 200,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 3,
+                type: "checkmark",
+                valid: true
+            },
+              {
+                type: "underline",
+                top: 108,
+                left: 176,
+                width: 170,
+                rotate: -48,
+                text: "",
+                valid: true,
+                id: 4,
+              },
+              {
+                top: 180,
+                left: 200,
+                width: 8,
+                area: {
+                    top: 180,
+                    left: 200,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 4,
+                type: "checkmark",
+                valid: true
+            },
+              {
+                type: "underline",
+                top: 150,
+                left: 187,
+                width: 210,
+                rotate: -32,
+                text: "",
+                valid: true,
+                id: 5,
+              },
+              {
+                top: 210,
+                left: 200,
+                width: 8,
+                area: {
+                    top: 210,
+                    left: 200,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 5,
+                type: "checkmark",
+                valid: true
+            },
+            ],
+          },
+        ],
       },
     },
   ],

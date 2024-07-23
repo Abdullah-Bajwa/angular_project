@@ -146,8 +146,9 @@ var pageMappingBook2 = [
     },
     pageStart: "10",
     pageEnd: "29",
-    pageMapping: [ cou_u_2_10,cou_u_2_11, cou_u_2_12,cou_u_2_13, cou_u_2_14,cou_u_2_15, cou_u_2_16,cou_u_2_17,cou_u_2_18,cou_u_2_19,cou_u_2_20,cou_u_2_21
-      ,cou_u_2_22,cou_u_2_23,cou_u_2_24,cou_u_2_25,cou_u_2_27,cou_u_2_28,cou_u_2_29
+    pageMapping: [ cou_u_2_10,cou_u_2_11, cou_u_2_12,cou_u_2_13, cou_u_2_14,
+      cou_u_2_15, cou_u_2_16,cou_u_2_17,cou_u_2_18,cou_u_2_19,cou_u_2_20,cou_u_2_21
+      ,cou_u_2_22,cou_u_2_23,cou_u_2_24,cou_u_2_25,cou_u_2_26,cou_u_2_27,cou_u_2_28,cou_u_2_29
       ],
   },
   {

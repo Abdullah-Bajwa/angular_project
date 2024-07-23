@@ -5,7 +5,7 @@ var cou_u_4_64= {
          top: 10,
          left: 8,
          width: 450,
-         height: 470,
+         height: 460,
          zoom: {
            answers: [
             
