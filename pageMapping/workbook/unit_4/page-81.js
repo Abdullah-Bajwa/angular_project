@@ -1,29 +1,156 @@
-var work_u_4_81= {
-    id: 81,
-    paths: [
-        {
-        top: 15,
-        left: 10,
-        width: 450,
-        height: 290,
-        zoom: {
-          answers: [
-           
-          ],
-        },
-      },
-       
-        {
-          top: 300,
-          left: 8,
-          width: 450,
-          height: 280,
-          zoom: {
-            answers: [
-             
+var work_u_4_81 = {
+  id: 81,
+  paths: [
+    {
+      top: 15,
+      left: 10,
+      width: 450,
+      height: 290,
+      zoom: {
+        answers: [
+          {
+            paths: [
+              {
+                top: 93,
+                left: 80,
+                width: 50,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "comes",
+                valid: true,
+              },
+              {
+                top: 113,
+                left: 150,
+                width: 50,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "school",
+                valid: true,
+              },
+              {
+                top: 133,
+                left: 50,
+                width: 50,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "is",
+                valid: true,
+              },
+              {
+                top: 153,
+                left: 30,
+                width: 50,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "She",
+                valid: true,
+              },
+              {
+                top: 169,
+                left: 80,
+                width: 50,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "speaks",
+                valid: true,
+              },
+              {
+                top: 208,
+                left: 30,
+                width: 50,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "her",
+                valid: true,
+              },
+              {
+                top: 245,
+                left: 50,
+                width: 50,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "watches",
+                valid: true,
+              },
+              {
+                top: 245,
+                left: 140,
+                width: 50,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "goes",
+                valid: true,
+              },
             ],
           },
-        },
-        
-      ],
-    };
+        ],
+      },
+    },
+
+    {
+      top: 300,
+      left: 8,
+      width: 450,
+      height: 280,
+      zoom: {
+        answers: [
+          {
+            paths: [
+              {
+                top: 53,
+                left: 390,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "b",
+                valid: true,
+              },
+
+              {
+                top: 73,
+                left: 390,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "e",
+                valid: true,
+              },
+
+              {
+                top: 93,
+                left: 390,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "c",
+                valid: true,
+              },
+              {
+                top: 113,
+                left: 390,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "a",
+                valid: true,
+              },
+            ],
+          },
+        ],
+      },
+    },
+  ],
+};
