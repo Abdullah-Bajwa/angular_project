@@ -8,7 +8,133 @@ var work_u_1_8 = {
         height: 200,
         zoom: {
           answers: [
-           
+            {
+              paths: [
+                
+                {
+                  type: "underline",
+                  top: 123,
+                  left: 168,
+                  width: 106,
+                  rotate:33,
+                  text: "",
+                  valid: true,
+                  id: 3,
+                },
+                {
+                  top: 100,
+                  left: 167,
+                  width: 8,
+                  area: {
+                      top:100,
+                      left: 167,
+                      width: 8,
+                      height: 8
+                  }, 
+                  underline: 3,
+                  type: "checkmark",
+                  valid: true
+              },
+              {
+                type: "underline",
+                top: 123,
+                left: 173,
+                width: 96,
+                rotate:13,
+                text: "",
+                valid: true,
+                id: 4,
+              },
+              {
+                top: 118,
+                left: 167,
+                width: 8,
+                area: {
+                    top:118,
+                    left: 167,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 4,
+                type: "checkmark",
+                valid: true
+            },
+                {
+                  type: "underline",
+                  top: 107,
+                  left: 160,
+                  width: 110,
+                  rotate: -33,
+                  text: "",
+                  valid: true,
+                  id: 1,
+                },
+                {
+                  top: 140,
+                  left: 165,
+                  width: 8,
+                  area: {
+                      top: 140,
+                      left: 165,
+                      width: 8,
+                      height: 8
+                  }, 
+                  underline: 1,
+                  type: "checkmark",
+                  valid: true
+              },
+              {
+                type: "underline",
+                top: 135,
+                left: 155,
+                width: 120,
+                rotate: -45,
+                text: "",
+                valid: true,
+                id: 5,
+              },
+              {
+                top: 180,
+                left: 165,
+                width: 8,
+                area: {
+                    top: 180,
+                    left: 165,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 5,
+                type: "checkmark",
+                valid: true
+            },
+              {
+                type: "underline",
+                top: 165,
+                left: 175,
+                width: 90,
+                rotate: 15,
+                text: "",
+                valid: true,
+                id: 2,
+              },
+              {
+                top: 160,
+                left: 165,
+                width: 8,
+                area: {
+                    top: 160,
+                    left: 165,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 2,
+                type: "checkmark",
+                valid: true
+            },
+             
+          
+              ],
+            },
           ],
         },
       },
