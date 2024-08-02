@@ -2,10 +2,10 @@ var comp_u_1_6 = {
     id: 6,
     paths: [
         {
-          top: 15,
+          top: 40,
           left: 8,
           width: 450,
-          height: 240,
+          height: 290,
           zoom: {
             answers: [
              
@@ -13,10 +13,10 @@ var comp_u_1_6 = {
           },
         },
         {
-          top: 15,
+          top: 340,
           left: 8,
           width: 450,
-          height: 350,
+          height: 250,
           zoom: {
             answers: [
              

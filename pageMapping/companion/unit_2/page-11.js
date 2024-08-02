@@ -5,6 +5,6 @@ var comp_u_2_11 = {
             top: 10,
             left: 4,
             width: 450,
-            height: 585,
+            height: 589,
         }]
 }

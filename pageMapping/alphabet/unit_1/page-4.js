@@ -290,482 +290,128 @@ var apb_u_1_4 = {
         answers: [
           {
             paths: [
+             
               {
-                top: 123,
-                left: 72,
-                width: 8,
-                area: {
-                  top: 123,
-                  left: 72,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 123,
-                left: 160,
-                width: 8,
-                area: {
-                  top: 123,
-                  left: 160,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 123,
-                left: 247,
-                width: 8,
-                area: {
-                  top: 124,
-                  left: 247,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 122,
-                left: 336,
-                width: 8,
-                area: {
-                  top: 123,
-                  left: 336,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
+                type: "underline",
+                top: 138,
+                left: 242,
+                width: 119,
+                rotate: 59,
+                text: "",
                 valid: true,
+                id: 1,
               },
-            ],
-          },
-          {
-            paths: [
               {
-                top: 146,
-                left: 72,
+                top: 95,
+                left: 258,
                 width: 8,
                 area: {
-                  top: 146,
-                  left: 72,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
+                    top: 95,
+                    left: 258,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 1,
+                type: "checkmark",
+                valid: true
+            },
+              {
+                type: "underline",
+                top: 157,
+                left: 254,
+                width: 139,
+                rotate: 37,
+                text: "",
                 valid: true,
+                id: 2,
               },
               {
-                top: 146,
-                left: 159,
+                top: 126,
+                left: 258,
                 width: 8,
                 area: {
-                  top: 146,
-                  left: 159,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
+                    top: 126,
+                    left: 258,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 2,
+                type: "checkmark",
+                valid: true
+            },
               {
-                top: 146,
-                left: 247,
-                width: 8,
-                area: {
-                  top: 146,
-                  left: 247,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 146,
-                left: 334,
-                width: 8,
-                area: {
-                  top: 146,
-                  left: 334,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-            ],
-          },
-          {
-            paths: [
-              {
-                top: 171,
-                left: 72,
-                width: 8,
-                area: {
-                  top: 171,
-                  left: 72,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 171,
-                left: 159,
-                width: 8,
-                area: {
-                  top: 171,
-                  left: 159,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 171,
-                left: 247,
-                width: 8,
-                area: {
-                  top: 171,
-                  left: 247,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
+                type: "underline",
+                top: 155,
+                left: 270,
+                width: 90,
+                rotate: 10,
+                text: "",
                 valid: true,
+                id: 3,
               },
               {
-                top: 171,
-                left: 334,
+                top: 157,
+                left: 258,
                 width: 8,
                 area: {
-                  top: 171,
-                  left: 334,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-            ],
-          },
-          {
-            paths: [
+                    top: 157,
+                    left: 258,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 3,
+                type: "checkmark",
+                valid: true
+            },
               {
-                top: 195,
-                left: 72,
-                width: 8,
-                area: {
-                  top: 195,
-                  left: 72,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 195,
-                left: 159,
-                width: 8,
-                area: {
-                  top: 195,
-                  left: 159,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 195,
-                left: 247,
-                width: 8,
-                area: {
-                  top: 195,
-                  left: 247,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
+                type: "underline",
+                top: 131,
+                left: 245,
+                width: 160,
+                rotate: -37,
+                text: "",
                 valid: true,
+                id: 4,
               },
               {
-                top: 195,
-                left: 334,
+                top: 188,
+                left: 258,
                 width: 8,
                 area: {
-                  top: 195,
-                  left: 334,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-            ],
-          },
-          {
-            paths: [
+                    top: 188,
+                    left: 258,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 4,
+                type: "checkmark",
+                valid: true
+            },
               {
-                top: 219,
-                left: 72,
-                width: 8,
-                area: {
-                  top: 219,
-                  left: 72,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
+                type: "underline",
+                top: 140,
+                left: 222,
+                width: 162,
+                rotate: -58,
+                text: "",
+                valid: true,
+                id: 5,
               },
               {
                 top: 219,
-                left: 159,
+                left: 258,
                 width: 8,
                 area: {
-                  top: 219,
-                  left: 159,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: true,
-              },
-              {
-                top: 219,
-                left: 247,
-                width: 8,
-                area: {
-                  top: 219,
-                  left: 247,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 219,
-                left: 334,
-                width: 8,
-                area: {
-                  top: 219,
-                  left: 334,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-            ],
-          },
-          {
-            paths: [
-              {
-                top: 253,
-                left: 72,
-                width: 8,
-                area: {
-                  top: 253,
-                  left: 72,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: true,
-              },
-              {
-                top: 253,
-                left: 159,
-                width: 8,
-                area: {
-                  top: 253,
-                  left: 159,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 253,
-                left: 247,
-                width: 8,
-                area: {
-                  top: 253,
-                  left: 247,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 253,
-                left: 334,
-                width: 8,
-                area: {
-                  top: 253,
-                  left: 334,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-            ],
-          },
-          {
-            paths: [
-              {
-                top: 278,
-                left: 72,
-                width: 8,
-                area: {
-                  top: 278,
-                  left: 72,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 278,
-                left: 159,
-                width: 8,
-                area: {
-                  top: 278,
-                  left: 159,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 278,
-                left: 247,
-                width: 8,
-                area: {
-                  top: 278,
-                  left: 247,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 278,
-                left: 334,
-                width: 8,
-                area: {
-                  top: 278,
-                  left: 334,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: true,
-              },
-            ],
-          },
-          {
-            paths: [
-              {
-                top: 302,
-                left: 72,
-                width: 8,
-                area: {
-                  top: 302,
-                  left: 72,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 302,
-                left: 159,
-                width: 8,
-                area: {
-                  top: 302,
-                  left: 159,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: true,
-              },
-              {
-                top: 302,
-                left: 247,
-                width: 8,
-                area: {
-                  top: 302,
-                  left: 247,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 302,
-                left: 334,
-                width: 8,
-                area: {
-                  top: 302,
-                  left: 334,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
+                    top: 219,
+                    left: 258,
+                    width: 8,
+                    height: 8
+                }, 
+                underline: 5,
+                type: "checkmark",
+                valid: true
+            },
+             
             ],
           },
         ],

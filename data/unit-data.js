@@ -350,7 +350,7 @@ var pageMappingBook3 = [
   },
 ];
 
-//**************************Vocab MAPPING***********************************************
+//**************************Companion MAPPING***********************************************
 
 var pageMappingBook4 = [
   {
@@ -358,12 +358,13 @@ var pageMappingBook4 = [
     unitName: "Welcome",
     lessons: {
       1: "4",
+      2:"6",    
     },
     color: "#03a291",
     revision: false,
     pageStart: "4",
-    pageEnd: "6",
-    pageMapping: [vocb_u_1_2, vocb_u_1_3],
+    pageEnd: "16",
+    pageMapping: [comp_u_1_4,comp_u_1_5,comp_u_1_6],
   },
   {
     id: 2,
@@ -381,13 +382,15 @@ var pageMappingBook4 = [
       10: "19",
       11: "21",
       12: "23",
-      13: "24",
+      13: "25",
     },
     color: "#03a291",
     revision: false,
     pageStart: "7",
     pageEnd: "25",
-    pageMapping: [vocb_u_2_4, vocb_u_2_5],
+    pageMapping: [comp_u_2_7,comp_u_2_8,comp_u_2_9,comp_u_2_10,comp_u_2_11,comp_u_2_12,comp_u_2_13,comp_u_2_14,comp_u_2_15,comp_u_2_16
+      ,comp_u_2_17,comp_u_2_18,comp_u_2_19,comp_u_2_20,comp_u_2_21,comp_u_2_22,comp_u_2_23,comp_u_2_24,comp_u_2_25
+    ],
   },
   {
     id: 3,
@@ -406,12 +409,16 @@ var pageMappingBook4 = [
       11: "43",
       12: "44",
       13: "24",
+      14:"46"
     },
     color: "#03a291",
     revision: false,
     pageStart: "26",
     pageEnd: "45",
-    pageMapping: [vocb_u_2_4, vocb_u_2_5],
+    pageMapping: [comp_u_3_26,comp_u_3_27,comp_u_3_28,comp_u_3_29,comp_u_3_30,comp_u_3_31,comp_u_3_32,comp_u_3_33,comp_u_3_34
+      ,comp_u_3_35,comp_u_3_36,comp_u_3_37,comp_u_3_38,comp_u_3_39,comp_u_3_40,comp_u_3_41,comp_u_3_42,comp_u_3_43,comp_u_3_44,
+      comp_u_3_45
+    ],
   },
   {
     id: 4,
@@ -434,12 +441,16 @@ var pageMappingBook4 = [
       15: "68",
       16: "69",
       17: "72",
+      18:"73",
     },
     color: "#03a291",
     revision: false,
     pageStart: "46",
     pageEnd: "73",
-    pageMapping: [vocb_u_2_4, vocb_u_2_5],
+    pageMapping: [comp_u_4_46,comp_u_4_47,comp_u_4_48,comp_u_4_49,comp_u_4_50,comp_u_4_51,comp_u_4_52,comp_u_4_53,
+      comp_u_4_54,comp_u_4_55,comp_u_4_56,comp_u_4_57,comp_u_4_58,comp_u_4_59,comp_u_4_60,comp_u_4_61,comp_u_4_62,comp_u_4_63,
+      comp_u_4_64,comp_u_4_65,comp_u_4_66,comp_u_4_67,comp_u_4_68,comp_u_4_69,comp_u_4_70,comp_u_4_71,comp_u_4_72,comp_u_4_73
+    ],
   },
   {
     id: 5,
@@ -450,12 +461,20 @@ var pageMappingBook4 = [
       3: "76",
       4: "77",
       5: "78",
+      6:"79",
+      7: "80",
+      8: "81",
+      9: "82",
+      10: "83",
+      11: "84",
     },
     color: "#03a291",
     revision: false,
     pageStart: "74",
     pageEnd: "84",
-    pageMapping: [vocb_u_2_4, vocb_u_2_5],
+    pageMapping: [comp_u_5_74,comp_u_5_75,comp_u_5_76,comp_u_5_77,comp_u_5_78,comp_u_5_79,comp_u_5_80,comp_u_5_81,
+      comp_u_5_82,comp_u_5_83,comp_u_5_84
+    ],
   },
 ];
 var pageMappingBook5 = [

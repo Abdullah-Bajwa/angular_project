@@ -5,7 +5,7 @@ var comp_u_1_4 = {
          top: 10,
          left: 8,
          width: 450,
-         height: 390,
+         height: 500,
          zoom: {
            answers: [
             
@@ -13,16 +13,16 @@ var comp_u_1_4 = {
          },
        },
        {
-           top: 430,
-           left: 8,
-           width: 450,
-           height: 170,
-           zoom: {
-             answers: [
-              
-             ],
-           },
-         },
+        top: 50,
+        left: 8,
+        width: 450,
+        height: 500,
+        zoom: {
+          answers: [
+           
+          ],
+        },
+      },
      ],
    }; 
     

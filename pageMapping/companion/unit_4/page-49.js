@@ -1,78 +1,87 @@
 var comp_u_4_49 = {
-    id: 49,
-    paths: [
-        {
-            top: 20,
-            left: 4,
-            width: 450,
-            height: 170,
-        },
-        {
-            top: 190,
-            left: 4,
-            width: 450,
-            height: 390,
-             zoom: {
-                answers: [
-                    {
-                        paths: [
-                            
-                            {
-                                top: 279,
-                                left: 50,
-                                width: 130,
-                                type: "text",
-                                text: "It's your turn",
-                                valid: true
-                            },
-                            {
-                                top: 293,
-                                left: 108,
-                                width: 190,
-                                type: "text",
-                                text: "turn your back on",
-                                valid: true
-                            },
-                             {
-                                top: 307,
-                                left: 96,
-                                width: 145,
-                                type: "text",
-                                text: "take (it in) turns",
-                                valid: true
-                            },
-                            {
-                                top: 321,
-                                left: 198,
-                                width: 120,
-                                type: "text",
-                                text: "turns cold",
-                                valid: true
-                            },
-                            
-                            {
-                                top: 336,
-                                left: 83,
-                                width: 150,
-                                type: "text",
-                                text: "take (it in) turns",
-                                valid: true
-                            },
-                            
-                             
-                            {
-                                top: 350,
-                                left: 172,
-                                width: 110,
-                                type: "text",
-                                text: "turned her back on",
-                                valid: true
-                            },
-                            
-                        ]
-                    },
-                    
-                ]
-            }
-        }]
-}
+  id: 49,
+  paths: [
+    {
+      top: 20,
+      left: 4,
+      width: 450,
+      height: 239,
+      zoom:{
+        answers:[
+
+        ]
+      }
+    },
+    {
+      top: 270,
+      left: 4,
+      width: 450,
+      height: 300,
+      zoom:{
+        answers:[
+          {
+            paths: [ 
+                
+                  {
+                    top: 110,
+                    left: 90,
+                    width: 200,
+                    height: 16,
+                    font: 12,
+                    type: "text",
+                    text: "there αren't αny bαskets.",
+                    valid: true,
+                  },
+                  
+                
+                
+                  
+                  {
+                    top: 145,
+                    left: 55,
+                    width: 250,
+                    height: 16,
+                    font: 12,
+                    type: "text",
+                    text: "Yes, there is α/one chαir.",
+                    valid: true,
+                  },
+                  
+                 
+                  {
+                    top: 185,
+                    left: 110,
+                    width: 250,
+                    height: 16,
+                    font: 11,
+                    type: "text",
+                    text: "Yes, there αre some/two glαsses on the desks. ",
+                    valid: true,
+                  },
+                  {
+                    top: 225,
+                    left: 80,
+                    width: 250,
+                    height: 16,
+                    font: 11,
+                    type: "text",
+                    text: "Yes, I cαn see α/one footbαll. ",
+                    valid: true,
+                  },
+                  {
+                    top: 265,
+                    left: 80,
+                    width: 250,
+                    height: 16,
+                    font: 11,
+                    type: "text",
+                    text: "No, I cαn't see αny green shoes. ",
+                    valid: true,
+                  },
+            ],
+          },
+        ]
+      }
+    },
+  ],
+};

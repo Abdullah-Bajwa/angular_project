@@ -1,0 +1,166 @@
+var comp_u_2_8 = {
+    id: 8,
+    paths: [
+        {
+          top: 40,
+          left: 8,
+          width: 450,
+          height:341,
+          zoom: {
+            answers: [
+             
+            ],
+          },
+        },
+        {
+          top: 385,
+          left: 8,
+          width: 450,
+          height: 210,
+          zoom: {
+            answers: [
+              {
+                paths: [ 
+                    {
+                        top: 45,
+                        left: 220,
+                        width: 16,
+                        height:16,
+                        font:12,
+                        type: "text",
+                        text: "four",
+                        valid: true
+                      },
+                      {
+                        top: 65,
+                        left: 220,
+                        width: 30,
+                        height:16,
+                        font:12,
+                        type: "text",
+                        text: "robots",
+                        valid: true
+                      },
+                        
+                      {
+                        top: 45,
+                        left: 350,
+                        width: 16,
+                        height:16,
+                        font:12,
+                        type: "text",
+                        text: "two",
+                        valid: true
+                      },
+                      {
+                        top: 65,
+                        left: 350,
+                        width: 30,
+                        height:16,
+                        font:12,
+                        type: "text",
+                        text: "bikes",
+                        valid: true
+                      },
+
+
+
+
+
+
+
+
+
+
+
+                      {
+                        top: 135,
+                        left: 90,
+                        width: 16,
+                        height:16,
+                        font:12,
+                        type: "text",
+                        text: "five",
+                        valid: true
+                      },
+                      {
+                        top: 155,
+                        left: 90,
+                        width: 16,
+                        height:16,
+                        font:12,
+                        type: "text",
+                        text: "dolls",
+                        valid: true
+                      },
+
+                      {
+                        top: 135,
+                        left: 220,
+                        width: 16,
+                        height:16,
+                        font:12,
+                        type: "text",
+                        text: "three",
+                        valid: true
+                      },
+                      {
+                        top: 155,
+                        left: 220,
+                        width: 16,
+                        height:16,
+                        font:12,
+                        type: "text",
+                        text: "planes",
+                        valid: true
+                      },
+  
+
+                      {
+                        top: 135,
+                        left: 350,
+                        width: 16,
+                        height:16,
+                        font:12,
+                        type: "text",
+                        text: "eight",
+                        valid: true
+                      },
+                      {
+                        top: 155,
+                        left: 350,
+                        width: 16,
+                        height:16,
+                        font:12,
+                        type: "text",
+                        text: "pencils",
+                        valid: true
+                      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+                ],
+              },
+            ],
+          },
+        },
+      ],
+    };
+    

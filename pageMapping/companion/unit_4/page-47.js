@@ -2,79 +2,96 @@ var comp_u_4_47 = {
     id: 47,
     paths: [
         {
-            top: 19,
-            left: 4,
-            width: 450,
-            height: 560,
-        
-             zoom: {
-                answers: [
-                    {
-                        paths: [
-                            
-                            {
-                                top: 438,
-                                left: 73,
-                                width: 120,
-                                type: "text",
-                                text: "Carry on",
-                                valid: true
-                            },
-                            {
-                                top: 452,
-                                left: 118,
-                                width: 90,
-                                type: "text",
-                                text: "deal with",
-                                valid: true
-                            },
-                             {
-                                top: 466,
-                                left: 73,
-                                width: 195,
-                                type: "text",
-                                text: "Speak up",
-                                valid: true
-                            },
-                            {
-                                top: 480,
-                                left: 95,
-                                width: 180,
-                                type: "text",
-                                text: "get out of",
-                                valid: true
-                            },
-                            
-                            {
-                                top: 495,
-                                left: 115,
-                                width: 162,
-                                type: "text",
-                                text: "keep\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0down",
-                                valid: true
-                            },
-                            /*{
-                                top: 495,
-                                left: 215,
-                                width: 62,
-                                type: "text",
-                                text: "down",
-                                valid: true
-                            },*/
-                             
-                            {
-                                top: 509,
-                                left: 303,
-                                width: 80,
-                                type: "text",
-                                text: "getting at",
-                                valid: true
-                            },
-                            
-                        ]
-                    },
+          top: 40,
+          left: 8,
+          width: 450,
+          height: 300,
+          zoom: {
+            answers: [
+             
+            ],
+          },
+        },
+        {
+          top: 340,
+          left: 8,
+          width: 450,
+          height: 250,
+          zoom: {
+            answers: [
+              {
+                paths: [ 
                     
-                ]
-            }
-        }]
-}
+                      {
+                        top: 95,
+                        left: 70,
+                        width: 100,
+                        height: 16,
+                        font: 12,
+                        type: "text",
+                        text: "There is",
+                        valid: true,
+                      },
+                      
+                    
+                      {
+                        top: 120,
+                        left: 70,
+                        width: 100,
+                        height: 16,
+                        font: 12,
+                        type: "text",
+                        text: "There are",
+                        valid: true,
+                      },
+                      
+                      {
+                        top: 139,
+                        left: 55,
+                        width: 120,
+                        height: 16,
+                        font: 12,
+                        type: "text",
+                        text: "These are",
+                        valid: true,
+                      },
+                      
+                      {
+                        top: 160,
+                        left: 90,
+                        width: 50,
+                        height: 16,
+                        font: 12,
+                        type: "text",
+                        text: "There is",
+                        valid: true,
+                      },
+                      {
+                        top: 185,
+                        left: 80,
+                        width: 100,
+                        height: 16,
+                        font: 12,
+                        type: "text",
+                        text: "There is ",
+                        valid: true,
+                      },
+                      {
+                        top: 205,
+                        left: 70,
+                        width: 100,
+                        height: 16,
+                        font: 12,
+                        type: "text",
+                        text: "There is ",
+                        valid: true,
+                      },
+                      
+                ],
+              },
+            ],
+          },
+        },
+      ],
+    };
+    

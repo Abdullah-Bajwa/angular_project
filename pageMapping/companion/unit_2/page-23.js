@@ -2,75 +2,81 @@ var comp_u_2_23 = {
     id: 23,
     paths: [
         {
-            top: 20,
-            left: 4,
-            width: 450,
-            height: 570,
-            zoom: {
-                answers: [
-                    {
-                        paths: [
-                            {
-                                top: 425,
-                                left: 147,
-                                width: 110,
-                                type: "text",
-                                text: "go on",
-                                valid: true
-                            },
-                            {
-                                top: 438,
-                                left: 142,
-                                width: 108,
-                                type: "text",
-                                text: "count on",
-                                valid: true
-                            },
-                            {
-                                top: 450,
-                                left: 238,
-                                width: 95,
-                                type: "text",
-                                text: "got\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0back",
-                                valid: true
-                            },
-                            /*{
-                                top: 450,
-                                left: 288,
-                                width: 45,
-                                type: "text",
-                                text: "back",
-                                valid: true
-                            },*/
-                            {
-                                top: 463,
-                                left: 158,
-                                width: 115,
-                                type: "text",
-                                text: "find out",
-                                valid: true
-                            },
-                            {
-                                top: 475,
-                                left: 158,
-                                width: 100,
-                                type: "text",
-                                text: "made off with",
-                                valid: true
-                            },
-                            {
-                                top: 488,
-                                left: 147,
-                                width: 60,
-                                type: "text",
-                                text: "tie up",
-                                valid: true
-                            },
-                            
-                        ]
-                    },
+          top: 25,
+          left: 4,
+          width: 450,
+          height: 390,
+        },
+        {
+          top: 400,
+          left: 4,
+          width: 450,
+          height: 210,
+          zoom: {
+            answers: [
+              {
+                paths: [ 
+
                     
-                ]
-            }
-        }]
-}
+                      
+                      {
+                        top: 85,
+                        left: 260,
+                        width: 100,
+                        height: 16,
+                        font: 12,
+                        type: "text",
+                        text: "small boxes",
+                        valid: true,
+                      },
+                     
+                      {
+                        top: 115,
+                        left: 70,
+                        width: 100,
+                        height: 16,
+                        font: 12,
+                        type: "text",
+                        text: "new watches",
+                        valid: true,
+                      },
+                      {
+                        top: 115,
+                        left: 280,
+                        width: 100,
+                        height: 16,
+                        font: 12,
+                        type: "text",
+                        text: "nice presents",
+                        valid: true,
+                      },
+                     
+                      {
+                        top: 140,
+                        left: 70,
+                        width: 100,
+                        height: 16,
+                        font: 12,
+                        type: "text",
+                        text: "yellow parrots",
+                        valid: true,
+                      },
+                      {
+                        top: 140,
+                        left: 280,
+                        width: 100,
+                        height: 16,
+                        font: 12,
+                        type: "text",
+                        text: "happy friends",
+                        valid: true,
+                      },
+
+                ],
+              },
+            ],
+          },
+        },
+      ],
+    };
+    
