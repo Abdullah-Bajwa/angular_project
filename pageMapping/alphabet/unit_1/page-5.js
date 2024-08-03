@@ -7,83 +7,83 @@ var apb_u_1_5 = {
       width: 450,
       height: 200,
       zoom: {
-        answers: [ {
-          paths: [
-            {
-              top: 85,
-              left: 160,
-              width: 16,
-              height:16,
-              type: "text",
-              text: "C",
-              valid: true
-            },
-            {
-              top: 85,
-              left: 190,
-              width: 16,
-              height:16,
-              type: "text",
-              text: "A",
-              valid: true
-            },
-            {
-              top: 115,
-              left: 160,
-              width: 16,
-              height:16,
-              type: "text",
-              text: "B",
-              valid: true
-            },
-            {
-              top: 115,
-              left: 240,
-              width: 16,
-              height:16,
-              type: "text",
-              text: "A",
-              valid: true
-            },
-            {
-              top: 115,
-              left: 190,
-              width: 16,
-              height:16,
-              type: "text",
-              text: "A",
-              valid: true
-            },
-            {
-              top: 115,
-              left: 290,
-              width: 16,
-              height:16,
-              type: "text",
-              text: "A",
-              valid: true
-            },
-            {
-              top: 145,
-              left: 160,
-              width: 16,
-              height:16,
-              type: "text",
-              text: "A",
-              valid: true
-            },
-            {
-              top: 175,
-              left: 160,
-              width: 16,
-              height:16,
-              type: "text",
-              text: "D",
-              valid: true
-            },
-          ],
-        },
-          
+        answers: [
+          {
+            paths: [
+              {
+                top: 89,
+                left: 160,
+                width: 23,
+                height: 16,
+                type: "text",
+                text: "C",
+                valid: true,
+              },
+              {
+                top: 89,
+                left: 186,
+                width: 23,
+                height: 16,
+                type: "text",
+                text: "A",
+                valid: true,
+              },
+              {
+                top: 117,
+                left: 160,
+                width: 23,
+                height: 16,
+                type: "text",
+                text: "B",
+                valid: true,
+              },
+              {
+                top: 117,
+                left: 186,
+                width: 23,
+                height: 16,
+                type: "text",
+                text: "A",
+                valid: true,
+              },
+              {
+                top: 117,
+                left: 238,
+                width: 23,
+                height: 16,
+                type: "text",
+                text: "A",
+                valid: true,
+              },
+              {
+                top: 117,
+                left: 290,
+                width: 23,
+                height: 16,
+                type: "text",
+                text: "A",
+                valid: true,
+              },
+              {
+                top: 147,
+                left: 160,
+                width: 23,
+                height: 16,
+                type: "text",
+                text: "A",
+                valid: true,
+              },
+              {
+                top: 175,
+                left: 160,
+                width: 23,
+                height: 16,
+                type: "text",
+                text: "D",
+                valid: true,
+              },
+            ],
+          },
         ],
       },
     },
@@ -93,9 +93,7 @@ var apb_u_1_5 = {
       width: 450,
       height: 140,
       zoom: {
-        answers: [
-          
-        ],
+        answers: [],
       },
     },
     {
