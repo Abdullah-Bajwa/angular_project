@@ -266,11 +266,11 @@ var apb_u_2_8 = {
               },
               {
                 top: 92,
-                left: 262,
+                left: 267,
                 width: 8,
                 area: {
                   top: 95,
-                  left: 258,
+                  left: 263,
                   width: 8,
                   height: 8,
                 },

@@ -7,9 +7,7 @@ var apb_u_6_25 = {
       width: 450,
       height: 300,
       zoom: {
-        answers: [
-         
-        ],
+        answers: [],
       },
     },
     {
@@ -20,45 +18,163 @@ var apb_u_6_25 = {
       zoom: {
         answers: [
           {
-						paths: [
-							{
-								top: 85,
-								left: 185,
-								width: 30,
-                height:30,
-								type: "text",
-								text: "___",
-								valid: true
-							},
+            paths: [
               {
-								top: 120,
-								left: 67,
-								width: 30,
-                height:30,
-								type: "text",
-								text: "______",
-								valid: true
-							},
+                top: 95,
+                left: 40,
+                textTopOverride: -12,
+                width: 35,
+                height: 35,
+                type: "text",
+                text: "___",
+                valid: false,
+              },
               {
-								top: 157,
-								left: 295,
-								width: 30,
-                height:30,
-								type: "text",
-								text: "___",
-								valid: true
-							},
+                top: 95,
+                left: 185,
+                textTopOverride: -12,
+                width: 35,
+                height: 35,
+                type: "text",
+                text: "__",
+                valid: true,
+              },
               {
-								top: 194,
-								left: 65,
-								width: 30,
-                height:30,
-								type: "text",
-								text: "________",
-								valid: true
-							},
-						],
-					},
+                top: 95,
+                left: 290,
+                textTopOverride: -12,
+                width: 35,
+                height: 35,
+                type: "text",
+                text: "___",
+                valid: false,
+              },
+
+			  {
+                top: 130,
+                left: 65,
+                textTopOverride: -10,
+                width: 35,
+                height: 35,
+                type: "text",
+                text: "______",
+                valid: true,
+              },
+              {
+                top: 135,
+                left: 180,
+                textTopOverride: -10,
+                width: 35,
+                height: 35,
+                type: "text",
+                text: "___",
+                valid: false,
+              },
+              {
+                top: 135,
+                left: 300,
+                textTopOverride: -10,
+                width: 35,
+                height: 35,
+                type: "text",
+                text: "____",
+                valid: false,
+              },
+
+
+
+			  {
+                top: 165,
+                left: 55,
+                textTopOverride: -10,
+                width: 35,
+                height: 35,
+                type: "text",
+                text: "___",
+                valid: false,
+              },
+              {
+                top: 165,
+                left: 185,
+                textTopOverride: -10,
+                width: 35,
+                height: 35,
+                type: "text",
+                text: "__",
+                valid: false,
+              },
+              {
+                top: 163,
+                left: 294,
+                textTopOverride: -10,
+                width: 35,
+                height: 35,
+                type: "text",
+                text: "__",
+                valid: true,
+              },
+
+
+
+
+
+
+
+			  {
+                top: 200,
+                left: 69,
+                textTopOverride: -10,
+                width: 35,
+                height: 35,
+                type: "text",
+                text: "_____",
+                valid: true,
+              },
+              {
+                top: 200,
+                left: 195,
+                textTopOverride: -10,
+                width: 35,
+                height: 35,
+                type: "text",
+                text: "____",
+                valid: false,
+              },
+              {
+                top: 200,
+                left: 300,
+                textTopOverride: -10,
+                width: 35,
+                height: 35,
+                type: "text",
+                text: "____",
+                valid: false,
+              },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              
+              
+             
+            ],
+          },
         ],
       },
     },
