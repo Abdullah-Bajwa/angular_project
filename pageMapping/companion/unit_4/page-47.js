@@ -68,7 +68,7 @@ var comp_u_4_47 = {
                       },
                       {
                         top: 185,
-                        left: 80,
+                        left: 70,
                         width: 100,
                         height: 16,
                         font: 12,
