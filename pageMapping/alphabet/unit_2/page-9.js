@@ -17,7 +17,7 @@ var apb_u_2_9 = {
                 height: 16,
                 type: "text",
                 text: "e",
-                valid: true
+                valid: true,
               },
               {
                 top: 130,
@@ -26,7 +26,7 @@ var apb_u_2_9 = {
                 height: 16,
                 type: "text",
                 text: "f",
-                valid: true
+                valid: true,
               },
               {
                 top: 160,
@@ -35,18 +35,17 @@ var apb_u_2_9 = {
                 height: 16,
                 type: "text",
                 text: "d",
-                valid: true
+                valid: true,
               },
               {
-                top: 190,
+                top: 189,
                 left: 390,
                 width: 16,
                 height: 16,
                 type: "text",
                 text: "h",
-                valid: true
+                valid: true,
               },
-              
             ],
           },
         ],
@@ -64,102 +63,12 @@ var apb_u_2_9 = {
               {
                 top: 45,
                 left: 103,
-                width: 20,
-                height: 20,
+                width: 15,
+                height: 15,
                 area: {
-                  top: 75,
-                  left: 10,
-                  width: 100,
-                  height: 20,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 75,
-                left: 103,
-                width: 20,
-                height: 20,
-                area: {
-                  top: 70,
-                  left: 10,
-                  width: 120,
-                  height: 30,
-                },
-
-                type: "multiple",
-                valid: true,
-              },
-              {
-                top: 102,
-                left: 104,
-                width: 20,
-                height: 20,
-                area: {
-                  top: 130,
-                  left: 20,
-                  width: 100,
-                  height: 20,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 130,
-                left: 102,
-                width: 20,
-                height: 20,
-                area: {
-                  top: 130,
-                  left: 20,
-                  width: 100,
-                  height: 20,
-                },
-
-                type: "multiple",
-                valid: true,
-              },
-              {
-                top: 160,
-                left: 102,
-                width: 20,
-                height: 20,
-                area: {
-                  top: 190,
-                  left: 60,
-                  width:100,
-                  height: 30,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 185,
-                left: 102,
-                width: 20,
-                height: 20,
-                area: {
-                  top: 100,
-                  left: 40,
-                  width: 100,
-                  height: 30,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 156,
-                left: 243,
-                width: 20,
-                height: 20,
-                area: {
-                  top: 30,
-                  left: 50,
-                  width: 80,
+                  top: 45,
+                  left: 103,
+                  width: 20,
                   height: 20,
                 },
 
@@ -169,28 +78,75 @@ var apb_u_2_9 = {
               {
                 top: 45,
                 left: 243,
-                width: 20,
-                height: 20,
+                width: 15,
+                height: 15,
                 area: {
-                  top: 50,
-                  left: 150,
-                  width: 130,
-                  height: 30,
+                  top: 45,
+                  left: 243,
+                  width: 20,
+                  height: 20,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+
+              {
+                top: 76,
+                left: 105,
+                width: 15,
+                height: 15,
+                area: {
+                  top: 75,
+                  left: 103,
+                  width: 20,
+                  height: 20,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
+              {
+                top: 75,
+                left: 243,
+                width: 15,
+                height: 15,
+                area: {
+                  top: 75,
+                  left: 243,
+                  width: 20,
+                  height: 20,
                 },
 
                 type: "multiple",
                 valid: false,
               },
               {
-                top: 75,
-                left: 243,
-                width: 20,
-                height: 20,
+                top: 72,
+                left: 380,
+                width: 15,
+                height: 15,
                 area: {
-                  top: 80,
-                  left: 150,
-                  width: 130,
-                  height: 60,
+                  top: 72,
+                  left: 380,
+                  width: 20,
+                  height: 20,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+
+              {
+                top: 102,
+                left: 104,
+                width: 15,
+                height: 15,
+                area: {
+                  top: 102,
+                  left: 104,
+                  width: 20,
+                  height: 20,
                 },
 
                 type: "multiple",
@@ -199,13 +155,59 @@ var apb_u_2_9 = {
               {
                 top: 102,
                 left: 243,
-                width: 20,
-                height: 20,
+                width: 15,
+                height: 15,
                 area: {
-                  top: 110,
-                  left: 150,
-                  width: 130,
-                  height: 90,
+                  top: 102,
+                  left: 243,
+                  width: 20,
+                  height: 20,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+              {
+                top: 104,
+                left: 383,
+                width: 15,
+                height: 15,
+                area: {
+                  top: 102,
+                  left: 380,
+                  width: 20,
+                  height: 20,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
+
+              {
+                top: 132,
+                left: 105,
+                width: 15,
+                height: 15,
+                area: {
+                  top: 130,
+                  left: 102,
+                  width: 20,
+                  height: 20,
+                },
+
+                type: "multiple",
+                valid: true,
+              },
+              {
+                top: 130,
+                left: 243,
+                width: 15,
+                height: 15,
+                area: {
+                  top: 130,
+                  left: 243,
+                  width: 20,
+                  height: 20,
                 },
 
                 type: "multiple",
@@ -213,14 +215,30 @@ var apb_u_2_9 = {
               },
               {
                 top: 130,
-                left: 243,
-                width: 20,
-                height: 20,
+                left: 380,
+                width: 15,
+                height: 15,
                 area: {
-                  top: 120,
-                  left: 120,
-                  width: 60,
-                  height: 120,
+                  top: 130,
+                  left: 380,
+                  width: 20,
+                  height: 20,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+
+              {
+                top: 158,
+                left: 102,
+                width: 15,
+                height: 15,
+                area: {
+                  top: 158,
+                  left: 102,
+                  width: 20,
+                  height: 20,
                 },
 
                 type: "multiple",
@@ -228,104 +246,76 @@ var apb_u_2_9 = {
               },
               {
                 top: 160,
-                left: 243,
-                width: 20,
-                height: 20,
+                left: 244,
+                width: 15,
+                height: 15,
                 area: {
-                  top: 140,
-                  left: 140,
-                  width: 100,
-                  height: 150,
+                  top: 158,
+                  left: 243,
+                  width: 20,
+                  height: 20,
                 },
 
                 type: "multiple",
                 valid: true,
               },
+              {
+                top: 158,
+                left: 380,
+                width: 15,
+                height: 15,
+                area: {
+                  top: 158,
+                  left: 380,
+                  width: 20,
+                  height: 20,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+
               {
                 top: 185,
-                left: 243,
-                width: 20,
-                height: 20,
+                left: 102,
+                width: 15,
+                height: 15,
                 area: {
-                  top: 180,
-                  left: 180,
-                  width: 60,
-                  height: 30,
+                  top: 185,
+                  left: 102,
+                  width: 20,
+                  height: 20,
+                },
+
+                type: "multiple",
+                valid: false,
+              },
+              {
+                top: 188,
+                left: 245,
+                width: 15,
+                height: 15,
+                area: {
+                  top: 185,
+                  left: 243,
+                  width: 20,
+                  height: 20,
                 },
 
                 type: "multiple",
                 valid: true,
               },
-              {
-                top: 72,
-                left: 380,
-                width: 20,
-                height: 20,
-                area: {
-                  top: 115,
-                  left: 270,
-                  width: 70,
-                  height: 30,
-                },
 
-                type: "multiple",
-                valid: false,
-              },
-             {
-                top: 102,
-                left: 380,
-                width: 20,
-                height: 20,
-                area: {
-                  top: 90,
-                  left: 300,
-                  width: 60,
-                  height: 30,
-                },
-
-                type: "multiple",
-                valid: true,
-              },
               {
-                top: 132,
+                top: 185,
                 left: 380,
-                width: 20,
-                height: 20,
+                width: 15,
+                height: 15,
                 area: {
-                  top: 140,
-                  left: 270,
-                  width: 70,
-                  height: 30,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 162,
-                left: 380,
-                width: 20,
-                height: 20,
-                area: {
-                  top: 170,
-                  left: 270,
-                  width: 70,
-                  height: 30,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 192,
-                left: 380,
-                width: 20,
-                height: 20,
-                area: {
-                  top: 200,
-                  left: 270,
-                  width: 70,
-                  height: 30,
+                  top: 185,
+                  left: 380,
+                  width: 20,
+                  height: 20,
                 },
 
                 type: "multiple",
