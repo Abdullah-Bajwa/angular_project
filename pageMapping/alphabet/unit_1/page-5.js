@@ -107,20 +107,6 @@ var apb_u_1_5 = {
             paths: [
               {
                 top: 123,
-                left: 72,
-                width: 8,
-                area: {
-                  top: 123,
-                  left: 72,
-                  width: 40,
-                  height: 8,
-                },
-
-                type: "multiple",
-                valid: false,
-              },
-              {
-                top: 123,
                 left: 160,
                 width: 8,
                 area: {

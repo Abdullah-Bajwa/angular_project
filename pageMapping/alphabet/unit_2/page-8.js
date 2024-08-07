@@ -66,7 +66,7 @@ var apb_u_2_8 = {
                 width: 16,
                 height: 16,
                 type: "text",
-                text: "e",
+                text: "d",
                 valid: true,
                 font: 16,
               },

@@ -2,15 +2,6 @@ var apb_u_6_25 = {
   id: 25,
   paths: [
     {
-      top: 300,
-      left: 7,
-      width: 450,
-      height: 300,
-      zoom: {
-        answers: [],
-      },
-    },
-    {
       top: 10,
       left: 7,
       width: 450,
@@ -178,5 +169,15 @@ var apb_u_6_25 = {
         ],
       },
     },
+    {
+      top: 300,
+      left: 7,
+      width: 450,
+      height: 300,
+      zoom: {
+        answers: [],
+      },
+    },
+
   ],
 };

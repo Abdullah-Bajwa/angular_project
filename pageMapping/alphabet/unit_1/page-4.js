@@ -106,7 +106,7 @@ var apb_u_1_4 = {
                 width: 24,
                 height: 16,
                 type: "text",
-                text: "a",
+                text: "d",
                 valid: true,
               },
               {
