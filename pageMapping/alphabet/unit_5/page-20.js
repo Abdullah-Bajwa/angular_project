@@ -125,7 +125,7 @@ var apb_u_5_20 = {
               },
               {
                 top: 81,
-                left: 244,
+                left: 240,
                 font: 20,
                 textTopOverride: -10,
                 width: 25,
@@ -158,7 +158,7 @@ var apb_u_5_20 = {
               },
               {
                 top: 81,
-                left: 320,
+                left: 317,
                 width: 25,
                 textTopOverride: -10,
                 height: 25,
@@ -169,7 +169,7 @@ var apb_u_5_20 = {
               },
               {
                 top: 81,
-                left: 345,
+                left: 342,
                 textTopOverride: -10,
                 font: 20,
                 width: 25,
@@ -346,7 +346,7 @@ var apb_u_5_20 = {
               },
               {
                 top: 200,
-                left: 220,
+                left: 216,
                 width: 20,
                 textTopOverride: -10,
                 font: 20,
@@ -390,7 +390,7 @@ var apb_u_5_20 = {
               },
               {
                 top: 230,
-                left: 220,
+                left: 216,
                 width: 20,
                 textTopOverride: -10,
                 font: 20,
@@ -401,7 +401,7 @@ var apb_u_5_20 = {
               },
               {
                 top: 230,
-                left: 245,
+                left: 242,
                 width: 20,
                 textTopOverride: -10,
                 font: 20,

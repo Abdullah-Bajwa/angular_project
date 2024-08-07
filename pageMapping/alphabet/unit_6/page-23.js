@@ -114,8 +114,8 @@ var apb_u_6_23 = {
             paths: [
               {
                 top: 59,
-                left: 315,
-                width: 100,
+                left: 325,
+                width: 40,
                 height: 25,
                 font: 17,
                 textTopOverride: -10,
@@ -125,8 +125,8 @@ var apb_u_6_23 = {
               },
               {
                 top: 113,
-                left: 90,
-                width: 100,
+                left: 100,
+                width: 40,
                 font: 17,
                 textTopOverride: -10,
                 type: "text",
@@ -136,8 +136,8 @@ var apb_u_6_23 = {
               },
               {
                 top: 190,
-                left: 310,
-                width: 100,
+                left: 315,
+                width: 40,
                 font: 17,
                 textTopOverride: -10,
                 type: "text",
@@ -147,11 +147,11 @@ var apb_u_6_23 = {
               },
               {
                 top: 240,
-                left: 100,
-                width: 100,
+                left: 110,
+                width: 35,
                 type: "text",
                 font: 17,
-                textTopOverride: -7,
+                textTopOverride: -10,
                 height: 25,
                 text: "fox",
                 valid: true,
@@ -159,7 +159,7 @@ var apb_u_6_23 = {
               {
                 top: 330,
                 left: 320,
-                width: 100,
+                width: 35,
                 font: 17,
                 textTopOverride: -10,
                 type: "text",

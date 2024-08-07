@@ -11,10 +11,10 @@ var apb_u_7_27 = {
       },
     },
     {
-      top: 390,
+      top: 10,
       left: 8,
       width: 450,
-      height: 210,
+      height: 375,
       zoom: {
         answers: [
           {

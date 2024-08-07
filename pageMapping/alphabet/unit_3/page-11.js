@@ -3,6 +3,7 @@ var apb_u_3_11 = {
   paths: [
     {
       top: 10,
+      top: 10,
       left: 8,
       width: 450,
       height: 390,

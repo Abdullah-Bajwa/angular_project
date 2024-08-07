@@ -19,5 +19,16 @@ var apb_u_2_7 = {
         answers: [],
       },
     },
+    {
+      top: 350,
+      left: 10,
+      width: 450,
+      height: 250,
+      zoom: {
+        answers: [
+        ],
+      },
+    },
+
   ],
 };
