@@ -22,7 +22,7 @@ var apb_u_4_17 = {
                   height: 40,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: true,
               },
               {
@@ -37,7 +37,7 @@ var apb_u_4_17 = {
                   height: 40,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: false,
               },
               {
@@ -52,7 +52,7 @@ var apb_u_4_17 = {
                   height: 40,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: false,
               },
               {
@@ -67,7 +67,7 @@ var apb_u_4_17 = {
                   height: 40,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: false,
               },
               {
@@ -82,7 +82,7 @@ var apb_u_4_17 = {
                   height: 40,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: true,
               },
               {
@@ -97,7 +97,7 @@ var apb_u_4_17 = {
                   height: 40,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: false,
               },
               {
@@ -112,7 +112,7 @@ var apb_u_4_17 = {
                   height: 40,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: false,
               },
               {
@@ -127,7 +127,7 @@ var apb_u_4_17 = {
                   height: 40,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: false,
               },
               {
@@ -142,7 +142,7 @@ var apb_u_4_17 = {
                   height: 8,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: true,
               },
               {
@@ -157,7 +157,7 @@ var apb_u_4_17 = {
                   height: 40,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: false,
               },
               {
@@ -172,7 +172,7 @@ var apb_u_4_17 = {
                   height: 40,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: false,
               },
               {
@@ -187,7 +187,7 @@ var apb_u_4_17 = {
                   height: 40,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: false,
               },
               {
@@ -202,7 +202,7 @@ var apb_u_4_17 = {
                   height: 8,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: true,
               },
               {
@@ -217,7 +217,7 @@ var apb_u_4_17 = {
                   height: 8,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: false,
               },
               {
@@ -232,7 +232,7 @@ var apb_u_4_17 = {
                   height: 8,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: false,
               },
               {
@@ -247,7 +247,7 @@ var apb_u_4_17 = {
                   height: 8,
                 },
 
-                type: "multiple",
+                type: "multipleCircle",
                 valid: false,
               },
             ],
@@ -401,7 +401,6 @@ var apb_u_4_17 = {
         answers: [
           {
             paths: [
-              
               {
                 top: 60,
                 left: 162,
@@ -412,7 +411,7 @@ var apb_u_4_17 = {
                 text: "___",
                 valid: true,
               },
-                
+
               {
                 top: 60,
                 left: 50,
@@ -423,7 +422,7 @@ var apb_u_4_17 = {
                 text: "__",
                 valid: false,
               },
-                  
+
               {
                 top: 60,
                 left: 267,
@@ -434,7 +433,7 @@ var apb_u_4_17 = {
                 text: "__",
                 valid: false,
               },
-              
+
               {
                 top: 85,
                 left: 50,
@@ -451,7 +450,7 @@ var apb_u_4_17 = {
                 width: 45,
                 height: 30,
                 type: "text",
-                textTopOverride:4,
+                textTopOverride: 4,
                 text: "___",
                 valid: false,
               },
@@ -469,7 +468,7 @@ var apb_u_4_17 = {
                 top: 120,
                 left: 267,
                 width: 45,
-                textTopOverride:-10,
+                textTopOverride: -10,
                 height: 30,
                 type: "text",
                 text: "___",
@@ -479,7 +478,7 @@ var apb_u_4_17 = {
                 top: 120,
                 left: 162,
                 width: 45,
-                textTopOverride:-10,
+                textTopOverride: -10,
                 height: 30,
                 type: "text",
                 text: "___",
@@ -489,7 +488,7 @@ var apb_u_4_17 = {
                 top: 120,
                 left: 50,
                 width: 45,
-                textTopOverride:-10,
+                textTopOverride: -10,
                 height: 30,
                 type: "text",
                 text: "___",
@@ -501,7 +500,7 @@ var apb_u_4_17 = {
                 width: 45,
                 height: 30,
                 type: "text",
-                textTopOverride:-10,
+                textTopOverride: -10,
                 text: "__",
                 valid: true,
               },
@@ -511,7 +510,7 @@ var apb_u_4_17 = {
                 width: 45,
                 height: 30,
                 type: "text",
-                textTopOverride:-10,
+                textTopOverride: -10,
                 text: "__",
                 valid: false,
               },
@@ -521,15 +520,14 @@ var apb_u_4_17 = {
                 width: 45,
                 height: 30,
                 type: "text",
-                textTopOverride:-10,
+                textTopOverride: -10,
                 text: "__",
-                valid:false,
+                valid: false,
               },
             ],
           },
         ],
       },
     },
-
   ],
 };

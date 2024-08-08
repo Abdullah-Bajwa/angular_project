@@ -20,8 +20,8 @@ var apb_u_2_9 = {
                 valid: true,
               },
               {
-                top:96,
-                left:164,
+                top: 96,
+                left: 164,
                 width: 25,
                 height: 25,
                 area: {
@@ -30,7 +30,7 @@ var apb_u_2_9 = {
                   width: 20,
                   height: 20,
                 },
-                type: "multiple",
+                type: "multipleCircle",
                 valid: true,
               },
               {
@@ -43,8 +43,8 @@ var apb_u_2_9 = {
                 valid: true,
               },
               {
-                top:125,
-                left:218,
+                top: 125,
+                left: 218,
                 width: 25,
                 height: 25,
                 area: {
@@ -53,12 +53,12 @@ var apb_u_2_9 = {
                   width: 20,
                   height: 20,
                 },
-                type: "multiple",
+                type: "multipleCircle",
                 valid: true,
               },
               {
-                top:155,
-                left:248,
+                top: 155,
+                left: 248,
                 width: 25,
                 height: 25,
                 area: {
@@ -67,7 +67,7 @@ var apb_u_2_9 = {
                   width: 20,
                   height: 20,
                 },
-                type: "multiple",
+                type: "multipleCircle",
                 valid: true,
               },
               {
@@ -89,8 +89,8 @@ var apb_u_2_9 = {
                 valid: true,
               },
               {
-                top:184,
-                left:220,
+                top: 184,
+                left: 220,
                 width: 25,
                 height: 25,
                 area: {
@@ -99,7 +99,7 @@ var apb_u_2_9 = {
                   width: 20,
                   height: 20,
                 },
-                type: "multiple",
+                type: "multipleCircle",
                 valid: true,
               },
             ],
@@ -299,6 +299,7 @@ var apb_u_2_9 = {
                 },
 
                 type: "multiple",
+                circle: true,
                 valid: false,
               },
               {
