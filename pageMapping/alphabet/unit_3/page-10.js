@@ -5,24 +5,19 @@ var apb_u_3_10 = {
       top: 9,
       left: 8,
       width: 440,
-      height: 300,
+      height: 465,
       zoom: {
-        answers: [
-         
-        ],
+        answers: [],
       },
     },
     {
-      top: 320,
+      top: 420,
       left: 8,
-      width: 440,
-      height: 275,
+      width: 450,
+      height: 165,
       zoom: {
-        answers: [
-         
-        ],
+        answers: [],
       },
     },
-
   ],
 };

@@ -345,8 +345,30 @@ img {
 	width: 5px;
 	height: 100%;
 }
-
+/*
 .multiple.selected {
+	position: absolute;
+	top: 5px;
+	border: 1px solid red;
+	border-radius: 29px;
+}
+*/
+.multiple.selected {
+	display: inline-block;
+}
+.multiple.selected:after {
+	content: '';
+	display: block;
+	width: 9px;
+	height: 17px;
+	border: solid #e70404;
+	border-width: 0 2px 2px 0;
+	transform: rotate(45deg);
+	margin-top: -2px;
+	margin-left: 1px;
+}
+
+.multipleCircle.selected {
 	position: absolute;
 	top: 5px;
 	border: 1px solid red;

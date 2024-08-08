@@ -7,8 +7,16 @@ var apb_u_2_7 = {
       width: 450,
       height: 337,
       zoom: {
-        answers: [
-        ],
+        answers: [],
+      },
+    },
+    {
+      top: 350,
+      left: 10,
+      width: 450,
+      height: 250,
+      zoom: {
+        answers: [],
       },
     },
     {

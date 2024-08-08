@@ -41,11 +41,11 @@ var apb_u_6_25 = {
                 valid: false,
               },
 
-			  {
+              {
                 top: 130,
                 left: 65,
                 textTopOverride: -10,
-                width: 35,
+                width: 90,
                 height: 35,
                 type: "text",
                 text: "______",
@@ -72,9 +72,7 @@ var apb_u_6_25 = {
                 valid: false,
               },
 
-
-
-			  {
+              {
                 top: 165,
                 left: 55,
                 textTopOverride: -10,
@@ -105,17 +103,11 @@ var apb_u_6_25 = {
                 valid: true,
               },
 
-
-
-
-
-
-
-			  {
+              {
                 top: 200,
                 left: 69,
                 textTopOverride: -10,
-                width: 35,
+                width: 80,
                 height: 35,
                 type: "text",
                 text: "_____",
@@ -135,35 +127,12 @@ var apb_u_6_25 = {
                 top: 200,
                 left: 300,
                 textTopOverride: -10,
-                width: 35,
+                width: 80,
                 height: 35,
                 type: "text",
                 text: "____",
                 valid: false,
               },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-              
-              
-              
-             
             ],
           },
         ],
@@ -178,6 +147,5 @@ var apb_u_6_25 = {
         answers: [],
       },
     },
-
   ],
 };
