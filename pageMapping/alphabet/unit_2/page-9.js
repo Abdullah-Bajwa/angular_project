@@ -33,6 +33,81 @@ var apb_u_2_9 = {
                 type: "multipleCircle",
                 valid: true,
               },
+
+              {
+                top: 96,
+                left: 192,
+                width: 25,
+                height: 25,
+                area: {
+                  top: 75,
+                  left: 103,
+                  width: 20,
+                  height: 20,
+                },
+                type: "multipleCircle",
+                valid: false,
+              },
+              {
+              top: 96,
+              left: 220,
+              width: 25,
+              height: 25,
+              area: {
+                top: 75,
+                left: 103,
+                width: 20,
+                height: 20,
+              },
+              type: "multipleCircle",
+              valid: false,
+            },
+
+            {
+              top: 96,
+              left: 248,
+              width: 25,
+              height: 25,
+              area: {
+                top: 75,
+                left: 103,
+                width: 20,
+                height: 20,
+              },
+              type: "multipleCircle",
+              valid: false,
+            },
+
+            {
+              top: 125,
+              left: 164,
+              width: 25,
+              height: 25,
+              area: {
+                top: 75,
+                left: 103,
+                width: 20,
+                height: 20,
+              },
+              type: "multipleCircle",
+              valid: false,
+            },
+
+            {
+              top: 125,
+              left: 192,
+              width: 25,
+              height: 25,
+              area: {
+                top: 75,
+                left: 103,
+                width: 20,
+                height: 20,
+              },
+              type: "multipleCircle",
+              valid: false,
+            },
+
               {
                 top: 130,
                 left: 390,
@@ -56,6 +131,67 @@ var apb_u_2_9 = {
                 type: "multipleCircle",
                 valid: true,
               },
+
+              {
+                top: 125,
+                left: 248,
+                width: 25,
+                height: 25,
+                area: {
+                  top: 75,
+                  left: 103,
+                  width: 20,
+                  height: 20,
+                },
+                type: "multipleCircle",
+                valid: false,
+              },
+
+              {
+                top: 155,
+                left: 164,
+                width: 25,
+                height: 25,
+                area: {
+                  top: 75,
+                  left: 103,
+                  width: 20,
+                  height: 20,
+                },
+                type: "multipleCircle",
+                valid: false,
+              },
+
+              {
+                top: 155,
+                left: 192,
+                width: 25,
+                height: 25,
+                area: {
+                  top: 75,
+                  left: 103,
+                  width: 20,
+                  height: 20,
+                },
+                type: "multipleCircle",
+                valid: false,
+              },
+
+              {
+                top: 155,
+                left: 220,
+                width: 25,
+                height: 25,
+                area: {
+                  top: 75,
+                  left: 103,
+                  width: 20,
+                  height: 20,
+                },
+                type: "multipleCircle",
+                valid: false,
+              },
+
               {
                 top: 155,
                 left: 248,
@@ -88,6 +224,52 @@ var apb_u_2_9 = {
                 text: "h",
                 valid: true,
               },
+
+              {
+                top: 184,
+                left: 164,
+                width: 25,
+                height: 25,
+                area: {
+                  top: 75,
+                  left: 103,
+                  width: 20,
+                  height: 20,
+                },
+                type: "multipleCircle",
+                valid: false,
+              },
+
+              {
+                top: 184,
+                left: 192,
+                width: 25,
+                height: 25,
+                area: {
+                  top: 75,
+                  left: 103,
+                  width: 20,
+                  height: 20,
+                },
+                type: "multipleCircle",
+                valid: false,
+              },
+
+              {
+                top: 184,
+                left: 248,
+                width: 25,
+                height: 25,
+                area: {
+                  top: 75,
+                  left: 103,
+                  width: 20,
+                  height: 20,
+                },
+                type: "multipleCircle",
+                valid: false,
+              },
+
               {
                 top: 184,
                 left: 220,
