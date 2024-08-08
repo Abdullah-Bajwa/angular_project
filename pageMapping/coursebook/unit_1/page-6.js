@@ -5,24 +5,13 @@ var cou_u_1_6 = {
         top: 10,
         left: 8,
         width: 450,
-        height: 375,
+        height: 585,
         zoom: {
           answers: [
            
           ],
         },
       },
-        {
-          top: 390,
-          left: 8,
-          width: 450,
-          height: 210,
-          zoom: {
-            answers: [
-             
-            ],
-          },
-        },
 
       ],
     };
