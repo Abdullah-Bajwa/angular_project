@@ -23,7 +23,7 @@ var comp_u_2_24 = {
                 top: 65,
                 left: 170,
                 width: 50,
-                textTopOverride:3,
+                textTopOverride: 3,
                 height: 16,
                 font: 12,
                 type: "text",
@@ -36,7 +36,7 @@ var comp_u_2_24 = {
                 left: 297,
                 width: 50,
                 height: 16,
-                textTopOverride:3,
+                textTopOverride: 3,
                 font: 12,
                 type: "text",
                 text: "under",
@@ -147,60 +147,53 @@ var comp_u_2_24 = {
       top: 450,
       left: 8,
       width: 450,
-      height: 230,
+      height: 210,
       zoom: {
         answers: [
-
-            {
-                paths: [
-                 
-    
-               
-                  {
-                    top: 45,
-                    left: 70,
-                    width: 75,
-                    height: 16,
-                    font: 12,
-                    type: "text",
-                    text: "are",
-                    valid: true,
-                  },
-                  {
-                    top: 61,
-                    left: 94,
-                    width: 80,
-                    height: 16,
-                    font: 12,
-                    type: "text",
-                    text: "isn't",
-                    valid: true,
-                  },
-                  {
-                    top: 77,
-                    left: 50,
-                    width: 75,
-                    height: 16,
-                    font: 12,
-                    type: "text",
-                    text: "Is",
-                    valid: true,
-                  },
-                  {
-                    top: 96,
-                    left: 50,
-                    width: 75,
-                    height: 16,
-                    font: 12,
-                    type: "text",
-                    text: "Are",
-                    valid: true,
-                  },
-                 
-                 
-                 
-                ],
+          {
+            paths: [
+              {
+                top: 45,
+                left: 70,
+                width: 75,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "are",
+                valid: true,
               },
+              {
+                top: 61,
+                left: 94,
+                width: 80,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "isn't",
+                valid: true,
+              },
+              {
+                top: 77,
+                left: 50,
+                width: 75,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "Is",
+                valid: true,
+              },
+              {
+                top: 96,
+                left: 50,
+                width: 75,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "Are",
+                valid: true,
+              },
+            ],
+          },
         ],
       },
     },

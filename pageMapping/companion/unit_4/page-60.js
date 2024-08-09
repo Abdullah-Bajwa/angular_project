@@ -5,18 +5,16 @@ var comp_u_4_60 = {
       top: 20,
       left: 4,
       width: 450,
-      height: 320,
-      zoom:{
-        answers:[
-
-        ]
-      }
+      height: 300,
+      zoom: {
+        answers: [],
+      },
     },
     {
-      top: 330,
+      top: 315,
       left: 4,
       width: 450,
-      height: 300,
+      height: 255,
       zoom: {
         answers: [
           {

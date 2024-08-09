@@ -6,74 +6,67 @@ var comp_u_3_40 = {
       left: 4,
       width: 450,
       height: 285,
-      zoom:{
-        answers:[
-
-        ]
-      }
+      zoom: {
+        answers: [],
+      },
     },
     {
       top: 310,
       left: 4,
       width: 450,
-      height: 300,
+      height: 260,
       zoom: {
         answers: [
           {
-            paths: [ 
-             
-                  
-               
+            paths: [
               {
                 top: 105,
                 left: 50,
                 width: 180,
                 height: 16,
-                textTopOverride:-1,
+                textTopOverride: -1,
                 font: 12,
                 type: "text",
                 text: "These αre orαnges.",
                 valid: true,
-              },      
-                 
+              },
+
               {
-                top:149,
+                top: 149,
                 left: 50,
                 width: 180,
                 height: 16,
-                textTopOverride:-1,
+                textTopOverride: -1,
                 font: 12,
                 type: "text",
                 text: "These are pears.",
                 valid: true,
-              },     
-              
+              },
+
               {
                 top: 194,
                 left: 50,
                 width: 180,
                 height: 16,
-                textTopOverride:-1,
+                textTopOverride: -1,
                 font: 12,
                 type: "text",
                 text: "These αre watches.",
                 valid: true,
-              },      
-                 
+              },
+
               {
-                top:239,
+                top: 238,
                 left: 50,
                 width: 180,
                 height: 16,
-                textTopOverride:-1,
+                textTopOverride: -1,
                 font: 12,
                 type: "text",
                 text: "These are foxes.",
                 valid: true,
-              },   
-
-
-             ],
+              },
+            ],
           },
         ],
       },

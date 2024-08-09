@@ -14,7 +14,7 @@ var comp_u_2_13 = {
       top: 455,
       left: 8,
       width: 450,
-      height: 210,
+      height: 130,
       zoom: {
         answers: [
           {
