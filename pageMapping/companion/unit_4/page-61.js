@@ -24,9 +24,10 @@ var comp_u_4_61 = {
                 paths: [ 
                     
                       {
-                        top: 85,
-                        left: 90,
-                        width: 150,
+                        top: 90,
+                        left: 65,
+                        width: 198,
+                        textTopOverride:-2,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -38,10 +39,11 @@ var comp_u_4_61 = {
                     
                       
                       {
-                        top: 133,
-                        left: 110,
-                        width: 150,
+                        top: 135,
+                        left: 69,
+                        width: 190,
                         height: 16,
+                        textTopOverride:-2,
                         font: 12,
                         type: "text",
                         text: "always goes",
@@ -49,10 +51,11 @@ var comp_u_4_61 = {
                       },
                           
                       {
-                        top: 175,
-                        left: 110,
-                        width: 150,
+                        top: 178,
+                        left: 95,
+                        width: 210,
                         height: 16,
+                        textTopOverride:-1,
                         font: 12,
                         type: "text",
                         text: "is always",

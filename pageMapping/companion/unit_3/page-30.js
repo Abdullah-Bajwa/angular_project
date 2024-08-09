@@ -22,9 +22,9 @@ var comp_u_3_30 = {
               {
                 paths: [ 
                   {
-                    top: 50,
-                    left: 200,
-                    width: 180,
+                    top: 54,
+                    left: 210,
+                    width: 200,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -37,8 +37,8 @@ var comp_u_3_30 = {
                       
                       {
                         top: 75,
-                        left: 200,
-                        width: 170,
+                        left: 210,
+                        width: 200,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -48,8 +48,8 @@ var comp_u_3_30 = {
                       
                       {
                         top: 95,
-                        left: 200,
-                        width: 180,
+                        left: 210,
+                        width: 200,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -59,8 +59,8 @@ var comp_u_3_30 = {
                      
                       {
                         top: 115,
-                        left: 200,
-                        width: 180,
+                        left: 210,
+                        width: 200,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -69,8 +69,8 @@ var comp_u_3_30 = {
                       },
                       {
                         top: 135,
-                        left: 200,
-                        width: 180,
+                        left: 210,
+                        width: 200,
                         height: 16,
                         font: 12,
                         type: "text",

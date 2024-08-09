@@ -26,8 +26,8 @@ var comp_u_2_19 = {
                   
                   {
                     top: 55,
-                    left: 200,
-                    width: 100,
+                    left: 220,
+                    width: 80,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -36,8 +36,8 @@ var comp_u_2_19 = {
                   },
                   {
                     top: 55,
-                    left: 320,
-                    width: 100,
+                    left: 340,
+                    width: 65,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -47,8 +47,8 @@ var comp_u_2_19 = {
                   
                   {
                     top: 75,
-                    left: 200,
-                    width: 100,
+                    left: 220,
+                    width: 90,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -57,8 +57,8 @@ var comp_u_2_19 = {
                   },
                   {
                     top: 75,
-                    left: 320,
-                    width: 100,
+                    left: 345,
+                    width: 65,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -67,8 +67,8 @@ var comp_u_2_19 = {
                   },
                   {
                     top: 95,
-                    left: 215,
-                    width: 100,
+                    left: 235,
+                    width: 80,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -77,8 +77,8 @@ var comp_u_2_19 = {
                   },
                   {
                     top: 95,
-                    left: 330,
-                    width: 100,
+                    left: 350,
+                    width: 60,
                     height: 16,
                     font: 12,
                     type: "text",

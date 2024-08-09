@@ -25,9 +25,10 @@ var comp_u_4_59 = {
                     
                       
                       {
-                        top: 62,
-                        left: 90,
-                        width: 50,
+                        top: 64,
+                        left: 60,
+                        textTopOverride:-1,
+                        width: 100,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -37,8 +38,9 @@ var comp_u_4_59 = {
                        
                       {
                         top: 85,
-                        left: 120,
-                        width: 50,
+                        left: 80,
+                        width: 100,
+                        textTopOverride:-1,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -47,8 +49,8 @@ var comp_u_4_59 = {
                       },  
                       {
                         top: 106,
-                        left: 110,
-                        width: 50,
+                        left: 100,
+                        width: 110,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -57,8 +59,8 @@ var comp_u_4_59 = {
                       },  
                       {
                         top: 126,
-                        left: 110,
-                        width: 50,
+                        left: 80,
+                        width: 110,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -67,8 +69,8 @@ var comp_u_4_59 = {
                       },  
                       {
                         top: 146,
-                        left: 160,
-                        width: 50,
+                        left: 145,
+                        width: 110,
                         height: 16,
                         font: 12,
                         type: "text",

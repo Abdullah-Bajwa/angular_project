@@ -26,8 +26,9 @@ var comp_u_4_65 = {
                     
                       
                       {
-                        top: 70,
-                        left: 250,
+                        top: 74,
+                        left: 280,
+                        textTopOverride:-1,
                         width: 120,
                         height: 16,
                         font: 12,
@@ -37,8 +38,9 @@ var comp_u_4_65 = {
                       },  
                        
                       {
-                        top: 92,
-                        left: 250,
+                        top: 96,
+                        left: 280,
+                        textTopOverride:-1,
                         width: 120,
                         height: 16,
                         font: 12,
@@ -47,8 +49,9 @@ var comp_u_4_65 = {
                         valid: true,
                       },  
                       {
-                        top: 113,
-                        left: 250,
+                        top: 117,
+                        left: 280,
+                        textTopOverride:-1,
                         width: 120,
                         height: 16,
                         font: 12,

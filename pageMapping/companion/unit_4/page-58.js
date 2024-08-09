@@ -24,9 +24,10 @@ var comp_u_4_58= {
                     
                     
                       {
-                        top: 25,
-                        left: 300,
-                        width: 50,
+                        top: 30,
+                        left: 296,
+                        width: 60,
+                        textTopOverride:-3,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -34,9 +35,10 @@ var comp_u_4_58= {
                         valid: true,
                       },
                       {
-                        top: 40,
+                        top: 45,
                         left: 90,
-                        width: 50,
+                        textTopOverride:-2,
+                        width: 60,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -46,7 +48,8 @@ var comp_u_4_58= {
                       {
                         top: 60,
                         left: 90,
-                        width: 50,
+                        width: 60,
+                        textTopOverride:-2,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -55,8 +58,8 @@ var comp_u_4_58= {
                       },  
                       {
                         top: 60,
-                        left: 280,
-                        width: 50,
+                        left: 270,
+                        width: 70,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -64,9 +67,10 @@ var comp_u_4_58= {
                         valid: true,
                       },  
                       {
-                        top: 75,
-                        left: 260,
-                        width: 50,
+                        top: 79,
+                        left: 247,
+                        width: 65,
+                        textTopOverride:-1,
                         height: 16,
                         font: 12,
                         type: "text",

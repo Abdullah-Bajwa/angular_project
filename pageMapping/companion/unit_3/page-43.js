@@ -16,9 +16,9 @@ var comp_u_3_43= {
                       
                 
                       {
-                        top: 130,
-                        left: 240,
-                        width: 160,
+                        top: 126,
+                        left: 210,
+                        width: 190,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -28,9 +28,9 @@ var comp_u_3_43= {
                      
                       
                       {
-                        top: 155,
+                        top: 157,
                         left: 210,
-                        width: 160,
+                        width: 190,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -40,8 +40,8 @@ var comp_u_3_43= {
                          
                       {
                         top: 190,
-                        left: 200,
-                        width: 160,
+                        left: 210,
+                        width: 190,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -50,8 +50,8 @@ var comp_u_3_43= {
                       },
                       {
                         top: 220,
-                        left: 200,
-                        width: 160,
+                        left: 210,
+                        width: 190,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -60,8 +60,8 @@ var comp_u_3_43= {
                       },
                       {
                         top: 250,
-                        left: 220,
-                        width: 160,
+                        left: 210,
+                        width: 190,
                         height: 16,
                         font: 12,
                         type: "text",

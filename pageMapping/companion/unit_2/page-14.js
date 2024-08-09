@@ -24,9 +24,10 @@ var comp_u_2_14 = {
                  
     
                   {
-                    top: 80,
+                    top: 82,
                     left: 60,
-                    width: 90,
+                    width: 100,
+                    textTopOverride:1,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -35,9 +36,10 @@ var comp_u_2_14 = {
                   },
                   
                   {
-                    top: 80,
-                    left: 280,
-                    width: 90,
+                    top: 82,
+                    left: 295,
+                    width: 105,
+                    textTopOverride:1,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -46,9 +48,10 @@ var comp_u_2_14 = {
                   },
                    
                   {
-                    top: 115,
-                    left: 60,
-                    width: 90,
+                    top: 119,
+                    left: 50,
+                    width: 130,
+                    textTopOverride:-1,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -57,10 +60,11 @@ var comp_u_2_14 = {
                   },
                   
                   {
-                    top: 115,
-                    left: 280,
-                    width: 90,
+                    top: 119,
+                    left: 295,
+                    width: 110,
                     height: 16,
+                    textTopOverride:-1,
                     font: 12,
                     type: "text",
                     text: "we are.",

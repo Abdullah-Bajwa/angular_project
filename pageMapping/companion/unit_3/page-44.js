@@ -19,8 +19,8 @@ var comp_u_3_44= {
 
                   {
                     top: 70,
-                    left: 130,
-                    width: 70,
+                    left: 125,
+                    width: 100,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -33,8 +33,8 @@ var comp_u_3_44= {
 
                   {
                     top: 90,
-                    left: 100,
-                    width: 100,
+                    left: 65,
+                    width: 130,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -43,8 +43,8 @@ var comp_u_3_44= {
                   },   
                   {
                     top: 115,
-                    left: 100,
-                    width: 70,
+                    left: 80,
+                    width: 110,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -53,8 +53,8 @@ var comp_u_3_44= {
                   },    
                      
                   {
-                    top:135,
-                    left: 70,
+                    top:136,
+                    left: 60,
                     width: 130,
                     height: 16,
                     font: 12,
@@ -64,8 +64,9 @@ var comp_u_3_44= {
                   },     
                   {
                     top:155,
-                    left: 70,
-                    width: 80,
+                    left: 60,
+                    width: 120,
+                    textTopOverride:3,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -73,9 +74,9 @@ var comp_u_3_44= {
                     valid: true,
                   },    
                   {
-                    top:175,
+                    top:179,
                     left: 70,
-                    width: 100,
+                    width: 120,
                     height: 16,
                     font: 12,
                     type: "text",

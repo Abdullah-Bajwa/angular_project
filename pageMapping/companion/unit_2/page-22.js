@@ -1,248 +1,224 @@
 var comp_u_2_22 = {
-    id:22,
-    paths: [
-        {
-          top: 40,
-          left: 8,
-          width: 450,
-          height:300,
-          zoom: {
-            answers: [
-                
+  id: 22,
+  paths: [
+    {
+      top: 40,
+      left: 8,
+      width: 450,
+      height: 300,
+      zoom: {
+        answers: [],
+      },
+    },
+    {
+      top: 330,
+      left: 8,
+      width: 450,
+      height: 251,
+      zoom: {
+        answers: [
+          {
+            paths: [
+              {
+                top: 71,
+                left: 135,
+                width: 20,
+                height: 16,
+                textTopOverride:-1,
+                font: 12,
+                type: "text",
+                text: "i",
+                valid: true,
+              },
+              {
+                top: 71,
+                left: 158,
+                width: 20,
+                textTopOverride:-1,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "ee",
+                valid: true,
+              },
+              
+
+              {
+                top: 74,
+                left: 215,
+                width: 20,
+                textTopOverride:-1,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "i",
+                valid: true,
+              },
+              {
+                top: 74,
+                left: 240,
+                width: 20,
+                height: 16,
+                textTopOverride:-1,
+                font: 12,
+                type: "text",
+                text: "ee",
+                valid: true,
+              },
+              
+
+              {
+                top: 92,
+                left: 124,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                textTopOverride:-1,
+                text: "i",
+                valid: true,
+              },
+              {
+                top: 89,
+                left: 140,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "e",
+                valid: true,
+              },
+              {
+                top: 89,
+                left: 160,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "e",
+                valid: true,
+              },
+
+              {
+                top: 95,
+                left: 230,
+                textTopOverride:-1,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "e",
+                valid: true,
+              },
+
+              {
+                top: 95,
+                left: 257,
+                textTopOverride:-1,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "e",
+                valid: true,
+              },
+
+              {
+                top: 114,
+                left: 113,
+                textTopOverride:-1,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "ou",
+                valid: true,
+              },
+              {
+                top: 114,
+                left: 144,
+                textTopOverride:-1,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "ee",
+                valid: true,
+              },
+
+              {
+                top: 125,
+                textTopOverride:-1,
+                left: 220,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "e",
+                valid: true,
+              },
+
+              {
+                top: 125,
+                left: 240,
+                textTopOverride:-1,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "e",
+                valid: true,
+              },
+              {
+                top: 125,
+                left: 256,
+                textTopOverride:-1,
+                width: 20,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "e",
+                valid: true,
+              },
+
+              {
+                top: 147,
+                left: 149,
+                width: 15,
+                textTopOverride:-1,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "e",
+                valid: true,
+              },
+
+              {
+                top: 147,
+                left: 169,
+                textTopOverride:-1,
+                width: 15,
+                height: 16,
+                font: 12,
+                type: "text",
+                text: "e",
+                valid: true,
+              },
+              {
+                top: 147,
+                left: 199,
+                width: 15,
+                height: 16,
+                textTopOverride:-1,
+                font: 12,
+                type: "text",
+                text: "ee",
+                valid: true,
+              },
             ],
           },
-        },
-        {
-          top: 330,
-          left: 8,
-          width: 450,
-          height: 251,
-          zoom: {
-            answers: [
-                {
-                    paths: [
-                     
-        
-                   
-                      {
-                        top: 70,
-                        left: 120,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "i",
-                        valid: true,
-                      },
-                      {
-                        top: 70,
-                        left: 140,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-                      {
-                        top: 70,
-                        left: 148,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-                      
-
-
-                      {
-                        top: 70,
-                        left: 200,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "i",
-                        valid: true,
-                      },
-                      {
-                        top: 70,
-                        left: 220,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-                      {
-                        top: 70,
-                        left: 225,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-
-                      {
-                        top: 87,
-                        left: 110,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "i",
-                        valid: true,
-                      },
-                      {
-                        top: 87,
-                        left: 140,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-                      {
-                        top: 87,
-                        left: 148,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-
-
-
-
-                      
-                      {
-                        top: 94,
-                        left: 210,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-                     
-                      {
-                        top: 94,
-                        left: 240,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-
-                      {
-                        top: 110,
-                        left: 100,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "ou",
-                        valid: true,
-                      },
-                      {
-                        top: 110,
-                        left: 130,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "ee",
-                        valid: true,
-                      },
-                      
-                        
-                      {
-                        top: 124,
-                        left: 210,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-                     
-                      {
-                        top: 124,
-                        left: 225,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-                      {
-                        top: 124,
-                        left: 240,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-
-
-
-                      {
-                        top: 144,
-                        left: 130,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-                     
-                      {
-                        top: 144,
-                        left: 155,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "e",
-                        valid: true,
-                      },
-                      {
-                        top: 144,
-                        left: 180,
-                        width: 50,
-                        height: 16,
-                        font: 12,
-                        type: "text",
-                        text: "ee",
-                        valid: true,
-                      },
-
-
-
-
-
-
-
-                    ],
-                  },
-            ],
-          },
-        },
-      ],
-    }
+        ],
+      },
+    },
+  ],
+};

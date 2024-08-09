@@ -25,7 +25,8 @@ var comp_u_2_10 = {
                       {
                         top: 75,
                         left: 240,
-                        width: 120,
+                    
+                        width: 160,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -34,8 +35,8 @@ var comp_u_2_10 = {
                       },
                       {
                       top: 110,
-                      left: 260,
-                      width: 120,
+                      left: 240,
+                      width: 160,
                       height: 16,
                       font: 12,
                       type: "text",
@@ -44,8 +45,8 @@ var comp_u_2_10 = {
                     },
                     {
                         top: 145,
-                        left: 260,
-                        width: 120,
+                        left: 240,
+                        width: 160,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -54,8 +55,8 @@ var comp_u_2_10 = {
                       },
                       {
                         top: 180,
-                        left: 260,
-                        width: 150,
+                        left: 240,
+                        width: 160,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -64,8 +65,8 @@ var comp_u_2_10 = {
                       },
                       {
                         top: 215,
-                        left: 250,
-                        width: 150,
+                        left: 240,
+                        width: 160,
                         height: 16,
                         font: 12,
                         type: "text",

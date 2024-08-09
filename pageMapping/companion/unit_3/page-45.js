@@ -28,7 +28,7 @@ var comp_u_3_45 = {
                       
                       
                       {
-                        top: 125,
+                        top: 128,
                         left: 30,
                         width: 180,
                         height: 16,
@@ -49,7 +49,7 @@ var comp_u_3_45 = {
                       },
                      
                       {
-                        top: 185,
+                        top: 188,
                         left: 130,
                         width: 180,
                         height: 16,
@@ -79,8 +79,8 @@ var comp_u_3_45 = {
                         
                         {
                           top: 95,
-                          left: 150,
-                          width: 170,
+                          left: 165,
+                          width: 115,
                           height: 16,
                           font: 12,
                           type: "text",
@@ -89,8 +89,8 @@ var comp_u_3_45 = {
                         },
                         {
                           top: 95,
-                          left: 260,
-                          width: 170,
+                          left: 290,
+                          width: 120,
                           height: 16,
                           font: 12,
                           type: "text",
@@ -117,10 +117,11 @@ var comp_u_3_45 = {
                 paths: [ 
                     
                       {
-                        top: 110,
-                        left: 210,
-                        width: 100,
+                        top: 115,
+                        left: 200,
+                        width: 90,
                         height: 16,
+                        textTopOverride:-1,
                         font: 12,
                         type: "text",
                         text: "is flying",
@@ -129,9 +130,10 @@ var comp_u_3_45 = {
                       
                     
                       {
-                        top: 132,
-                        left: 200,
-                        width: 100,
+                        top: 136,
+                        left: 217,
+                        width: 80,
+                        textTopOverride:-1,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -141,8 +143,8 @@ var comp_u_3_45 = {
                       
                       {
                         top: 150,
-                        left: 170,
-                        width: 120,
+                        left: 190,
+                        width: 90,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -153,7 +155,7 @@ var comp_u_3_45 = {
                       {
                         top: 170,
                         left: 280,
-                        width: 50,
+                        width: 75,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -163,7 +165,7 @@ var comp_u_3_45 = {
                       {
                         top: 190,
                         left: 180,
-                        width: 100,
+                        width: 120,
                         height: 16,
                         font: 12,
                         type: "text",

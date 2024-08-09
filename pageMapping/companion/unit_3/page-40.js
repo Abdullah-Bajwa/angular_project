@@ -26,9 +26,10 @@ var comp_u_3_40 = {
                
               {
                 top: 105,
-                left: 70,
-                width: 130,
+                left: 50,
+                width: 180,
                 height: 16,
+                textTopOverride:-1,
                 font: 12,
                 type: "text",
                 text: "These αre orαnges.",
@@ -36,10 +37,11 @@ var comp_u_3_40 = {
               },      
                  
               {
-                top:145,
-                left: 70,
-                width: 130,
+                top:149,
+                left: 50,
+                width: 180,
                 height: 16,
+                textTopOverride:-1,
                 font: 12,
                 type: "text",
                 text: "These are pears.",
@@ -47,10 +49,11 @@ var comp_u_3_40 = {
               },     
               
               {
-                top: 190,
-                left: 70,
-                width: 130,
+                top: 194,
+                left: 50,
+                width: 180,
                 height: 16,
+                textTopOverride:-1,
                 font: 12,
                 type: "text",
                 text: "These αre watches.",
@@ -58,10 +61,11 @@ var comp_u_3_40 = {
               },      
                  
               {
-                top:235,
-                left: 70,
-                width: 130,
+                top:239,
+                left: 50,
+                width: 180,
                 height: 16,
+                textTopOverride:-1,
                 font: 12,
                 type: "text",
                 text: "These are foxes.",

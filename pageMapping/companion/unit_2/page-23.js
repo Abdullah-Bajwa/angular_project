@@ -11,7 +11,7 @@ var comp_u_2_23 = {
           top: 400,
           left: 4,
           width: 450,
-          height: 210,
+          height: 180,
           zoom: {
             answers: [
               {
@@ -21,8 +21,9 @@ var comp_u_2_23 = {
                       
                       {
                         top: 85,
-                        left: 260,
+                        left: 274,
                         width: 100,
+                      
                         height: 16,
                         font: 12,
                         type: "text",

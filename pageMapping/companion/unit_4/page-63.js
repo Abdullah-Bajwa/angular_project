@@ -25,8 +25,9 @@ var comp_u_4_63= {
                     
                       
                       {
-                        top: 62,
-                        left: 130,
+                        top: 65,
+                        left: 90,
+                        textTopOverride:-2,
                         width: 200,
                         height: 16,
                         font: 12,
@@ -36,9 +37,10 @@ var comp_u_4_63= {
                       },  
                        
                       {
-                        top: 85,
-                        left: 120,
-                        width: 200,
+                        top: 88,
+                        left: 110,
+                        width: 180,
+                        textTopOverride:-2,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -46,9 +48,10 @@ var comp_u_4_63= {
                         valid: true,
                       },  
                       {
-                        top: 106,
-                        left: 120,
-                        width: 200,
+                        top: 109,
+                        left: 100,
+                        textTopOverride:-2,
+                        width: 190,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -56,9 +59,10 @@ var comp_u_4_63= {
                         valid: true,
                       },  
                       {
-                        top: 130,
-                        left: 120,
-                        width: 150,
+                        top: 134,
+                        left: 80,
+                        width: 200,
+                        textTopOverride:-2,
                         height: 16,
                         font: 12,
                         type: "text",

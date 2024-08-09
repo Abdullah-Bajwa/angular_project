@@ -24,10 +24,11 @@ var comp_u_4_57 = {
                     
                     
                       {
-                        top: 45,
+                        top: 49,
                         left: 200,
-                        width: 160,
+                        width: 200,
                         height: 16,
+                        textTopOverride:-1,
                         font: 12,
                         type: "text",
                         text: "The kids reαd their comics. ",
@@ -36,7 +37,7 @@ var comp_u_4_57 = {
                       {
                         top: 65,
                         left: 200,
-                        width: 160,
+                        width: 200,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -46,7 +47,7 @@ var comp_u_4_57 = {
                       {
                         top: 85,
                         left: 200,
-                        width: 160,
+                        width: 200,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -54,9 +55,10 @@ var comp_u_4_57 = {
                         valid: true,
                       },   
                       {
-                        top: 105,
+                        top: 109,
                         left: 200,
-                        width: 160,
+                        textTopOverride:-1,
+                        width: 200,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -64,9 +66,10 @@ var comp_u_4_57 = {
                         valid: true,
                       },                     
                       {
-                        top: 125,
+                        top: 128,
                         left: 200,
-                        width: 160,
+                        textTopOverride:-1,
+                        width: 200,
                         height: 16,
                         font: 12,
                         type: "text",

@@ -12,9 +12,10 @@ var comp_u_3_32 = {
                 paths: [ 
                  
                   {
-                    top: 205,
-                    left: 320,
-                    width: 60,
+                    top: 208,
+                    left: 317,
+                    textTopOverride:-1,
+                    width: 84,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -24,7 +25,8 @@ var comp_u_3_32 = {
                       {
                         top: 225,
                         left: 120,
-                        width: 60,
+                        textTopOverride:1,
+                        width: 84,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -34,9 +36,10 @@ var comp_u_3_32 = {
                        
 
                       {
-                        top: 230,
+                        top: 227,
                         left: 320,
-                        width: 60,
+                        width: 84,
+                        textTopOverride:1,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -44,9 +47,10 @@ var comp_u_3_32 = {
                         valid: true,
                       },  
                           {
-                            top: 250,
+                            top: 247,
                             left: 120,
-                            width: 60,
+                            width: 84,
+                            textTopOverride:1,
                             height: 16,
                             font: 12,
                             type: "text",
@@ -54,9 +58,10 @@ var comp_u_3_32 = {
                             valid: true,
                           },
                           {
-                            top: 250,
+                            top: 247,
                             left: 320,
-                            width: 60,
+                            width: 84,
+                            textTopOverride:1,
                             height: 16,
                             font: 12,
                             type: "text",
@@ -83,8 +88,8 @@ var comp_u_3_32 = {
                  
                   {
                     top: 76,
-                    left: 190,
-                    width: 60,
+                    left: 192,
+                    width: 100,
                     height: 16,
                     font: 12,
                     type: "text",

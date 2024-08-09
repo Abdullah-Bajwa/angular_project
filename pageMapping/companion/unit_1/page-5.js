@@ -17,18 +17,18 @@ var comp_u_1_5 = {
       }
     },
     {
-      top: 401,
+      top: 430,
       left: 4,
       width: 450,
-      height: 250,
+      height: 155,
       zoom: {
         answers: [
           {
             paths: [ 
                 {
-                    top: 85,
-                    left: 310,
-                    width: 16,
+                    top: 55,
+                    left: 280,
+                    width: 70,
                     height:16,
                     font:12,
                     type: "text",
@@ -36,9 +36,9 @@ var comp_u_1_5 = {
                     valid: true
                   },
                   {
-                    top: 105,
-                    left: 110,
-                    width: 16,
+                    top: 75,
+                    left: 85,
+                    width: 70,
                     height:16,
                     font:12,
                     type: "text",
@@ -46,9 +46,9 @@ var comp_u_1_5 = {
                     valid: true
                   },
                   {
-                    top: 105,
-                    left: 260,
-                    width: 16,
+                    top: 75,
+                    left: 245,
+                    width: 50,
                     height:16,
                     font:12,
                     type: "text",
@@ -56,9 +56,9 @@ var comp_u_1_5 = {
                     valid: true
                   },
                   {
-                    top: 125,
-                    left: 70,
-                    width: 16,
+                    top: 95,
+                    left: 60,
+                    width: 35,
                     height:16,
                     font:12,
                     type: "text",
@@ -66,9 +66,9 @@ var comp_u_1_5 = {
                     valid: true
                   },
                   {
-                    top: 125,
-                    left: 300,
-                    width: 16,
+                    top: 95,
+                    left: 280,
+                    width: 90,
                     height:16,
                     font:12,
                     type: "text",
@@ -76,9 +76,9 @@ var comp_u_1_5 = {
                     valid: true
                   },
                   {
-                    top: 145,
-                    left: 110,
-                    width: 16,
+                    top: 115,
+                    left: 90,
+                    width: 90,
                     height:16,
                     font:12,
                     type: "text",
@@ -86,9 +86,9 @@ var comp_u_1_5 = {
                     valid: true
                   },
                   {
-                    top: 145,
-                    left: 300,
-                    width: 16,
+                    top: 115,
+                    left: 270,
+                    width: 90,
                     height:16,
                     font:12,
                     type: "text",

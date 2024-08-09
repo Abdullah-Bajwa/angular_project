@@ -24,9 +24,10 @@ var comp_u_2_15 = {
                  
     
                   {
-                    top: 65,
-                    left: 80,
-                    width: 90,
+                    top: 67,
+                    left: 100,
+                    width: 65,
+                    textTopOverride:1,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -36,8 +37,8 @@ var comp_u_2_15 = {
                   
                   {
                     top: 65,
-                    left: 180,
-                    width: 90,
+                    left: 190,
+                    width: 60,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -46,8 +47,9 @@ var comp_u_2_15 = {
                   },
                   {
                     top: 88,
-                    left: 80,
-                    width: 90,
+                    left: 100,
+                    textTopOverride:1,
+                    width: 55,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -57,8 +59,9 @@ var comp_u_2_15 = {
                   
                   {
                     top: 88,
-                    left: 170,
-                    width: 90,
+                    left: 185,
+                    textTopOverride:1,
+                    width: 55,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -67,8 +70,9 @@ var comp_u_2_15 = {
                   },
                   {
                     top: 107,
-                    left: 80,
-                    width: 90,
+                    left: 100,
+                    textTopOverride:1,
+                    width: 55,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -78,8 +82,9 @@ var comp_u_2_15 = {
                   
                   {
                     top: 107,
-                    left: 170,
-                    width: 90,
+                    left: 190,
+                    textTopOverride:1,
+                    width: 55,
                     height: 16,
                     font: 12,
                     type: "text",

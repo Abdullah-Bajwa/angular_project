@@ -26,9 +26,10 @@ var comp_u_4_66 = {
                     
                       
                       {
-                        top: 60,
-                        left: 70,
-                        width: 120,
+                        top: 64,
+                        left: 77,
+                        width: 135,
+                        textTopOverride:-1,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -37,9 +38,10 @@ var comp_u_4_66 = {
                       },  
                        
                       {
-                        top: 80,
-                        left: 70,
-                        width: 120,
+                        top: 85,
+                        left: 65,
+                        textTopOverride:-1,
+                        width: 130,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -47,9 +49,10 @@ var comp_u_4_66 = {
                         valid: true,
                       },  
                       {
-                        top: 105,
-                        left: 70,
-                        width: 120,
+                        top: 109,
+                        left: 75,
+                        textTopOverride:-1,
+                        width: 135,
                         height: 16,
                         font: 12,
                         type: "text",

@@ -27,9 +27,10 @@ var comp_u_4_68= {
                     
                      
                     {
-                      top: 75,
-                      left: 140,
-                      width: 120,
+                      top: 79,
+                      left: 173,
+                      width: 65,
+                      textTopOverride:-1,
                       height: 16,
                       font: 12,
                       type: "text",
@@ -38,8 +39,9 @@ var comp_u_4_68= {
                     },  
                     {
                       top: 100,
-                      left: 210,
-                      width: 120,
+                      left: 250,
+                      textTopOverride:-1,
+                      width: 55,
                       height: 16,
                       font: 12,
                       type: "text",
@@ -48,8 +50,9 @@ var comp_u_4_68= {
                     },  
                     {
                       top: 120,
-                      left: 170,
-                      width: 120,
+                      left: 205,
+                      width: 65,
+                      textTopOverride:-1,
                       height: 16,
                       font: 12,
                       type: "text",
@@ -57,9 +60,10 @@ var comp_u_4_68= {
                       valid: true,
                     },
                     {
-                      top: 146,
-                      left: 160,
-                      width: 120,
+                      top: 143,
+                      left: 195,
+                      width: 65,
+                      textTopOverride:-1,
                       height: 16,
                       font: 12,
                       type: "text",
@@ -68,8 +72,9 @@ var comp_u_4_68= {
                     },
                     {
                       top: 166,
-                      left: 180,
-                      width: 120,
+                      left: 215,
+                      textTopOverride:-1,
+                      width: 70,
                       height: 16,
                       font: 12,
                       type: "text",

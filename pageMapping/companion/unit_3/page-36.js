@@ -24,8 +24,8 @@ var comp_u_3_36 = {
                 paths: [ 
                   {
                     top: 59,
-                    left: 140,
-                    width: 180,
+                    left: 150,
+                    width: 255,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -38,8 +38,8 @@ var comp_u_3_36 = {
                       
                       {
                         top: 80,
-                        left: 140,
-                        width: 170,
+                        left: 150,
+                        width: 255,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -48,9 +48,9 @@ var comp_u_3_36 = {
                       },
                       
                       {
-                        top: 100,
-                        left: 140,
-                        width: 180,
+                        top: 102,
+                        left: 150,
+                        width: 255,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -61,8 +61,8 @@ var comp_u_3_36 = {
                     
                       {
                         top: 125,
-                        left: 140,
-                        width: 180,
+                        left: 150,
+                        width: 255,
                         height: 16,
                         font: 12,
                         type: "text",

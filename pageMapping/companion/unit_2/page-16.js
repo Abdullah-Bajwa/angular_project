@@ -26,8 +26,8 @@ var comp_u_2_16 = {
                   
                   {
                     top: 88,
-                    left: 230,
-                    width: 90,
+                    left: 250,
+                    width: 100,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -36,8 +36,8 @@ var comp_u_2_16 = {
                   },
                   {
                     top: 107,
-                    left: 60,
-                    width: 90,
+                    left: 40,
+                    width: 85,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -46,8 +46,8 @@ var comp_u_2_16 = {
                   },
                   {
                     top: 107,
-                    left: 230,
-                    width: 90,
+                    left: 245,
+                    width: 100,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -66,8 +66,8 @@ var comp_u_2_16 = {
                   },
                   {
                     top: 127,
-                    left: 230,
-                    width: 90,
+                    left: 237,
+                    width: 100,
                     height: 16,
                     font: 12,
                     type: "text",

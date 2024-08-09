@@ -23,9 +23,10 @@ var comp_u_4_49 = {
             paths: [ 
                 
                   {
-                    top: 110,
-                    left: 90,
-                    width: 200,
+                    top: 114,
+                    left: 120,
+                    textTopOverride:-1,
+                    width: 260,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -37,10 +38,11 @@ var comp_u_4_49 = {
                 
                   
                   {
-                    top: 145,
-                    left: 55,
-                    width: 250,
+                    top: 150,
+                    left: 95,
+                    width: 265,
                     height: 16,
+                    textTopOverride:-1,
                     font: 12,
                     type: "text",
                     text: "Yes, there is α/one chαir.",
@@ -49,9 +51,10 @@ var comp_u_4_49 = {
                   
                  
                   {
-                    top: 185,
-                    left: 110,
-                    width: 250,
+                    top: 189,
+                    left: 100,
+                    width: 280,
+                    textTopOverride:-1,
                     height: 16,
                     font: 11,
                     type: "text",
@@ -59,9 +62,10 @@ var comp_u_4_49 = {
                     valid: true,
                   },
                   {
-                    top: 225,
-                    left: 80,
-                    width: 250,
+                    top: 230,
+                    left: 100,
+                    textTopOverride:-1,
+                    width: 270,
                     height: 16,
                     font: 11,
                     type: "text",
@@ -69,9 +73,10 @@ var comp_u_4_49 = {
                     valid: true,
                   },
                   {
-                    top: 265,
-                    left: 80,
-                    width: 250,
+                    top: 266,
+                    left: 90,
+                    textTopOverride:-1,
+                    width: 240,
                     height: 16,
                     font: 11,
                     type: "text",

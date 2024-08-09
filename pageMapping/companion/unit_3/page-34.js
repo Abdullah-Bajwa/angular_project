@@ -21,7 +21,7 @@ var comp_u_3_34 = {
                   {
                     top: 70,
                     left: 70,
-                    width: 60,
+                    width: 100,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -32,7 +32,7 @@ var comp_u_3_34 = {
                    
                   {
                     top: 95,
-                    left: 70,
+                    left: 80,
                     width: 100,
                     height: 16,
                     font: 12,
@@ -42,7 +42,7 @@ var comp_u_3_34 = {
                   },      
                   {
                     top:120,
-                    left: 70,
+                    left: 80,
                     width: 100,
                     height: 16,
                     font: 12,
@@ -52,7 +52,7 @@ var comp_u_3_34 = {
                   },   
                   {
                     top:140,
-                    left: 70,
+                    left: 80,
                     width: 100,
                     height: 16,
                     font: 12,
@@ -62,7 +62,7 @@ var comp_u_3_34 = {
                   },     
                   {
                     top:165,
-                    left: 70,
+                    left: 60,
                     width: 100,
                     height: 16,
                     font: 12,

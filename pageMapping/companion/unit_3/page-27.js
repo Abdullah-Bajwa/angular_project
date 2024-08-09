@@ -25,19 +25,21 @@ var comp_u_3_27 = {
     
                
                   {
-                    top: 52,
+                    top: 53,
                     left: 250,
-                    width: 100,
+                    width: 150,
                     height: 16,
+                    textTopOverride:2,
                     font: 12,
                     type: "text",
-                    text: "αre/'re reαding",
+                    text: "αre/'re reαding.",
                     valid: true,
                   },
                   {
                     top: 70,
                     left: 250,
-                    width: 100,
+                    width: 150,
+                    textTopOverride:2,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -47,8 +49,9 @@ var comp_u_3_27 = {
                   {
                     top: 90,
                     left: 250,
-                    width: 100,
+                    width: 150,
                     height: 16,
+                    textTopOverride:2,
                     font: 12,
                     type: "text",
                     text: "is/'s flying.",
@@ -57,7 +60,8 @@ var comp_u_3_27 = {
                   {
                     top: 113,
                     left: 250,
-                    width: 100,
+                    width: 150,
+                    textTopOverride:2,
                     height: 16,
                     font: 12,
                     type: "text",
@@ -67,7 +71,8 @@ var comp_u_3_27 = {
                   {
                     top: 133,
                     left: 250,
-                    width: 100,
+                    textTopOverride:2,
+                    width: 140,
                     height: 16,
                     font: 12,
                     type: "text",

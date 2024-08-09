@@ -15,9 +15,10 @@ var comp_u_3_29 = {
            
              
               {
-                top: 280,
+                top: 283,
                 left: 80,
-                width: 130,
+                width: 160,
+                textTopOverride:1,
                 height: 16,
                 font: 12,
                 type: "text",
@@ -27,8 +28,9 @@ var comp_u_3_29 = {
              
               {
                 top: 355,
-                left: 80,
-                width: 130,
+                left: 65,
+                textTopOverride:2,
+                width: 160,
                 height: 16,
                 font: 12,
                 type: "text",
@@ -37,9 +39,10 @@ var comp_u_3_29 = {
               },
               
               {
-                top: 435,
+                top: 437,
                 left: 120,
-                width: 150,
+                textTopOverride:2,
+                width: 180,
                 height: 16,
                 font: 12,
                 type: "text",

@@ -23,9 +23,10 @@ var comp_u_4_47 = {
                 paths: [ 
                     
                       {
-                        top: 95,
+                        top: 100,
                         left: 70,
-                        width: 100,
+                        textTopOverride:-1,
+                        width: 85,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -35,9 +36,10 @@ var comp_u_4_47 = {
                       
                     
                       {
-                        top: 120,
+                        top: 122,
                         left: 70,
-                        width: 100,
+                        width: 85,
+                        textTopOverride:-1,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -46,9 +48,10 @@ var comp_u_4_47 = {
                       },
                       
                       {
-                        top: 139,
-                        left: 55,
-                        width: 120,
+                        top: 143,
+                        left: 70,
+                        width: 85,
+                        textTopOverride:-1,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -57,9 +60,10 @@ var comp_u_4_47 = {
                       },
                       
                       {
-                        top: 160,
-                        left: 90,
-                        width: 50,
+                        top: 164,
+                        left: 70,
+                        width: 85,
+                        textTopOverride:-1,
                         height: 16,
                         font: 12,
                         type: "text",
@@ -67,20 +71,22 @@ var comp_u_4_47 = {
                         valid: true,
                       },
                       {
-                        top: 185,
+                        top: 188,
                         left: 70,
-                        width: 100,
+                        width: 85,
                         height: 16,
+                        textTopOverride:-1,
                         font: 12,
                         type: "text",
                         text: "There is ",
                         valid: true,
                       },
                       {
-                        top: 205,
+                        top: 209,
                         left: 70,
-                        width: 100,
+                        width: 85,
                         height: 16,
+                        textTopOverride:-1,
                         font: 12,
                         type: "text",
                         text: "There is ",
